@@ -1,0 +1,735 @@
+[2024-03-01T13:53:18.739-0500] {processor.py:157} INFO - Started process (PID=36968) to work on /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/S3_to_postgres.py
+[2024-03-01T13:53:18.743-0500] {processor.py:829} INFO - Processing file /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/S3_to_postgres.py for tasks to queue
+[2024-03-01T13:53:18.743-0500] {logging_mixin.py:154} INFO - [2024-03-01T13:53:18.743-0500] {dagbag.py:536} INFO - Filling up the DagBag from /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/S3_to_postgres.py
+[2024-03-01T13:53:19.970-0500] {processor.py:839} INFO - DAG(s) dict_keys(['s3_to_postgres']) retrieved from /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/S3_to_postgres.py
+[2024-03-01T13:53:20.046-0500] {logging_mixin.py:154} INFO - [2024-03-01T13:53:20.045-0500] {dag.py:2941} INFO - Sync 1 DAGs
+[2024-03-01T13:53:20.168-0500] {logging_mixin.py:154} INFO - [2024-03-01T13:53:20.168-0500] {dag.py:3722} INFO - Setting next_dagrun for s3_to_postgres to 2024-02-26T00:00:00+00:00, run_after=2024-02-26T00:00:00+00:00
+[2024-03-01T13:53:20.192-0500] {processor.py:179} INFO - Processing /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/S3_to_postgres.py took 1.456 seconds
+[2024-03-01T13:53:52.480-0500] {processor.py:157} INFO - Started process (PID=37174) to work on /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/S3_to_postgres.py
+[2024-03-01T13:53:52.485-0500] {processor.py:829} INFO - Processing file /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/S3_to_postgres.py for tasks to queue
+[2024-03-01T13:53:52.486-0500] {logging_mixin.py:154} INFO - [2024-03-01T13:53:52.485-0500] {dagbag.py:536} INFO - Filling up the DagBag from /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/S3_to_postgres.py
+[2024-03-01T13:53:53.197-0500] {processor.py:839} INFO - DAG(s) dict_keys(['s3_to_postgres']) retrieved from /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/S3_to_postgres.py
+[2024-03-01T13:53:53.333-0500] {logging_mixin.py:154} INFO - [2024-03-01T13:53:53.333-0500] {dag.py:2941} INFO - Sync 1 DAGs
+[2024-03-01T13:53:53.349-0500] {logging_mixin.py:154} INFO - [2024-03-01T13:53:53.349-0500] {dag.py:3722} INFO - Setting next_dagrun for s3_to_postgres to 2024-02-26T00:00:00+00:00, run_after=2024-02-26T00:00:00+00:00
+[2024-03-01T13:53:53.360-0500] {processor.py:179} INFO - Processing /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/S3_to_postgres.py took 0.884 seconds
+[2024-03-01T15:06:50.052-0500] {processor.py:157} INFO - Started process (PID=52528) to work on /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/S3_to_postgres.py
+[2024-03-01T15:06:50.060-0500] {processor.py:829} INFO - Processing file /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/S3_to_postgres.py for tasks to queue
+[2024-03-01T15:06:50.061-0500] {logging_mixin.py:154} INFO - [2024-03-01T15:06:50.060-0500] {dagbag.py:536} INFO - Filling up the DagBag from /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/S3_to_postgres.py
+[2024-03-01T15:06:52.112-0500] {processor.py:839} INFO - DAG(s) dict_keys(['s3_to_postgres']) retrieved from /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/S3_to_postgres.py
+[2024-03-01T15:06:52.242-0500] {logging_mixin.py:154} INFO - [2024-03-01T15:06:52.242-0500] {dag.py:2941} INFO - Sync 1 DAGs
+[2024-03-01T15:06:52.358-0500] {logging_mixin.py:154} INFO - [2024-03-01T15:06:52.357-0500] {dag.py:3722} INFO - Setting next_dagrun for s3_to_postgres to 2024-02-26T00:00:00+00:00, run_after=2024-02-26T00:00:00+00:00
+[2024-03-01T15:06:52.378-0500] {processor.py:179} INFO - Processing /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/S3_to_postgres.py took 2.333 seconds
+[2024-03-01T15:07:24.208-0500] {processor.py:157} INFO - Started process (PID=52752) to work on /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/S3_to_postgres.py
+[2024-03-01T15:07:24.212-0500] {processor.py:829} INFO - Processing file /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/S3_to_postgres.py for tasks to queue
+[2024-03-01T15:07:24.212-0500] {logging_mixin.py:154} INFO - [2024-03-01T15:07:24.212-0500] {dagbag.py:536} INFO - Filling up the DagBag from /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/S3_to_postgres.py
+[2024-03-01T15:07:25.381-0500] {processor.py:839} INFO - DAG(s) dict_keys(['s3_to_postgres']) retrieved from /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/S3_to_postgres.py
+[2024-03-01T15:07:25.702-0500] {logging_mixin.py:154} INFO - [2024-03-01T15:07:25.701-0500] {dag.py:2941} INFO - Sync 1 DAGs
+[2024-03-01T15:07:25.725-0500] {logging_mixin.py:154} INFO - [2024-03-01T15:07:25.725-0500] {dag.py:3722} INFO - Setting next_dagrun for s3_to_postgres to 2024-02-26T00:00:00+00:00, run_after=2024-02-26T00:00:00+00:00
+[2024-03-01T15:07:25.741-0500] {processor.py:179} INFO - Processing /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/S3_to_postgres.py took 1.535 seconds
+[2024-03-01T15:07:58.251-0500] {processor.py:157} INFO - Started process (PID=53081) to work on /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/S3_to_postgres.py
+[2024-03-01T15:07:58.257-0500] {processor.py:829} INFO - Processing file /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/S3_to_postgres.py for tasks to queue
+[2024-03-01T15:07:58.257-0500] {logging_mixin.py:154} INFO - [2024-03-01T15:07:58.257-0500] {dagbag.py:536} INFO - Filling up the DagBag from /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/S3_to_postgres.py
+[2024-03-01T15:07:59.558-0500] {processor.py:839} INFO - DAG(s) dict_keys(['s3_to_postgres']) retrieved from /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/S3_to_postgres.py
+[2024-03-01T15:07:59.817-0500] {logging_mixin.py:154} INFO - [2024-03-01T15:07:59.815-0500] {dag.py:2941} INFO - Sync 1 DAGs
+[2024-03-01T15:07:59.854-0500] {logging_mixin.py:154} INFO - [2024-03-01T15:07:59.854-0500] {dag.py:3722} INFO - Setting next_dagrun for s3_to_postgres to 2024-02-26T00:00:00+00:00, run_after=2024-02-26T00:00:00+00:00
+[2024-03-01T15:07:59.938-0500] {processor.py:179} INFO - Processing /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/S3_to_postgres.py took 1.691 seconds
+[2024-03-01T15:08:32.579-0500] {processor.py:157} INFO - Started process (PID=53302) to work on /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/S3_to_postgres.py
+[2024-03-01T15:08:32.583-0500] {processor.py:829} INFO - Processing file /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/S3_to_postgres.py for tasks to queue
+[2024-03-01T15:08:32.583-0500] {logging_mixin.py:154} INFO - [2024-03-01T15:08:32.583-0500] {dagbag.py:536} INFO - Filling up the DagBag from /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/S3_to_postgres.py
+[2024-03-01T15:08:33.739-0500] {processor.py:839} INFO - DAG(s) dict_keys(['s3_to_postgres']) retrieved from /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/S3_to_postgres.py
+[2024-03-01T15:08:34.112-0500] {logging_mixin.py:154} INFO - [2024-03-01T15:08:34.112-0500] {dag.py:2941} INFO - Sync 1 DAGs
+[2024-03-01T15:08:34.132-0500] {logging_mixin.py:154} INFO - [2024-03-01T15:08:34.131-0500] {dag.py:3722} INFO - Setting next_dagrun for s3_to_postgres to 2024-02-26T00:00:00+00:00, run_after=2024-02-26T00:00:00+00:00
+[2024-03-01T15:08:34.148-0500] {processor.py:179} INFO - Processing /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/S3_to_postgres.py took 1.571 seconds
+[2024-03-01T15:09:06.236-0500] {processor.py:157} INFO - Started process (PID=53540) to work on /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/S3_to_postgres.py
+[2024-03-01T15:09:06.241-0500] {processor.py:829} INFO - Processing file /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/S3_to_postgres.py for tasks to queue
+[2024-03-01T15:09:06.242-0500] {logging_mixin.py:154} INFO - [2024-03-01T15:09:06.241-0500] {dagbag.py:536} INFO - Filling up the DagBag from /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/S3_to_postgres.py
+[2024-03-01T15:09:07.711-0500] {processor.py:839} INFO - DAG(s) dict_keys(['s3_to_postgres']) retrieved from /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/S3_to_postgres.py
+[2024-03-01T15:09:08.037-0500] {logging_mixin.py:154} INFO - [2024-03-01T15:09:08.033-0500] {dag.py:2941} INFO - Sync 1 DAGs
+[2024-03-01T15:09:08.067-0500] {logging_mixin.py:154} INFO - [2024-03-01T15:09:08.067-0500] {dag.py:3722} INFO - Setting next_dagrun for s3_to_postgres to 2024-02-26T00:00:00+00:00, run_after=2024-02-26T00:00:00+00:00
+[2024-03-01T15:09:08.089-0500] {processor.py:179} INFO - Processing /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/S3_to_postgres.py took 1.857 seconds
+[2024-03-01T15:09:39.818-0500] {processor.py:157} INFO - Started process (PID=53852) to work on /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/S3_to_postgres.py
+[2024-03-01T15:09:39.822-0500] {processor.py:829} INFO - Processing file /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/S3_to_postgres.py for tasks to queue
+[2024-03-01T15:09:39.823-0500] {logging_mixin.py:154} INFO - [2024-03-01T15:09:39.823-0500] {dagbag.py:536} INFO - Filling up the DagBag from /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/S3_to_postgres.py
+[2024-03-01T15:09:40.971-0500] {processor.py:839} INFO - DAG(s) dict_keys(['s3_to_postgres']) retrieved from /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/S3_to_postgres.py
+[2024-03-01T15:09:41.333-0500] {logging_mixin.py:154} INFO - [2024-03-01T15:09:41.332-0500] {dag.py:2941} INFO - Sync 1 DAGs
+[2024-03-01T15:09:41.352-0500] {logging_mixin.py:154} INFO - [2024-03-01T15:09:41.352-0500] {dag.py:3722} INFO - Setting next_dagrun for s3_to_postgres to 2024-02-26T00:00:00+00:00, run_after=2024-02-26T00:00:00+00:00
+[2024-03-01T15:09:41.370-0500] {processor.py:179} INFO - Processing /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/S3_to_postgres.py took 1.555 seconds
+[2024-03-01T15:10:14.104-0500] {processor.py:157} INFO - Started process (PID=54019) to work on /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/S3_to_postgres.py
+[2024-03-01T15:10:14.108-0500] {processor.py:829} INFO - Processing file /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/S3_to_postgres.py for tasks to queue
+[2024-03-01T15:10:14.109-0500] {logging_mixin.py:154} INFO - [2024-03-01T15:10:14.109-0500] {dagbag.py:536} INFO - Filling up the DagBag from /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/S3_to_postgres.py
+[2024-03-01T15:10:15.357-0500] {processor.py:839} INFO - DAG(s) dict_keys(['s3_to_postgres']) retrieved from /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/S3_to_postgres.py
+[2024-03-01T15:10:15.596-0500] {logging_mixin.py:154} INFO - [2024-03-01T15:10:15.596-0500] {dag.py:2941} INFO - Sync 1 DAGs
+[2024-03-01T15:10:15.617-0500] {logging_mixin.py:154} INFO - [2024-03-01T15:10:15.617-0500] {dag.py:3722} INFO - Setting next_dagrun for s3_to_postgres to 2024-02-26T00:00:00+00:00, run_after=2024-02-26T00:00:00+00:00
+[2024-03-01T15:10:15.634-0500] {processor.py:179} INFO - Processing /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/S3_to_postgres.py took 1.534 seconds
+[2024-03-01T15:10:47.980-0500] {processor.py:157} INFO - Started process (PID=54197) to work on /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/S3_to_postgres.py
+[2024-03-01T15:10:47.989-0500] {processor.py:829} INFO - Processing file /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/S3_to_postgres.py for tasks to queue
+[2024-03-01T15:10:47.990-0500] {logging_mixin.py:154} INFO - [2024-03-01T15:10:47.989-0500] {dagbag.py:536} INFO - Filling up the DagBag from /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/S3_to_postgres.py
+[2024-03-01T15:10:49.052-0500] {processor.py:839} INFO - DAG(s) dict_keys(['s3_to_postgres']) retrieved from /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/S3_to_postgres.py
+[2024-03-01T15:10:49.279-0500] {logging_mixin.py:154} INFO - [2024-03-01T15:10:49.279-0500] {dag.py:2941} INFO - Sync 1 DAGs
+[2024-03-01T15:10:49.301-0500] {logging_mixin.py:154} INFO - [2024-03-01T15:10:49.301-0500] {dag.py:3722} INFO - Setting next_dagrun for s3_to_postgres to 2024-02-26T00:00:00+00:00, run_after=2024-02-26T00:00:00+00:00
+[2024-03-01T15:10:49.320-0500] {processor.py:179} INFO - Processing /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/S3_to_postgres.py took 1.344 seconds
+[2024-03-01T15:11:21.465-0500] {processor.py:157} INFO - Started process (PID=54377) to work on /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/S3_to_postgres.py
+[2024-03-01T15:11:21.473-0500] {processor.py:829} INFO - Processing file /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/S3_to_postgres.py for tasks to queue
+[2024-03-01T15:11:21.474-0500] {logging_mixin.py:154} INFO - [2024-03-01T15:11:21.474-0500] {dagbag.py:536} INFO - Filling up the DagBag from /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/S3_to_postgres.py
+[2024-03-01T15:11:22.908-0500] {processor.py:839} INFO - DAG(s) dict_keys(['s3_to_postgres']) retrieved from /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/S3_to_postgres.py
+[2024-03-01T15:11:23.165-0500] {logging_mixin.py:154} INFO - [2024-03-01T15:11:23.165-0500] {dag.py:2941} INFO - Sync 1 DAGs
+[2024-03-01T15:11:23.191-0500] {logging_mixin.py:154} INFO - [2024-03-01T15:11:23.191-0500] {dag.py:3722} INFO - Setting next_dagrun for s3_to_postgres to 2024-02-26T00:00:00+00:00, run_after=2024-02-26T00:00:00+00:00
+[2024-03-01T15:11:23.211-0500] {processor.py:179} INFO - Processing /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/S3_to_postgres.py took 1.749 seconds
+[2024-03-01T15:11:54.933-0500] {processor.py:157} INFO - Started process (PID=54511) to work on /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/S3_to_postgres.py
+[2024-03-01T15:11:54.938-0500] {processor.py:829} INFO - Processing file /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/S3_to_postgres.py for tasks to queue
+[2024-03-01T15:11:54.938-0500] {logging_mixin.py:154} INFO - [2024-03-01T15:11:54.938-0500] {dagbag.py:536} INFO - Filling up the DagBag from /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/S3_to_postgres.py
+[2024-03-01T15:11:56.017-0500] {processor.py:839} INFO - DAG(s) dict_keys(['s3_to_postgres']) retrieved from /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/S3_to_postgres.py
+[2024-03-01T15:11:56.238-0500] {logging_mixin.py:154} INFO - [2024-03-01T15:11:56.238-0500] {dag.py:2941} INFO - Sync 1 DAGs
+[2024-03-01T15:11:56.260-0500] {logging_mixin.py:154} INFO - [2024-03-01T15:11:56.259-0500] {dag.py:3722} INFO - Setting next_dagrun for s3_to_postgres to 2024-02-26T00:00:00+00:00, run_after=2024-02-26T00:00:00+00:00
+[2024-03-01T15:11:56.276-0500] {processor.py:179} INFO - Processing /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/S3_to_postgres.py took 1.345 seconds
+[2024-03-01T15:12:27.669-0500] {processor.py:157} INFO - Started process (PID=54629) to work on /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/S3_to_postgres.py
+[2024-03-01T15:12:27.672-0500] {processor.py:829} INFO - Processing file /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/S3_to_postgres.py for tasks to queue
+[2024-03-01T15:12:27.672-0500] {logging_mixin.py:154} INFO - [2024-03-01T15:12:27.672-0500] {dagbag.py:536} INFO - Filling up the DagBag from /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/S3_to_postgres.py
+[2024-03-01T15:12:28.513-0500] {processor.py:839} INFO - DAG(s) dict_keys(['s3_to_postgres']) retrieved from /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/S3_to_postgres.py
+[2024-03-01T15:12:28.690-0500] {logging_mixin.py:154} INFO - [2024-03-01T15:12:28.690-0500] {dag.py:2941} INFO - Sync 1 DAGs
+[2024-03-01T15:12:28.707-0500] {logging_mixin.py:154} INFO - [2024-03-01T15:12:28.706-0500] {dag.py:3722} INFO - Setting next_dagrun for s3_to_postgres to 2024-02-26T00:00:00+00:00, run_after=2024-02-26T00:00:00+00:00
+[2024-03-01T15:12:28.722-0500] {processor.py:179} INFO - Processing /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/S3_to_postgres.py took 1.055 seconds
+[2024-03-01T15:13:00.380-0500] {processor.py:157} INFO - Started process (PID=54762) to work on /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/S3_to_postgres.py
+[2024-03-01T15:13:00.383-0500] {processor.py:829} INFO - Processing file /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/S3_to_postgres.py for tasks to queue
+[2024-03-01T15:13:00.384-0500] {logging_mixin.py:154} INFO - [2024-03-01T15:13:00.383-0500] {dagbag.py:536} INFO - Filling up the DagBag from /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/S3_to_postgres.py
+[2024-03-01T15:13:01.244-0500] {processor.py:839} INFO - DAG(s) dict_keys(['s3_to_postgres']) retrieved from /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/S3_to_postgres.py
+[2024-03-01T15:13:01.447-0500] {logging_mixin.py:154} INFO - [2024-03-01T15:13:01.446-0500] {dag.py:2941} INFO - Sync 1 DAGs
+[2024-03-01T15:13:01.460-0500] {logging_mixin.py:154} INFO - [2024-03-01T15:13:01.460-0500] {dag.py:3722} INFO - Setting next_dagrun for s3_to_postgres to 2024-02-26T00:00:00+00:00, run_after=2024-02-26T00:00:00+00:00
+[2024-03-01T15:13:01.471-0500] {processor.py:179} INFO - Processing /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/S3_to_postgres.py took 1.093 seconds
+[2024-03-01T15:13:33.389-0500] {processor.py:157} INFO - Started process (PID=54884) to work on /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/S3_to_postgres.py
+[2024-03-01T15:13:33.391-0500] {processor.py:829} INFO - Processing file /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/S3_to_postgres.py for tasks to queue
+[2024-03-01T15:13:33.392-0500] {logging_mixin.py:154} INFO - [2024-03-01T15:13:33.392-0500] {dagbag.py:536} INFO - Filling up the DagBag from /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/S3_to_postgres.py
+[2024-03-01T15:13:34.276-0500] {processor.py:839} INFO - DAG(s) dict_keys(['s3_to_postgres']) retrieved from /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/S3_to_postgres.py
+[2024-03-01T15:13:34.457-0500] {logging_mixin.py:154} INFO - [2024-03-01T15:13:34.457-0500] {dag.py:2941} INFO - Sync 1 DAGs
+[2024-03-01T15:13:34.476-0500] {logging_mixin.py:154} INFO - [2024-03-01T15:13:34.476-0500] {dag.py:3722} INFO - Setting next_dagrun for s3_to_postgres to 2024-02-26T00:00:00+00:00, run_after=2024-02-26T00:00:00+00:00
+[2024-03-01T15:13:34.488-0500] {processor.py:179} INFO - Processing /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/S3_to_postgres.py took 1.102 seconds
+[2024-03-01T15:14:05.853-0500] {processor.py:157} INFO - Started process (PID=55006) to work on /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/S3_to_postgres.py
+[2024-03-01T15:14:05.857-0500] {processor.py:829} INFO - Processing file /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/S3_to_postgres.py for tasks to queue
+[2024-03-01T15:14:05.857-0500] {logging_mixin.py:154} INFO - [2024-03-01T15:14:05.857-0500] {dagbag.py:536} INFO - Filling up the DagBag from /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/S3_to_postgres.py
+[2024-03-01T15:14:06.569-0500] {processor.py:839} INFO - DAG(s) dict_keys(['s3_to_postgres']) retrieved from /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/S3_to_postgres.py
+[2024-03-01T15:14:06.728-0500] {logging_mixin.py:154} INFO - [2024-03-01T15:14:06.728-0500] {dag.py:2941} INFO - Sync 1 DAGs
+[2024-03-01T15:14:06.746-0500] {logging_mixin.py:154} INFO - [2024-03-01T15:14:06.746-0500] {dag.py:3722} INFO - Setting next_dagrun for s3_to_postgres to 2024-02-26T00:00:00+00:00, run_after=2024-02-26T00:00:00+00:00
+[2024-03-01T15:14:06.758-0500] {processor.py:179} INFO - Processing /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/S3_to_postgres.py took 0.906 seconds
+[2024-03-01T15:14:38.022-0500] {processor.py:157} INFO - Started process (PID=55119) to work on /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/S3_to_postgres.py
+[2024-03-01T15:14:38.025-0500] {processor.py:829} INFO - Processing file /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/S3_to_postgres.py for tasks to queue
+[2024-03-01T15:14:38.025-0500] {logging_mixin.py:154} INFO - [2024-03-01T15:14:38.025-0500] {dagbag.py:536} INFO - Filling up the DagBag from /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/S3_to_postgres.py
+[2024-03-01T15:14:38.703-0500] {processor.py:839} INFO - DAG(s) dict_keys(['s3_to_postgres']) retrieved from /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/S3_to_postgres.py
+[2024-03-01T15:14:38.858-0500] {logging_mixin.py:154} INFO - [2024-03-01T15:14:38.858-0500] {dag.py:2941} INFO - Sync 1 DAGs
+[2024-03-01T15:14:38.870-0500] {logging_mixin.py:154} INFO - [2024-03-01T15:14:38.870-0500] {dag.py:3722} INFO - Setting next_dagrun for s3_to_postgres to 2024-02-26T00:00:00+00:00, run_after=2024-02-26T00:00:00+00:00
+[2024-03-01T15:14:38.879-0500] {processor.py:179} INFO - Processing /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/S3_to_postgres.py took 0.860 seconds
+[2024-03-01T15:15:10.158-0500] {processor.py:157} INFO - Started process (PID=55235) to work on /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/S3_to_postgres.py
+[2024-03-01T15:15:10.163-0500] {processor.py:829} INFO - Processing file /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/S3_to_postgres.py for tasks to queue
+[2024-03-01T15:15:10.163-0500] {logging_mixin.py:154} INFO - [2024-03-01T15:15:10.163-0500] {dagbag.py:536} INFO - Filling up the DagBag from /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/S3_to_postgres.py
+[2024-03-01T15:15:10.880-0500] {processor.py:839} INFO - DAG(s) dict_keys(['s3_to_postgres']) retrieved from /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/S3_to_postgres.py
+[2024-03-01T15:15:11.035-0500] {logging_mixin.py:154} INFO - [2024-03-01T15:15:11.035-0500] {dag.py:2941} INFO - Sync 1 DAGs
+[2024-03-01T15:15:11.051-0500] {logging_mixin.py:154} INFO - [2024-03-01T15:15:11.051-0500] {dag.py:3722} INFO - Setting next_dagrun for s3_to_postgres to 2024-02-26T00:00:00+00:00, run_after=2024-02-26T00:00:00+00:00
+[2024-03-01T15:15:11.063-0500] {processor.py:179} INFO - Processing /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/S3_to_postgres.py took 0.906 seconds
+[2024-03-01T15:15:42.296-0500] {processor.py:157} INFO - Started process (PID=55346) to work on /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/S3_to_postgres.py
+[2024-03-01T15:15:42.299-0500] {processor.py:829} INFO - Processing file /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/S3_to_postgres.py for tasks to queue
+[2024-03-01T15:15:42.299-0500] {logging_mixin.py:154} INFO - [2024-03-01T15:15:42.299-0500] {dagbag.py:536} INFO - Filling up the DagBag from /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/S3_to_postgres.py
+[2024-03-01T15:15:43.073-0500] {processor.py:839} INFO - DAG(s) dict_keys(['s3_to_postgres']) retrieved from /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/S3_to_postgres.py
+[2024-03-01T15:15:43.231-0500] {logging_mixin.py:154} INFO - [2024-03-01T15:15:43.231-0500] {dag.py:2941} INFO - Sync 1 DAGs
+[2024-03-01T15:15:43.247-0500] {logging_mixin.py:154} INFO - [2024-03-01T15:15:43.247-0500] {dag.py:3722} INFO - Setting next_dagrun for s3_to_postgres to 2024-02-26T00:00:00+00:00, run_after=2024-02-26T00:00:00+00:00
+[2024-03-01T15:15:43.257-0500] {processor.py:179} INFO - Processing /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/S3_to_postgres.py took 0.964 seconds
+[2024-03-01T15:16:14.970-0500] {processor.py:157} INFO - Started process (PID=55454) to work on /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/S3_to_postgres.py
+[2024-03-01T15:16:14.973-0500] {processor.py:829} INFO - Processing file /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/S3_to_postgres.py for tasks to queue
+[2024-03-01T15:16:14.974-0500] {logging_mixin.py:154} INFO - [2024-03-01T15:16:14.974-0500] {dagbag.py:536} INFO - Filling up the DagBag from /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/S3_to_postgres.py
+[2024-03-01T15:16:16.114-0500] {processor.py:839} INFO - DAG(s) dict_keys(['s3_to_postgres']) retrieved from /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/S3_to_postgres.py
+[2024-03-01T15:16:16.331-0500] {logging_mixin.py:154} INFO - [2024-03-01T15:16:16.331-0500] {dag.py:2941} INFO - Sync 1 DAGs
+[2024-03-01T15:16:16.350-0500] {logging_mixin.py:154} INFO - [2024-03-01T15:16:16.349-0500] {dag.py:3722} INFO - Setting next_dagrun for s3_to_postgres to 2024-02-26T00:00:00+00:00, run_after=2024-02-26T00:00:00+00:00
+[2024-03-01T15:16:16.363-0500] {processor.py:179} INFO - Processing /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/S3_to_postgres.py took 1.395 seconds
+[2024-03-01T15:16:47.979-0500] {processor.py:157} INFO - Started process (PID=55581) to work on /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/S3_to_postgres.py
+[2024-03-01T15:16:47.983-0500] {processor.py:829} INFO - Processing file /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/S3_to_postgres.py for tasks to queue
+[2024-03-01T15:16:47.983-0500] {logging_mixin.py:154} INFO - [2024-03-01T15:16:47.983-0500] {dagbag.py:536} INFO - Filling up the DagBag from /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/S3_to_postgres.py
+[2024-03-01T15:16:48.707-0500] {processor.py:839} INFO - DAG(s) dict_keys(['s3_to_postgres']) retrieved from /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/S3_to_postgres.py
+[2024-03-01T15:16:48.863-0500] {logging_mixin.py:154} INFO - [2024-03-01T15:16:48.862-0500] {dag.py:2941} INFO - Sync 1 DAGs
+[2024-03-01T15:16:48.877-0500] {logging_mixin.py:154} INFO - [2024-03-01T15:16:48.877-0500] {dag.py:3722} INFO - Setting next_dagrun for s3_to_postgres to 2024-02-26T00:00:00+00:00, run_after=2024-02-26T00:00:00+00:00
+[2024-03-01T15:16:48.888-0500] {processor.py:179} INFO - Processing /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/S3_to_postgres.py took 0.911 seconds
+[2024-03-01T15:17:20.168-0500] {processor.py:157} INFO - Started process (PID=55694) to work on /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/S3_to_postgres.py
+[2024-03-01T15:17:20.172-0500] {processor.py:829} INFO - Processing file /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/S3_to_postgres.py for tasks to queue
+[2024-03-01T15:17:20.172-0500] {logging_mixin.py:154} INFO - [2024-03-01T15:17:20.172-0500] {dagbag.py:536} INFO - Filling up the DagBag from /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/S3_to_postgres.py
+[2024-03-01T15:17:20.899-0500] {processor.py:839} INFO - DAG(s) dict_keys(['s3_to_postgres']) retrieved from /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/S3_to_postgres.py
+[2024-03-01T15:17:21.055-0500] {logging_mixin.py:154} INFO - [2024-03-01T15:17:21.055-0500] {dag.py:2941} INFO - Sync 1 DAGs
+[2024-03-01T15:17:21.072-0500] {logging_mixin.py:154} INFO - [2024-03-01T15:17:21.072-0500] {dag.py:3722} INFO - Setting next_dagrun for s3_to_postgres to 2024-02-26T00:00:00+00:00, run_after=2024-02-26T00:00:00+00:00
+[2024-03-01T15:17:21.083-0500] {processor.py:179} INFO - Processing /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/S3_to_postgres.py took 0.917 seconds
+[2024-03-01T15:17:52.352-0500] {processor.py:157} INFO - Started process (PID=55823) to work on /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/S3_to_postgres.py
+[2024-03-01T15:17:52.355-0500] {processor.py:829} INFO - Processing file /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/S3_to_postgres.py for tasks to queue
+[2024-03-01T15:17:52.355-0500] {logging_mixin.py:154} INFO - [2024-03-01T15:17:52.355-0500] {dagbag.py:536} INFO - Filling up the DagBag from /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/S3_to_postgres.py
+[2024-03-01T15:17:53.214-0500] {processor.py:839} INFO - DAG(s) dict_keys(['s3_to_postgres']) retrieved from /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/S3_to_postgres.py
+[2024-03-01T15:17:53.381-0500] {logging_mixin.py:154} INFO - [2024-03-01T15:17:53.381-0500] {dag.py:2941} INFO - Sync 1 DAGs
+[2024-03-01T15:17:53.397-0500] {logging_mixin.py:154} INFO - [2024-03-01T15:17:53.397-0500] {dag.py:3722} INFO - Setting next_dagrun for s3_to_postgres to 2024-02-26T00:00:00+00:00, run_after=2024-02-26T00:00:00+00:00
+[2024-03-01T15:17:53.407-0500] {processor.py:179} INFO - Processing /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/S3_to_postgres.py took 1.058 seconds
+[2024-03-01T15:18:24.605-0500] {processor.py:157} INFO - Started process (PID=55932) to work on /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/S3_to_postgres.py
+[2024-03-01T15:18:24.608-0500] {processor.py:829} INFO - Processing file /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/S3_to_postgres.py for tasks to queue
+[2024-03-01T15:18:24.608-0500] {logging_mixin.py:154} INFO - [2024-03-01T15:18:24.608-0500] {dagbag.py:536} INFO - Filling up the DagBag from /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/S3_to_postgres.py
+[2024-03-01T15:18:25.280-0500] {processor.py:839} INFO - DAG(s) dict_keys(['s3_to_postgres']) retrieved from /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/S3_to_postgres.py
+[2024-03-01T15:18:25.440-0500] {logging_mixin.py:154} INFO - [2024-03-01T15:18:25.439-0500] {dag.py:2941} INFO - Sync 1 DAGs
+[2024-03-01T15:18:25.455-0500] {logging_mixin.py:154} INFO - [2024-03-01T15:18:25.455-0500] {dag.py:3722} INFO - Setting next_dagrun for s3_to_postgres to 2024-02-26T00:00:00+00:00, run_after=2024-02-26T00:00:00+00:00
+[2024-03-01T15:18:25.467-0500] {processor.py:179} INFO - Processing /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/S3_to_postgres.py took 0.864 seconds
+[2024-03-01T15:18:56.729-0500] {processor.py:157} INFO - Started process (PID=56045) to work on /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/S3_to_postgres.py
+[2024-03-01T15:18:56.733-0500] {processor.py:829} INFO - Processing file /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/S3_to_postgres.py for tasks to queue
+[2024-03-01T15:18:56.733-0500] {logging_mixin.py:154} INFO - [2024-03-01T15:18:56.733-0500] {dagbag.py:536} INFO - Filling up the DagBag from /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/S3_to_postgres.py
+[2024-03-01T15:18:57.423-0500] {processor.py:839} INFO - DAG(s) dict_keys(['s3_to_postgres']) retrieved from /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/S3_to_postgres.py
+[2024-03-01T15:18:57.574-0500] {logging_mixin.py:154} INFO - [2024-03-01T15:18:57.574-0500] {dag.py:2941} INFO - Sync 1 DAGs
+[2024-03-01T15:18:57.589-0500] {logging_mixin.py:154} INFO - [2024-03-01T15:18:57.589-0500] {dag.py:3722} INFO - Setting next_dagrun for s3_to_postgres to 2024-02-26T00:00:00+00:00, run_after=2024-02-26T00:00:00+00:00
+[2024-03-01T15:18:57.600-0500] {processor.py:179} INFO - Processing /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/S3_to_postgres.py took 0.872 seconds
+[2024-03-01T15:19:28.870-0500] {processor.py:157} INFO - Started process (PID=56165) to work on /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/S3_to_postgres.py
+[2024-03-01T15:19:28.873-0500] {processor.py:829} INFO - Processing file /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/S3_to_postgres.py for tasks to queue
+[2024-03-01T15:19:28.874-0500] {logging_mixin.py:154} INFO - [2024-03-01T15:19:28.874-0500] {dagbag.py:536} INFO - Filling up the DagBag from /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/S3_to_postgres.py
+[2024-03-01T15:19:29.612-0500] {processor.py:839} INFO - DAG(s) dict_keys(['s3_to_postgres']) retrieved from /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/S3_to_postgres.py
+[2024-03-01T15:19:29.759-0500] {logging_mixin.py:154} INFO - [2024-03-01T15:19:29.758-0500] {dag.py:2941} INFO - Sync 1 DAGs
+[2024-03-01T15:19:29.775-0500] {logging_mixin.py:154} INFO - [2024-03-01T15:19:29.775-0500] {dag.py:3722} INFO - Setting next_dagrun for s3_to_postgres to 2024-02-26T00:00:00+00:00, run_after=2024-02-26T00:00:00+00:00
+[2024-03-01T15:19:29.785-0500] {processor.py:179} INFO - Processing /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/S3_to_postgres.py took 0.917 seconds
+[2024-03-01T15:20:01.030-0500] {processor.py:157} INFO - Started process (PID=56276) to work on /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/S3_to_postgres.py
+[2024-03-01T15:20:01.033-0500] {processor.py:829} INFO - Processing file /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/S3_to_postgres.py for tasks to queue
+[2024-03-01T15:20:01.034-0500] {logging_mixin.py:154} INFO - [2024-03-01T15:20:01.033-0500] {dagbag.py:536} INFO - Filling up the DagBag from /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/S3_to_postgres.py
+[2024-03-01T15:20:01.696-0500] {processor.py:839} INFO - DAG(s) dict_keys(['s3_to_postgres']) retrieved from /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/S3_to_postgres.py
+[2024-03-01T15:20:01.851-0500] {logging_mixin.py:154} INFO - [2024-03-01T15:20:01.851-0500] {dag.py:2941} INFO - Sync 1 DAGs
+[2024-03-01T15:20:01.867-0500] {logging_mixin.py:154} INFO - [2024-03-01T15:20:01.867-0500] {dag.py:3722} INFO - Setting next_dagrun for s3_to_postgres to 2024-02-26T00:00:00+00:00, run_after=2024-02-26T00:00:00+00:00
+[2024-03-01T15:20:01.878-0500] {processor.py:179} INFO - Processing /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/S3_to_postgres.py took 0.850 seconds
+[2024-03-01T15:20:33.142-0500] {processor.py:157} INFO - Started process (PID=56387) to work on /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/S3_to_postgres.py
+[2024-03-01T15:20:33.145-0500] {processor.py:829} INFO - Processing file /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/S3_to_postgres.py for tasks to queue
+[2024-03-01T15:20:33.145-0500] {logging_mixin.py:154} INFO - [2024-03-01T15:20:33.145-0500] {dagbag.py:536} INFO - Filling up the DagBag from /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/S3_to_postgres.py
+[2024-03-01T15:20:33.752-0500] {processor.py:839} INFO - DAG(s) dict_keys(['s3_to_postgres']) retrieved from /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/S3_to_postgres.py
+[2024-03-01T15:20:33.914-0500] {logging_mixin.py:154} INFO - [2024-03-01T15:20:33.913-0500] {dag.py:2941} INFO - Sync 1 DAGs
+[2024-03-01T15:20:33.927-0500] {logging_mixin.py:154} INFO - [2024-03-01T15:20:33.927-0500] {dag.py:3722} INFO - Setting next_dagrun for s3_to_postgres to 2024-02-26T00:00:00+00:00, run_after=2024-02-26T00:00:00+00:00
+[2024-03-01T15:20:33.938-0500] {processor.py:179} INFO - Processing /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/S3_to_postgres.py took 0.798 seconds
+[2024-03-01T15:21:05.204-0500] {processor.py:157} INFO - Started process (PID=56495) to work on /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/S3_to_postgres.py
+[2024-03-01T15:21:05.208-0500] {processor.py:829} INFO - Processing file /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/S3_to_postgres.py for tasks to queue
+[2024-03-01T15:21:05.208-0500] {logging_mixin.py:154} INFO - [2024-03-01T15:21:05.208-0500] {dagbag.py:536} INFO - Filling up the DagBag from /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/S3_to_postgres.py
+[2024-03-01T15:21:05.949-0500] {processor.py:839} INFO - DAG(s) dict_keys(['s3_to_postgres']) retrieved from /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/S3_to_postgres.py
+[2024-03-01T15:21:06.085-0500] {logging_mixin.py:154} INFO - [2024-03-01T15:21:06.085-0500] {dag.py:2941} INFO - Sync 1 DAGs
+[2024-03-01T15:21:06.101-0500] {logging_mixin.py:154} INFO - [2024-03-01T15:21:06.101-0500] {dag.py:3722} INFO - Setting next_dagrun for s3_to_postgres to 2024-02-26T00:00:00+00:00, run_after=2024-02-26T00:00:00+00:00
+[2024-03-01T15:21:06.111-0500] {processor.py:179} INFO - Processing /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/S3_to_postgres.py took 0.909 seconds
+[2024-03-01T15:21:37.326-0500] {processor.py:157} INFO - Started process (PID=56615) to work on /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/S3_to_postgres.py
+[2024-03-01T15:21:37.329-0500] {processor.py:829} INFO - Processing file /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/S3_to_postgres.py for tasks to queue
+[2024-03-01T15:21:37.329-0500] {logging_mixin.py:154} INFO - [2024-03-01T15:21:37.329-0500] {dagbag.py:536} INFO - Filling up the DagBag from /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/S3_to_postgres.py
+[2024-03-01T15:21:38.078-0500] {processor.py:839} INFO - DAG(s) dict_keys(['s3_to_postgres']) retrieved from /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/S3_to_postgres.py
+[2024-03-01T15:21:38.224-0500] {logging_mixin.py:154} INFO - [2024-03-01T15:21:38.224-0500] {dag.py:2941} INFO - Sync 1 DAGs
+[2024-03-01T15:21:38.239-0500] {logging_mixin.py:154} INFO - [2024-03-01T15:21:38.239-0500] {dag.py:3722} INFO - Setting next_dagrun for s3_to_postgres to 2024-02-26T00:00:00+00:00, run_after=2024-02-26T00:00:00+00:00
+[2024-03-01T15:21:38.258-0500] {processor.py:179} INFO - Processing /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/S3_to_postgres.py took 0.935 seconds
+[2024-03-01T15:22:09.574-0500] {processor.py:157} INFO - Started process (PID=56736) to work on /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/S3_to_postgres.py
+[2024-03-01T15:22:09.579-0500] {processor.py:829} INFO - Processing file /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/S3_to_postgres.py for tasks to queue
+[2024-03-01T15:22:09.579-0500] {logging_mixin.py:154} INFO - [2024-03-01T15:22:09.579-0500] {dagbag.py:536} INFO - Filling up the DagBag from /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/S3_to_postgres.py
+[2024-03-01T15:22:10.274-0500] {processor.py:839} INFO - DAG(s) dict_keys(['s3_to_postgres']) retrieved from /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/S3_to_postgres.py
+[2024-03-01T15:22:10.436-0500] {logging_mixin.py:154} INFO - [2024-03-01T15:22:10.436-0500] {dag.py:2941} INFO - Sync 1 DAGs
+[2024-03-01T15:22:10.453-0500] {logging_mixin.py:154} INFO - [2024-03-01T15:22:10.452-0500] {dag.py:3722} INFO - Setting next_dagrun for s3_to_postgres to 2024-02-26T00:00:00+00:00, run_after=2024-02-26T00:00:00+00:00
+[2024-03-01T15:22:10.465-0500] {processor.py:179} INFO - Processing /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/S3_to_postgres.py took 0.893 seconds
+[2024-03-01T15:22:41.670-0500] {processor.py:157} INFO - Started process (PID=56842) to work on /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/S3_to_postgres.py
+[2024-03-01T15:22:41.673-0500] {processor.py:829} INFO - Processing file /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/S3_to_postgres.py for tasks to queue
+[2024-03-01T15:22:41.673-0500] {logging_mixin.py:154} INFO - [2024-03-01T15:22:41.673-0500] {dagbag.py:536} INFO - Filling up the DagBag from /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/S3_to_postgres.py
+[2024-03-01T15:22:42.326-0500] {processor.py:839} INFO - DAG(s) dict_keys(['s3_to_postgres']) retrieved from /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/S3_to_postgres.py
+[2024-03-01T15:22:42.472-0500] {logging_mixin.py:154} INFO - [2024-03-01T15:22:42.472-0500] {dag.py:2941} INFO - Sync 1 DAGs
+[2024-03-01T15:22:42.488-0500] {logging_mixin.py:154} INFO - [2024-03-01T15:22:42.488-0500] {dag.py:3722} INFO - Setting next_dagrun for s3_to_postgres to 2024-02-26T00:00:00+00:00, run_after=2024-02-26T00:00:00+00:00
+[2024-03-01T15:22:42.499-0500] {processor.py:179} INFO - Processing /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/S3_to_postgres.py took 0.831 seconds
+[2024-03-01T15:23:13.889-0500] {processor.py:157} INFO - Started process (PID=56962) to work on /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/S3_to_postgres.py
+[2024-03-01T15:23:13.892-0500] {processor.py:829} INFO - Processing file /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/S3_to_postgres.py for tasks to queue
+[2024-03-01T15:23:13.892-0500] {logging_mixin.py:154} INFO - [2024-03-01T15:23:13.892-0500] {dagbag.py:536} INFO - Filling up the DagBag from /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/S3_to_postgres.py
+[2024-03-01T15:23:14.635-0500] {processor.py:839} INFO - DAG(s) dict_keys(['s3_to_postgres']) retrieved from /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/S3_to_postgres.py
+[2024-03-01T15:23:14.799-0500] {logging_mixin.py:154} INFO - [2024-03-01T15:23:14.798-0500] {dag.py:2941} INFO - Sync 1 DAGs
+[2024-03-01T15:23:14.815-0500] {logging_mixin.py:154} INFO - [2024-03-01T15:23:14.815-0500] {dag.py:3722} INFO - Setting next_dagrun for s3_to_postgres to 2024-02-26T00:00:00+00:00, run_after=2024-02-26T00:00:00+00:00
+[2024-03-01T15:23:14.826-0500] {processor.py:179} INFO - Processing /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/S3_to_postgres.py took 0.940 seconds
+[2024-03-01T15:23:46.302-0500] {processor.py:157} INFO - Started process (PID=57093) to work on /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/S3_to_postgres.py
+[2024-03-01T15:23:46.304-0500] {processor.py:829} INFO - Processing file /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/S3_to_postgres.py for tasks to queue
+[2024-03-01T15:23:46.304-0500] {logging_mixin.py:154} INFO - [2024-03-01T15:23:46.304-0500] {dagbag.py:536} INFO - Filling up the DagBag from /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/S3_to_postgres.py
+[2024-03-01T15:23:47.081-0500] {processor.py:839} INFO - DAG(s) dict_keys(['s3_to_postgres']) retrieved from /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/S3_to_postgres.py
+[2024-03-01T15:23:47.243-0500] {logging_mixin.py:154} INFO - [2024-03-01T15:23:47.243-0500] {dag.py:2941} INFO - Sync 1 DAGs
+[2024-03-01T15:23:47.260-0500] {logging_mixin.py:154} INFO - [2024-03-01T15:23:47.260-0500] {dag.py:3722} INFO - Setting next_dagrun for s3_to_postgres to 2024-02-26T00:00:00+00:00, run_after=2024-02-26T00:00:00+00:00
+[2024-03-01T15:23:47.271-0500] {processor.py:179} INFO - Processing /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/S3_to_postgres.py took 0.971 seconds
+[2024-03-01T15:24:18.400-0500] {processor.py:157} INFO - Started process (PID=57211) to work on /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/S3_to_postgres.py
+[2024-03-01T15:24:18.403-0500] {processor.py:829} INFO - Processing file /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/S3_to_postgres.py for tasks to queue
+[2024-03-01T15:24:18.403-0500] {logging_mixin.py:154} INFO - [2024-03-01T15:24:18.403-0500] {dagbag.py:536} INFO - Filling up the DagBag from /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/S3_to_postgres.py
+[2024-03-01T15:24:19.102-0500] {processor.py:839} INFO - DAG(s) dict_keys(['s3_to_postgres']) retrieved from /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/S3_to_postgres.py
+[2024-03-01T15:24:19.257-0500] {logging_mixin.py:154} INFO - [2024-03-01T15:24:19.257-0500] {dag.py:2941} INFO - Sync 1 DAGs
+[2024-03-01T15:24:19.272-0500] {logging_mixin.py:154} INFO - [2024-03-01T15:24:19.272-0500] {dag.py:3722} INFO - Setting next_dagrun for s3_to_postgres to 2024-02-26T00:00:00+00:00, run_after=2024-02-26T00:00:00+00:00
+[2024-03-01T15:24:19.284-0500] {processor.py:179} INFO - Processing /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/S3_to_postgres.py took 0.886 seconds
+[2024-03-01T15:24:50.487-0500] {processor.py:157} INFO - Started process (PID=57325) to work on /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/S3_to_postgres.py
+[2024-03-01T15:24:50.490-0500] {processor.py:829} INFO - Processing file /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/S3_to_postgres.py for tasks to queue
+[2024-03-01T15:24:50.490-0500] {logging_mixin.py:154} INFO - [2024-03-01T15:24:50.490-0500] {dagbag.py:536} INFO - Filling up the DagBag from /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/S3_to_postgres.py
+[2024-03-01T15:24:51.173-0500] {processor.py:839} INFO - DAG(s) dict_keys(['s3_to_postgres']) retrieved from /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/S3_to_postgres.py
+[2024-03-01T15:24:51.316-0500] {logging_mixin.py:154} INFO - [2024-03-01T15:24:51.316-0500] {dag.py:2941} INFO - Sync 1 DAGs
+[2024-03-01T15:24:51.332-0500] {logging_mixin.py:154} INFO - [2024-03-01T15:24:51.332-0500] {dag.py:3722} INFO - Setting next_dagrun for s3_to_postgres to 2024-02-26T00:00:00+00:00, run_after=2024-02-26T00:00:00+00:00
+[2024-03-01T15:24:51.342-0500] {processor.py:179} INFO - Processing /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/S3_to_postgres.py took 0.857 seconds
+[2024-03-01T15:25:22.481-0500] {processor.py:157} INFO - Started process (PID=57430) to work on /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/S3_to_postgres.py
+[2024-03-01T15:25:22.484-0500] {processor.py:829} INFO - Processing file /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/S3_to_postgres.py for tasks to queue
+[2024-03-01T15:25:22.485-0500] {logging_mixin.py:154} INFO - [2024-03-01T15:25:22.485-0500] {dagbag.py:536} INFO - Filling up the DagBag from /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/S3_to_postgres.py
+[2024-03-01T15:25:23.402-0500] {processor.py:839} INFO - DAG(s) dict_keys(['s3_to_postgres']) retrieved from /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/S3_to_postgres.py
+[2024-03-01T15:25:23.559-0500] {logging_mixin.py:154} INFO - [2024-03-01T15:25:23.558-0500] {dag.py:2941} INFO - Sync 1 DAGs
+[2024-03-01T15:25:23.577-0500] {logging_mixin.py:154} INFO - [2024-03-01T15:25:23.577-0500] {dag.py:3722} INFO - Setting next_dagrun for s3_to_postgres to 2024-02-26T00:00:00+00:00, run_after=2024-02-26T00:00:00+00:00
+[2024-03-01T15:25:23.590-0500] {processor.py:179} INFO - Processing /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/S3_to_postgres.py took 1.111 seconds
+[2024-03-01T15:25:55.131-0500] {processor.py:157} INFO - Started process (PID=57544) to work on /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/S3_to_postgres.py
+[2024-03-01T15:25:55.134-0500] {processor.py:829} INFO - Processing file /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/S3_to_postgres.py for tasks to queue
+[2024-03-01T15:25:55.134-0500] {logging_mixin.py:154} INFO - [2024-03-01T15:25:55.134-0500] {dagbag.py:536} INFO - Filling up the DagBag from /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/S3_to_postgres.py
+[2024-03-01T15:25:55.822-0500] {processor.py:839} INFO - DAG(s) dict_keys(['s3_to_postgres']) retrieved from /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/S3_to_postgres.py
+[2024-03-01T15:25:55.974-0500] {logging_mixin.py:154} INFO - [2024-03-01T15:25:55.974-0500] {dag.py:2941} INFO - Sync 1 DAGs
+[2024-03-01T15:25:55.989-0500] {logging_mixin.py:154} INFO - [2024-03-01T15:25:55.989-0500] {dag.py:3722} INFO - Setting next_dagrun for s3_to_postgres to 2024-02-26T00:00:00+00:00, run_after=2024-02-26T00:00:00+00:00
+[2024-03-01T15:25:56.000-0500] {processor.py:179} INFO - Processing /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/S3_to_postgres.py took 0.871 seconds
+[2024-03-01T15:26:27.189-0500] {processor.py:157} INFO - Started process (PID=57655) to work on /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/S3_to_postgres.py
+[2024-03-01T15:26:27.192-0500] {processor.py:829} INFO - Processing file /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/S3_to_postgres.py for tasks to queue
+[2024-03-01T15:26:27.192-0500] {logging_mixin.py:154} INFO - [2024-03-01T15:26:27.192-0500] {dagbag.py:536} INFO - Filling up the DagBag from /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/S3_to_postgres.py
+[2024-03-01T15:26:27.876-0500] {processor.py:839} INFO - DAG(s) dict_keys(['s3_to_postgres']) retrieved from /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/S3_to_postgres.py
+[2024-03-01T15:26:28.023-0500] {logging_mixin.py:154} INFO - [2024-03-01T15:26:28.023-0500] {dag.py:2941} INFO - Sync 1 DAGs
+[2024-03-01T15:26:28.036-0500] {logging_mixin.py:154} INFO - [2024-03-01T15:26:28.036-0500] {dag.py:3722} INFO - Setting next_dagrun for s3_to_postgres to 2024-02-26T00:00:00+00:00, run_after=2024-02-26T00:00:00+00:00
+[2024-03-01T15:26:28.046-0500] {processor.py:179} INFO - Processing /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/S3_to_postgres.py took 0.859 seconds
+[2024-03-01T15:26:59.082-0500] {processor.py:157} INFO - Started process (PID=57766) to work on /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/S3_to_postgres.py
+[2024-03-01T15:26:59.085-0500] {processor.py:829} INFO - Processing file /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/S3_to_postgres.py for tasks to queue
+[2024-03-01T15:26:59.086-0500] {logging_mixin.py:154} INFO - [2024-03-01T15:26:59.085-0500] {dagbag.py:536} INFO - Filling up the DagBag from /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/S3_to_postgres.py
+[2024-03-01T15:26:59.989-0500] {processor.py:839} INFO - DAG(s) dict_keys(['s3_to_postgres']) retrieved from /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/S3_to_postgres.py
+[2024-03-01T15:27:00.153-0500] {logging_mixin.py:154} INFO - [2024-03-01T15:27:00.152-0500] {dag.py:2941} INFO - Sync 1 DAGs
+[2024-03-01T15:27:00.170-0500] {logging_mixin.py:154} INFO - [2024-03-01T15:27:00.170-0500] {dag.py:3722} INFO - Setting next_dagrun for s3_to_postgres to 2024-02-26T00:00:00+00:00, run_after=2024-02-26T00:00:00+00:00
+[2024-03-01T15:27:00.182-0500] {processor.py:179} INFO - Processing /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/S3_to_postgres.py took 1.102 seconds
+[2024-03-01T15:27:31.444-0500] {processor.py:157} INFO - Started process (PID=57878) to work on /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/S3_to_postgres.py
+[2024-03-01T15:27:31.446-0500] {processor.py:829} INFO - Processing file /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/S3_to_postgres.py for tasks to queue
+[2024-03-01T15:27:31.447-0500] {logging_mixin.py:154} INFO - [2024-03-01T15:27:31.447-0500] {dagbag.py:536} INFO - Filling up the DagBag from /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/S3_to_postgres.py
+[2024-03-01T15:27:32.138-0500] {processor.py:839} INFO - DAG(s) dict_keys(['s3_to_postgres']) retrieved from /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/S3_to_postgres.py
+[2024-03-01T15:27:32.270-0500] {logging_mixin.py:154} INFO - [2024-03-01T15:27:32.270-0500] {dag.py:2941} INFO - Sync 1 DAGs
+[2024-03-01T15:27:32.285-0500] {logging_mixin.py:154} INFO - [2024-03-01T15:27:32.285-0500] {dag.py:3722} INFO - Setting next_dagrun for s3_to_postgres to 2024-02-26T00:00:00+00:00, run_after=2024-02-26T00:00:00+00:00
+[2024-03-01T15:27:32.295-0500] {processor.py:179} INFO - Processing /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/S3_to_postgres.py took 0.853 seconds
+[2024-03-01T15:28:03.462-0500] {processor.py:157} INFO - Started process (PID=57993) to work on /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/S3_to_postgres.py
+[2024-03-01T15:28:03.464-0500] {processor.py:829} INFO - Processing file /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/S3_to_postgres.py for tasks to queue
+[2024-03-01T15:28:03.465-0500] {logging_mixin.py:154} INFO - [2024-03-01T15:28:03.465-0500] {dagbag.py:536} INFO - Filling up the DagBag from /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/S3_to_postgres.py
+[2024-03-01T15:28:04.145-0500] {processor.py:839} INFO - DAG(s) dict_keys(['s3_to_postgres']) retrieved from /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/S3_to_postgres.py
+[2024-03-01T15:28:04.287-0500] {logging_mixin.py:154} INFO - [2024-03-01T15:28:04.286-0500] {dag.py:2941} INFO - Sync 1 DAGs
+[2024-03-01T15:28:04.301-0500] {logging_mixin.py:154} INFO - [2024-03-01T15:28:04.301-0500] {dag.py:3722} INFO - Setting next_dagrun for s3_to_postgres to 2024-02-26T00:00:00+00:00, run_after=2024-02-26T00:00:00+00:00
+[2024-03-01T15:28:04.311-0500] {processor.py:179} INFO - Processing /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/S3_to_postgres.py took 0.851 seconds
+[2024-03-01T15:28:36.197-0500] {processor.py:157} INFO - Started process (PID=58110) to work on /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/S3_to_postgres.py
+[2024-03-01T15:28:36.206-0500] {processor.py:829} INFO - Processing file /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/S3_to_postgres.py for tasks to queue
+[2024-03-01T15:28:36.207-0500] {logging_mixin.py:154} INFO - [2024-03-01T15:28:36.207-0500] {dagbag.py:536} INFO - Filling up the DagBag from /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/S3_to_postgres.py
+[2024-03-01T15:28:37.702-0500] {processor.py:839} INFO - DAG(s) dict_keys(['s3_to_postgres']) retrieved from /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/S3_to_postgres.py
+[2024-03-01T15:28:38.061-0500] {logging_mixin.py:154} INFO - [2024-03-01T15:28:38.060-0500] {dag.py:2941} INFO - Sync 1 DAGs
+[2024-03-01T15:28:38.080-0500] {logging_mixin.py:154} INFO - [2024-03-01T15:28:38.080-0500] {dag.py:3722} INFO - Setting next_dagrun for s3_to_postgres to 2024-02-26T00:00:00+00:00, run_after=2024-02-26T00:00:00+00:00
+[2024-03-01T15:28:38.096-0500] {processor.py:179} INFO - Processing /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/S3_to_postgres.py took 1.903 seconds
+[2024-03-01T15:29:10.401-0500] {processor.py:157} INFO - Started process (PID=58253) to work on /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/S3_to_postgres.py
+[2024-03-01T15:29:10.405-0500] {processor.py:829} INFO - Processing file /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/S3_to_postgres.py for tasks to queue
+[2024-03-01T15:29:10.405-0500] {logging_mixin.py:154} INFO - [2024-03-01T15:29:10.405-0500] {dagbag.py:536} INFO - Filling up the DagBag from /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/S3_to_postgres.py
+[2024-03-01T15:29:11.411-0500] {processor.py:839} INFO - DAG(s) dict_keys(['s3_to_postgres']) retrieved from /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/S3_to_postgres.py
+[2024-03-01T15:29:11.638-0500] {logging_mixin.py:154} INFO - [2024-03-01T15:29:11.638-0500] {dag.py:2941} INFO - Sync 1 DAGs
+[2024-03-01T15:29:11.656-0500] {logging_mixin.py:154} INFO - [2024-03-01T15:29:11.656-0500] {dag.py:3722} INFO - Setting next_dagrun for s3_to_postgres to 2024-02-26T00:00:00+00:00, run_after=2024-02-26T00:00:00+00:00
+[2024-03-01T15:29:11.671-0500] {processor.py:179} INFO - Processing /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/S3_to_postgres.py took 1.272 seconds
+[2024-03-01T15:29:43.531-0500] {processor.py:157} INFO - Started process (PID=58371) to work on /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/S3_to_postgres.py
+[2024-03-01T15:29:43.534-0500] {processor.py:829} INFO - Processing file /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/S3_to_postgres.py for tasks to queue
+[2024-03-01T15:29:43.535-0500] {logging_mixin.py:154} INFO - [2024-03-01T15:29:43.535-0500] {dagbag.py:536} INFO - Filling up the DagBag from /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/S3_to_postgres.py
+[2024-03-01T15:29:44.471-0500] {processor.py:839} INFO - DAG(s) dict_keys(['s3_to_postgres']) retrieved from /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/S3_to_postgres.py
+[2024-03-01T15:29:44.656-0500] {logging_mixin.py:154} INFO - [2024-03-01T15:29:44.656-0500] {dag.py:2941} INFO - Sync 1 DAGs
+[2024-03-01T15:29:44.673-0500] {logging_mixin.py:154} INFO - [2024-03-01T15:29:44.673-0500] {dag.py:3722} INFO - Setting next_dagrun for s3_to_postgres to 2024-02-26T00:00:00+00:00, run_after=2024-02-26T00:00:00+00:00
+[2024-03-01T15:29:44.687-0500] {processor.py:179} INFO - Processing /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/S3_to_postgres.py took 1.157 seconds
+[2024-03-01T15:30:16.459-0500] {processor.py:157} INFO - Started process (PID=58499) to work on /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/S3_to_postgres.py
+[2024-03-01T15:30:16.464-0500] {processor.py:829} INFO - Processing file /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/S3_to_postgres.py for tasks to queue
+[2024-03-01T15:30:16.464-0500] {logging_mixin.py:154} INFO - [2024-03-01T15:30:16.464-0500] {dagbag.py:536} INFO - Filling up the DagBag from /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/S3_to_postgres.py
+[2024-03-01T15:30:17.377-0500] {processor.py:839} INFO - DAG(s) dict_keys(['s3_to_postgres']) retrieved from /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/S3_to_postgres.py
+[2024-03-01T15:30:17.544-0500] {logging_mixin.py:154} INFO - [2024-03-01T15:30:17.543-0500] {dag.py:2941} INFO - Sync 1 DAGs
+[2024-03-01T15:30:17.562-0500] {logging_mixin.py:154} INFO - [2024-03-01T15:30:17.562-0500] {dag.py:3722} INFO - Setting next_dagrun for s3_to_postgres to 2024-02-26T00:00:00+00:00, run_after=2024-02-26T00:00:00+00:00
+[2024-03-01T15:30:17.575-0500] {processor.py:179} INFO - Processing /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/S3_to_postgres.py took 1.118 seconds
+[2024-03-01T15:30:49.414-0500] {processor.py:157} INFO - Started process (PID=58637) to work on /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/S3_to_postgres.py
+[2024-03-01T15:30:49.417-0500] {processor.py:829} INFO - Processing file /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/S3_to_postgres.py for tasks to queue
+[2024-03-01T15:30:49.417-0500] {logging_mixin.py:154} INFO - [2024-03-01T15:30:49.417-0500] {dagbag.py:536} INFO - Filling up the DagBag from /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/S3_to_postgres.py
+[2024-03-01T15:30:50.088-0500] {processor.py:839} INFO - DAG(s) dict_keys(['s3_to_postgres']) retrieved from /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/S3_to_postgres.py
+[2024-03-01T15:30:50.256-0500] {logging_mixin.py:154} INFO - [2024-03-01T15:30:50.256-0500] {dag.py:2941} INFO - Sync 1 DAGs
+[2024-03-01T15:30:50.270-0500] {logging_mixin.py:154} INFO - [2024-03-01T15:30:50.270-0500] {dag.py:3722} INFO - Setting next_dagrun for s3_to_postgres to 2024-02-26T00:00:00+00:00, run_after=2024-02-26T00:00:00+00:00
+[2024-03-01T15:30:50.281-0500] {processor.py:179} INFO - Processing /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/S3_to_postgres.py took 0.870 seconds
+[2024-03-01T15:31:21.503-0500] {processor.py:157} INFO - Started process (PID=58749) to work on /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/S3_to_postgres.py
+[2024-03-01T15:31:21.506-0500] {processor.py:829} INFO - Processing file /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/S3_to_postgres.py for tasks to queue
+[2024-03-01T15:31:21.506-0500] {logging_mixin.py:154} INFO - [2024-03-01T15:31:21.506-0500] {dagbag.py:536} INFO - Filling up the DagBag from /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/S3_to_postgres.py
+[2024-03-01T15:31:22.203-0500] {processor.py:839} INFO - DAG(s) dict_keys(['s3_to_postgres']) retrieved from /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/S3_to_postgres.py
+[2024-03-01T15:31:22.356-0500] {logging_mixin.py:154} INFO - [2024-03-01T15:31:22.356-0500] {dag.py:2941} INFO - Sync 1 DAGs
+[2024-03-01T15:31:22.371-0500] {logging_mixin.py:154} INFO - [2024-03-01T15:31:22.371-0500] {dag.py:3722} INFO - Setting next_dagrun for s3_to_postgres to 2024-02-26T00:00:00+00:00, run_after=2024-02-26T00:00:00+00:00
+[2024-03-01T15:31:22.380-0500] {processor.py:179} INFO - Processing /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/S3_to_postgres.py took 0.879 seconds
+[2024-03-01T15:31:53.848-0500] {processor.py:157} INFO - Started process (PID=58874) to work on /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/S3_to_postgres.py
+[2024-03-01T15:31:53.852-0500] {processor.py:829} INFO - Processing file /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/S3_to_postgres.py for tasks to queue
+[2024-03-01T15:31:53.852-0500] {logging_mixin.py:154} INFO - [2024-03-01T15:31:53.852-0500] {dagbag.py:536} INFO - Filling up the DagBag from /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/S3_to_postgres.py
+[2024-03-01T15:31:54.689-0500] {processor.py:839} INFO - DAG(s) dict_keys(['s3_to_postgres']) retrieved from /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/S3_to_postgres.py
+[2024-03-01T15:31:54.873-0500] {logging_mixin.py:154} INFO - [2024-03-01T15:31:54.873-0500] {dag.py:2941} INFO - Sync 1 DAGs
+[2024-03-01T15:31:54.893-0500] {logging_mixin.py:154} INFO - [2024-03-01T15:31:54.893-0500] {dag.py:3722} INFO - Setting next_dagrun for s3_to_postgres to 2024-02-26T00:00:00+00:00, run_after=2024-02-26T00:00:00+00:00
+[2024-03-01T15:31:54.906-0500] {processor.py:179} INFO - Processing /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/S3_to_postgres.py took 1.060 seconds
+[2024-03-01T15:32:26.248-0500] {processor.py:157} INFO - Started process (PID=58989) to work on /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/S3_to_postgres.py
+[2024-03-01T15:32:26.250-0500] {processor.py:829} INFO - Processing file /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/S3_to_postgres.py for tasks to queue
+[2024-03-01T15:32:26.251-0500] {logging_mixin.py:154} INFO - [2024-03-01T15:32:26.251-0500] {dagbag.py:536} INFO - Filling up the DagBag from /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/S3_to_postgres.py
+[2024-03-01T15:32:26.940-0500] {processor.py:839} INFO - DAG(s) dict_keys(['s3_to_postgres']) retrieved from /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/S3_to_postgres.py
+[2024-03-01T15:32:27.085-0500] {logging_mixin.py:154} INFO - [2024-03-01T15:32:27.085-0500] {dag.py:2941} INFO - Sync 1 DAGs
+[2024-03-01T15:32:27.100-0500] {logging_mixin.py:154} INFO - [2024-03-01T15:32:27.100-0500] {dag.py:3722} INFO - Setting next_dagrun for s3_to_postgres to 2024-02-26T00:00:00+00:00, run_after=2024-02-26T00:00:00+00:00
+[2024-03-01T15:32:27.110-0500] {processor.py:179} INFO - Processing /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/S3_to_postgres.py took 0.865 seconds
+[2024-03-01T15:32:59.171-0500] {processor.py:157} INFO - Started process (PID=59126) to work on /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/S3_to_postgres.py
+[2024-03-01T15:32:59.174-0500] {processor.py:829} INFO - Processing file /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/S3_to_postgres.py for tasks to queue
+[2024-03-01T15:32:59.175-0500] {logging_mixin.py:154} INFO - [2024-03-01T15:32:59.174-0500] {dagbag.py:536} INFO - Filling up the DagBag from /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/S3_to_postgres.py
+[2024-03-01T15:32:59.849-0500] {processor.py:839} INFO - DAG(s) dict_keys(['s3_to_postgres']) retrieved from /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/S3_to_postgres.py
+[2024-03-01T15:33:00.040-0500] {logging_mixin.py:154} INFO - [2024-03-01T15:33:00.039-0500] {dag.py:2941} INFO - Sync 1 DAGs
+[2024-03-01T15:33:00.056-0500] {logging_mixin.py:154} INFO - [2024-03-01T15:33:00.056-0500] {dag.py:3722} INFO - Setting next_dagrun for s3_to_postgres to 2024-02-26T00:00:00+00:00, run_after=2024-02-26T00:00:00+00:00
+[2024-03-01T15:33:00.069-0500] {processor.py:179} INFO - Processing /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/S3_to_postgres.py took 0.899 seconds
+[2024-03-01T15:33:31.835-0500] {processor.py:157} INFO - Started process (PID=59236) to work on /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/S3_to_postgres.py
+[2024-03-01T15:33:31.839-0500] {processor.py:829} INFO - Processing file /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/S3_to_postgres.py for tasks to queue
+[2024-03-01T15:33:31.839-0500] {logging_mixin.py:154} INFO - [2024-03-01T15:33:31.839-0500] {dagbag.py:536} INFO - Filling up the DagBag from /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/S3_to_postgres.py
+[2024-03-01T15:33:32.898-0500] {processor.py:839} INFO - DAG(s) dict_keys(['s3_to_postgres']) retrieved from /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/S3_to_postgres.py
+[2024-03-01T15:33:33.089-0500] {logging_mixin.py:154} INFO - [2024-03-01T15:33:33.088-0500] {dag.py:2941} INFO - Sync 1 DAGs
+[2024-03-01T15:33:33.109-0500] {logging_mixin.py:154} INFO - [2024-03-01T15:33:33.109-0500] {dag.py:3722} INFO - Setting next_dagrun for s3_to_postgres to 2024-02-26T00:00:00+00:00, run_after=2024-02-26T00:00:00+00:00
+[2024-03-01T15:33:33.121-0500] {processor.py:179} INFO - Processing /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/S3_to_postgres.py took 1.289 seconds
+[2024-03-01T15:34:04.633-0500] {processor.py:157} INFO - Started process (PID=59364) to work on /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/S3_to_postgres.py
+[2024-03-01T15:34:04.636-0500] {processor.py:829} INFO - Processing file /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/S3_to_postgres.py for tasks to queue
+[2024-03-01T15:34:04.637-0500] {logging_mixin.py:154} INFO - [2024-03-01T15:34:04.637-0500] {dagbag.py:536} INFO - Filling up the DagBag from /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/S3_to_postgres.py
+[2024-03-01T15:34:05.485-0500] {processor.py:839} INFO - DAG(s) dict_keys(['s3_to_postgres']) retrieved from /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/S3_to_postgres.py
+[2024-03-01T15:34:05.644-0500] {logging_mixin.py:154} INFO - [2024-03-01T15:34:05.644-0500] {dag.py:2941} INFO - Sync 1 DAGs
+[2024-03-01T15:34:05.661-0500] {logging_mixin.py:154} INFO - [2024-03-01T15:34:05.661-0500] {dag.py:3722} INFO - Setting next_dagrun for s3_to_postgres to 2024-02-26T00:00:00+00:00, run_after=2024-02-26T00:00:00+00:00
+[2024-03-01T15:34:05.675-0500] {processor.py:179} INFO - Processing /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/S3_to_postgres.py took 1.045 seconds
+[2024-03-01T15:34:37.231-0500] {processor.py:157} INFO - Started process (PID=59480) to work on /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/S3_to_postgres.py
+[2024-03-01T15:34:37.234-0500] {processor.py:829} INFO - Processing file /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/S3_to_postgres.py for tasks to queue
+[2024-03-01T15:34:37.234-0500] {logging_mixin.py:154} INFO - [2024-03-01T15:34:37.234-0500] {dagbag.py:536} INFO - Filling up the DagBag from /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/S3_to_postgres.py
+[2024-03-01T15:34:37.973-0500] {processor.py:839} INFO - DAG(s) dict_keys(['s3_to_postgres']) retrieved from /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/S3_to_postgres.py
+[2024-03-01T15:34:38.152-0500] {logging_mixin.py:154} INFO - [2024-03-01T15:34:38.152-0500] {dag.py:2941} INFO - Sync 1 DAGs
+[2024-03-01T15:34:38.168-0500] {logging_mixin.py:154} INFO - [2024-03-01T15:34:38.168-0500] {dag.py:3722} INFO - Setting next_dagrun for s3_to_postgres to 2024-02-26T00:00:00+00:00, run_after=2024-02-26T00:00:00+00:00
+[2024-03-01T15:34:38.179-0500] {processor.py:179} INFO - Processing /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/S3_to_postgres.py took 0.950 seconds
+[2024-03-01T15:35:09.381-0500] {processor.py:157} INFO - Started process (PID=59596) to work on /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/S3_to_postgres.py
+[2024-03-01T15:35:09.384-0500] {processor.py:829} INFO - Processing file /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/S3_to_postgres.py for tasks to queue
+[2024-03-01T15:35:09.384-0500] {logging_mixin.py:154} INFO - [2024-03-01T15:35:09.384-0500] {dagbag.py:536} INFO - Filling up the DagBag from /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/S3_to_postgres.py
+[2024-03-01T15:35:10.115-0500] {processor.py:839} INFO - DAG(s) dict_keys(['s3_to_postgres']) retrieved from /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/S3_to_postgres.py
+[2024-03-01T15:35:10.273-0500] {logging_mixin.py:154} INFO - [2024-03-01T15:35:10.272-0500] {dag.py:2941} INFO - Sync 1 DAGs
+[2024-03-01T15:35:10.290-0500] {logging_mixin.py:154} INFO - [2024-03-01T15:35:10.290-0500] {dag.py:3722} INFO - Setting next_dagrun for s3_to_postgres to 2024-02-26T00:00:00+00:00, run_after=2024-02-26T00:00:00+00:00
+[2024-03-01T15:35:10.300-0500] {processor.py:179} INFO - Processing /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/S3_to_postgres.py took 0.921 seconds
+[2024-03-01T15:35:41.517-0500] {processor.py:157} INFO - Started process (PID=59718) to work on /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/S3_to_postgres.py
+[2024-03-01T15:35:41.520-0500] {processor.py:829} INFO - Processing file /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/S3_to_postgres.py for tasks to queue
+[2024-03-01T15:35:41.521-0500] {logging_mixin.py:154} INFO - [2024-03-01T15:35:41.520-0500] {dagbag.py:536} INFO - Filling up the DagBag from /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/S3_to_postgres.py
+[2024-03-01T15:35:42.216-0500] {processor.py:839} INFO - DAG(s) dict_keys(['s3_to_postgres']) retrieved from /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/S3_to_postgres.py
+[2024-03-01T15:35:42.355-0500] {logging_mixin.py:154} INFO - [2024-03-01T15:35:42.355-0500] {dag.py:2941} INFO - Sync 1 DAGs
+[2024-03-01T15:35:42.368-0500] {logging_mixin.py:154} INFO - [2024-03-01T15:35:42.368-0500] {dag.py:3722} INFO - Setting next_dagrun for s3_to_postgres to 2024-02-26T00:00:00+00:00, run_after=2024-02-26T00:00:00+00:00
+[2024-03-01T15:35:42.378-0500] {processor.py:179} INFO - Processing /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/S3_to_postgres.py took 0.862 seconds
+[2024-03-01T15:36:13.562-0500] {processor.py:157} INFO - Started process (PID=59832) to work on /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/S3_to_postgres.py
+[2024-03-01T15:36:13.565-0500] {processor.py:829} INFO - Processing file /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/S3_to_postgres.py for tasks to queue
+[2024-03-01T15:36:13.565-0500] {logging_mixin.py:154} INFO - [2024-03-01T15:36:13.565-0500] {dagbag.py:536} INFO - Filling up the DagBag from /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/S3_to_postgres.py
+[2024-03-01T15:36:14.346-0500] {processor.py:839} INFO - DAG(s) dict_keys(['s3_to_postgres']) retrieved from /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/S3_to_postgres.py
+[2024-03-01T15:36:14.502-0500] {logging_mixin.py:154} INFO - [2024-03-01T15:36:14.502-0500] {dag.py:2941} INFO - Sync 1 DAGs
+[2024-03-01T15:36:14.518-0500] {logging_mixin.py:154} INFO - [2024-03-01T15:36:14.518-0500] {dag.py:3722} INFO - Setting next_dagrun for s3_to_postgres to 2024-02-26T00:00:00+00:00, run_after=2024-02-26T00:00:00+00:00
+[2024-03-01T15:36:14.530-0500] {processor.py:179} INFO - Processing /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/S3_to_postgres.py took 0.970 seconds
+[2024-03-01T15:36:45.837-0500] {processor.py:157} INFO - Started process (PID=59959) to work on /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/S3_to_postgres.py
+[2024-03-01T15:36:45.840-0500] {processor.py:829} INFO - Processing file /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/S3_to_postgres.py for tasks to queue
+[2024-03-01T15:36:45.841-0500] {logging_mixin.py:154} INFO - [2024-03-01T15:36:45.841-0500] {dagbag.py:536} INFO - Filling up the DagBag from /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/S3_to_postgres.py
+[2024-03-01T15:36:46.513-0500] {processor.py:839} INFO - DAG(s) dict_keys(['s3_to_postgres']) retrieved from /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/S3_to_postgres.py
+[2024-03-01T15:36:46.670-0500] {logging_mixin.py:154} INFO - [2024-03-01T15:36:46.669-0500] {dag.py:2941} INFO - Sync 1 DAGs
+[2024-03-01T15:36:46.690-0500] {logging_mixin.py:154} INFO - [2024-03-01T15:36:46.690-0500] {dag.py:3722} INFO - Setting next_dagrun for s3_to_postgres to 2024-02-26T00:00:00+00:00, run_after=2024-02-26T00:00:00+00:00
+[2024-03-01T15:36:46.705-0500] {processor.py:179} INFO - Processing /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/S3_to_postgres.py took 0.870 seconds
+[2024-03-01T15:37:17.847-0500] {processor.py:157} INFO - Started process (PID=60074) to work on /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/S3_to_postgres.py
+[2024-03-01T15:37:17.850-0500] {processor.py:829} INFO - Processing file /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/S3_to_postgres.py for tasks to queue
+[2024-03-01T15:37:17.851-0500] {logging_mixin.py:154} INFO - [2024-03-01T15:37:17.851-0500] {dagbag.py:536} INFO - Filling up the DagBag from /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/S3_to_postgres.py
+[2024-03-01T15:37:18.663-0500] {processor.py:839} INFO - DAG(s) dict_keys(['s3_to_postgres']) retrieved from /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/S3_to_postgres.py
+[2024-03-01T15:37:18.805-0500] {logging_mixin.py:154} INFO - [2024-03-01T15:37:18.805-0500] {dag.py:2941} INFO - Sync 1 DAGs
+[2024-03-01T15:37:18.819-0500] {logging_mixin.py:154} INFO - [2024-03-01T15:37:18.819-0500] {dag.py:3722} INFO - Setting next_dagrun for s3_to_postgres to 2024-02-26T00:00:00+00:00, run_after=2024-02-26T00:00:00+00:00
+[2024-03-01T15:37:18.829-0500] {processor.py:179} INFO - Processing /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/S3_to_postgres.py took 0.984 seconds
+[2024-03-01T15:37:50.176-0500] {processor.py:157} INFO - Started process (PID=60201) to work on /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/S3_to_postgres.py
+[2024-03-01T15:37:50.189-0500] {processor.py:829} INFO - Processing file /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/S3_to_postgres.py for tasks to queue
+[2024-03-01T15:37:50.189-0500] {logging_mixin.py:154} INFO - [2024-03-01T15:37:50.189-0500] {dagbag.py:536} INFO - Filling up the DagBag from /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/S3_to_postgres.py
+[2024-03-01T15:37:50.873-0500] {processor.py:839} INFO - DAG(s) dict_keys(['s3_to_postgres']) retrieved from /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/S3_to_postgres.py
+[2024-03-01T15:37:51.061-0500] {logging_mixin.py:154} INFO - [2024-03-01T15:37:51.061-0500] {dag.py:2941} INFO - Sync 1 DAGs
+[2024-03-01T15:37:51.079-0500] {logging_mixin.py:154} INFO - [2024-03-01T15:37:51.079-0500] {dag.py:3722} INFO - Setting next_dagrun for s3_to_postgres to 2024-02-26T00:00:00+00:00, run_after=2024-02-26T00:00:00+00:00
+[2024-03-01T15:37:51.093-0500] {processor.py:179} INFO - Processing /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/S3_to_postgres.py took 0.919 seconds
+[2024-03-01T15:38:22.449-0500] {processor.py:157} INFO - Started process (PID=60315) to work on /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/S3_to_postgres.py
+[2024-03-01T15:38:22.453-0500] {processor.py:829} INFO - Processing file /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/S3_to_postgres.py for tasks to queue
+[2024-03-01T15:38:22.453-0500] {logging_mixin.py:154} INFO - [2024-03-01T15:38:22.453-0500] {dagbag.py:536} INFO - Filling up the DagBag from /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/S3_to_postgres.py
+[2024-03-01T15:38:23.181-0500] {processor.py:839} INFO - DAG(s) dict_keys(['s3_to_postgres']) retrieved from /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/S3_to_postgres.py
+[2024-03-01T15:38:23.329-0500] {logging_mixin.py:154} INFO - [2024-03-01T15:38:23.328-0500] {dag.py:2941} INFO - Sync 1 DAGs
+[2024-03-01T15:38:23.343-0500] {logging_mixin.py:154} INFO - [2024-03-01T15:38:23.343-0500] {dag.py:3722} INFO - Setting next_dagrun for s3_to_postgres to 2024-02-26T00:00:00+00:00, run_after=2024-02-26T00:00:00+00:00
+[2024-03-01T15:38:23.355-0500] {processor.py:179} INFO - Processing /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/S3_to_postgres.py took 0.908 seconds
+[2024-03-01T15:38:54.397-0500] {processor.py:157} INFO - Started process (PID=60423) to work on /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/S3_to_postgres.py
+[2024-03-01T15:38:54.401-0500] {processor.py:829} INFO - Processing file /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/S3_to_postgres.py for tasks to queue
+[2024-03-01T15:38:54.401-0500] {logging_mixin.py:154} INFO - [2024-03-01T15:38:54.401-0500] {dagbag.py:536} INFO - Filling up the DagBag from /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/S3_to_postgres.py
+[2024-03-01T15:38:55.097-0500] {processor.py:839} INFO - DAG(s) dict_keys(['s3_to_postgres']) retrieved from /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/S3_to_postgres.py
+[2024-03-01T15:38:55.239-0500] {logging_mixin.py:154} INFO - [2024-03-01T15:38:55.238-0500] {dag.py:2941} INFO - Sync 1 DAGs
+[2024-03-01T15:38:55.254-0500] {logging_mixin.py:154} INFO - [2024-03-01T15:38:55.254-0500] {dag.py:3722} INFO - Setting next_dagrun for s3_to_postgres to 2024-02-26T00:00:00+00:00, run_after=2024-02-26T00:00:00+00:00
+[2024-03-01T15:38:55.265-0500] {processor.py:179} INFO - Processing /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/S3_to_postgres.py took 0.870 seconds
+[2024-03-01T15:39:26.369-0500] {processor.py:157} INFO - Started process (PID=60537) to work on /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/S3_to_postgres.py
+[2024-03-01T15:39:26.373-0500] {processor.py:829} INFO - Processing file /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/S3_to_postgres.py for tasks to queue
+[2024-03-01T15:39:26.373-0500] {logging_mixin.py:154} INFO - [2024-03-01T15:39:26.373-0500] {dagbag.py:536} INFO - Filling up the DagBag from /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/S3_to_postgres.py
+[2024-03-01T15:39:27.089-0500] {processor.py:839} INFO - DAG(s) dict_keys(['s3_to_postgres']) retrieved from /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/S3_to_postgres.py
+[2024-03-01T15:39:27.228-0500] {logging_mixin.py:154} INFO - [2024-03-01T15:39:27.228-0500] {dag.py:2941} INFO - Sync 1 DAGs
+[2024-03-01T15:39:27.245-0500] {logging_mixin.py:154} INFO - [2024-03-01T15:39:27.245-0500] {dag.py:3722} INFO - Setting next_dagrun for s3_to_postgres to 2024-02-26T00:00:00+00:00, run_after=2024-02-26T00:00:00+00:00
+[2024-03-01T15:39:27.258-0500] {processor.py:179} INFO - Processing /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/S3_to_postgres.py took 0.890 seconds
+[2024-03-01T15:39:58.354-0500] {processor.py:157} INFO - Started process (PID=60646) to work on /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/S3_to_postgres.py
+[2024-03-01T15:39:58.357-0500] {processor.py:829} INFO - Processing file /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/S3_to_postgres.py for tasks to queue
+[2024-03-01T15:39:58.357-0500] {logging_mixin.py:154} INFO - [2024-03-01T15:39:58.357-0500] {dagbag.py:536} INFO - Filling up the DagBag from /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/S3_to_postgres.py
+[2024-03-01T15:39:59.053-0500] {processor.py:839} INFO - DAG(s) dict_keys(['s3_to_postgres']) retrieved from /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/S3_to_postgres.py
+[2024-03-01T15:39:59.188-0500] {logging_mixin.py:154} INFO - [2024-03-01T15:39:59.188-0500] {dag.py:2941} INFO - Sync 1 DAGs
+[2024-03-01T15:39:59.204-0500] {logging_mixin.py:154} INFO - [2024-03-01T15:39:59.203-0500] {dag.py:3722} INFO - Setting next_dagrun for s3_to_postgres to 2024-02-26T00:00:00+00:00, run_after=2024-02-26T00:00:00+00:00
+[2024-03-01T15:39:59.214-0500] {processor.py:179} INFO - Processing /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/S3_to_postgres.py took 0.862 seconds
+[2024-03-01T15:40:30.696-0500] {processor.py:157} INFO - Started process (PID=60774) to work on /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/S3_to_postgres.py
+[2024-03-01T15:40:30.700-0500] {processor.py:829} INFO - Processing file /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/S3_to_postgres.py for tasks to queue
+[2024-03-01T15:40:30.700-0500] {logging_mixin.py:154} INFO - [2024-03-01T15:40:30.700-0500] {dagbag.py:536} INFO - Filling up the DagBag from /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/S3_to_postgres.py
+[2024-03-01T15:40:31.558-0500] {processor.py:839} INFO - DAG(s) dict_keys(['s3_to_postgres']) retrieved from /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/S3_to_postgres.py
+[2024-03-01T15:40:31.740-0500] {logging_mixin.py:154} INFO - [2024-03-01T15:40:31.740-0500] {dag.py:2941} INFO - Sync 1 DAGs
+[2024-03-01T15:40:31.759-0500] {logging_mixin.py:154} INFO - [2024-03-01T15:40:31.759-0500] {dag.py:3722} INFO - Setting next_dagrun for s3_to_postgres to 2024-02-26T00:00:00+00:00, run_after=2024-02-26T00:00:00+00:00
+[2024-03-01T15:40:31.770-0500] {processor.py:179} INFO - Processing /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/S3_to_postgres.py took 1.077 seconds
+[2024-03-01T15:41:03.324-0500] {processor.py:157} INFO - Started process (PID=60888) to work on /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/S3_to_postgres.py
+[2024-03-01T15:41:03.326-0500] {processor.py:829} INFO - Processing file /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/S3_to_postgres.py for tasks to queue
+[2024-03-01T15:41:03.327-0500] {logging_mixin.py:154} INFO - [2024-03-01T15:41:03.327-0500] {dagbag.py:536} INFO - Filling up the DagBag from /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/S3_to_postgres.py
+[2024-03-01T15:41:04.330-0500] {processor.py:839} INFO - DAG(s) dict_keys(['s3_to_postgres']) retrieved from /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/S3_to_postgres.py
+[2024-03-01T15:41:04.493-0500] {logging_mixin.py:154} INFO - [2024-03-01T15:41:04.492-0500] {dag.py:2941} INFO - Sync 1 DAGs
+[2024-03-01T15:41:04.510-0500] {logging_mixin.py:154} INFO - [2024-03-01T15:41:04.510-0500] {dag.py:3722} INFO - Setting next_dagrun for s3_to_postgres to 2024-02-26T00:00:00+00:00, run_after=2024-02-26T00:00:00+00:00
+[2024-03-01T15:41:04.523-0500] {processor.py:179} INFO - Processing /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/S3_to_postgres.py took 1.202 seconds
+[2024-03-01T15:41:35.705-0500] {processor.py:157} INFO - Started process (PID=60995) to work on /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/S3_to_postgres.py
+[2024-03-01T15:41:35.709-0500] {processor.py:829} INFO - Processing file /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/S3_to_postgres.py for tasks to queue
+[2024-03-01T15:41:35.709-0500] {logging_mixin.py:154} INFO - [2024-03-01T15:41:35.709-0500] {dagbag.py:536} INFO - Filling up the DagBag from /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/S3_to_postgres.py
+[2024-03-01T15:41:36.428-0500] {processor.py:839} INFO - DAG(s) dict_keys(['s3_to_postgres']) retrieved from /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/S3_to_postgres.py
+[2024-03-01T15:41:36.565-0500] {logging_mixin.py:154} INFO - [2024-03-01T15:41:36.565-0500] {dag.py:2941} INFO - Sync 1 DAGs
+[2024-03-01T15:41:36.582-0500] {logging_mixin.py:154} INFO - [2024-03-01T15:41:36.582-0500] {dag.py:3722} INFO - Setting next_dagrun for s3_to_postgres to 2024-02-26T00:00:00+00:00, run_after=2024-02-26T00:00:00+00:00
+[2024-03-01T15:41:36.592-0500] {processor.py:179} INFO - Processing /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/S3_to_postgres.py took 0.889 seconds
+[2024-03-01T15:42:07.673-0500] {processor.py:157} INFO - Started process (PID=61111) to work on /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/S3_to_postgres.py
+[2024-03-01T15:42:07.676-0500] {processor.py:829} INFO - Processing file /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/S3_to_postgres.py for tasks to queue
+[2024-03-01T15:42:07.676-0500] {logging_mixin.py:154} INFO - [2024-03-01T15:42:07.676-0500] {dagbag.py:536} INFO - Filling up the DagBag from /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/S3_to_postgres.py
+[2024-03-01T15:42:08.353-0500] {processor.py:839} INFO - DAG(s) dict_keys(['s3_to_postgres']) retrieved from /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/S3_to_postgres.py
+[2024-03-01T15:42:08.494-0500] {logging_mixin.py:154} INFO - [2024-03-01T15:42:08.494-0500] {dag.py:2941} INFO - Sync 1 DAGs
+[2024-03-01T15:42:08.510-0500] {logging_mixin.py:154} INFO - [2024-03-01T15:42:08.510-0500] {dag.py:3722} INFO - Setting next_dagrun for s3_to_postgres to 2024-02-26T00:00:00+00:00, run_after=2024-02-26T00:00:00+00:00
+[2024-03-01T15:42:08.521-0500] {processor.py:179} INFO - Processing /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/S3_to_postgres.py took 0.850 seconds
+[2024-03-01T15:42:39.679-0500] {processor.py:157} INFO - Started process (PID=61216) to work on /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/S3_to_postgres.py
+[2024-03-01T15:42:39.682-0500] {processor.py:829} INFO - Processing file /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/S3_to_postgres.py for tasks to queue
+[2024-03-01T15:42:39.682-0500] {logging_mixin.py:154} INFO - [2024-03-01T15:42:39.682-0500] {dagbag.py:536} INFO - Filling up the DagBag from /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/S3_to_postgres.py
+[2024-03-01T15:42:40.319-0500] {processor.py:839} INFO - DAG(s) dict_keys(['s3_to_postgres']) retrieved from /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/S3_to_postgres.py
+[2024-03-01T15:42:40.465-0500] {logging_mixin.py:154} INFO - [2024-03-01T15:42:40.464-0500] {dag.py:2941} INFO - Sync 1 DAGs
+[2024-03-01T15:42:40.479-0500] {logging_mixin.py:154} INFO - [2024-03-01T15:42:40.478-0500] {dag.py:3722} INFO - Setting next_dagrun for s3_to_postgres to 2024-02-26T00:00:00+00:00, run_after=2024-02-26T00:00:00+00:00
+[2024-03-01T15:42:40.489-0500] {processor.py:179} INFO - Processing /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/S3_to_postgres.py took 0.812 seconds
+[2024-03-01T15:43:12.318-0500] {processor.py:157} INFO - Started process (PID=61341) to work on /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/S3_to_postgres.py
+[2024-03-01T15:43:12.329-0500] {processor.py:829} INFO - Processing file /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/S3_to_postgres.py for tasks to queue
+[2024-03-01T15:43:12.330-0500] {logging_mixin.py:154} INFO - [2024-03-01T15:43:12.329-0500] {dagbag.py:536} INFO - Filling up the DagBag from /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/S3_to_postgres.py
+[2024-03-01T15:43:13.564-0500] {processor.py:839} INFO - DAG(s) dict_keys(['s3_to_postgres']) retrieved from /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/S3_to_postgres.py
+[2024-03-01T15:43:13.750-0500] {logging_mixin.py:154} INFO - [2024-03-01T15:43:13.749-0500] {dag.py:2941} INFO - Sync 1 DAGs
+[2024-03-01T15:43:13.773-0500] {logging_mixin.py:154} INFO - [2024-03-01T15:43:13.773-0500] {dag.py:3722} INFO - Setting next_dagrun for s3_to_postgres to 2024-02-26T00:00:00+00:00, run_after=2024-02-26T00:00:00+00:00
+[2024-03-01T15:43:13.788-0500] {processor.py:179} INFO - Processing /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/S3_to_postgres.py took 1.474 seconds
+[2024-03-01T15:43:44.986-0500] {processor.py:157} INFO - Started process (PID=61455) to work on /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/S3_to_postgres.py
+[2024-03-01T15:43:44.990-0500] {processor.py:829} INFO - Processing file /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/S3_to_postgres.py for tasks to queue
+[2024-03-01T15:43:44.991-0500] {logging_mixin.py:154} INFO - [2024-03-01T15:43:44.990-0500] {dagbag.py:536} INFO - Filling up the DagBag from /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/S3_to_postgres.py
+[2024-03-01T15:43:45.893-0500] {processor.py:839} INFO - DAG(s) dict_keys(['s3_to_postgres']) retrieved from /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/S3_to_postgres.py
+[2024-03-01T15:43:46.057-0500] {logging_mixin.py:154} INFO - [2024-03-01T15:43:46.057-0500] {dag.py:2941} INFO - Sync 1 DAGs
+[2024-03-01T15:43:46.076-0500] {logging_mixin.py:154} INFO - [2024-03-01T15:43:46.076-0500] {dag.py:3722} INFO - Setting next_dagrun for s3_to_postgres to 2024-02-26T00:00:00+00:00, run_after=2024-02-26T00:00:00+00:00
+[2024-03-01T15:43:46.088-0500] {processor.py:179} INFO - Processing /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/S3_to_postgres.py took 1.104 seconds
+[2024-03-01T15:44:17.862-0500] {processor.py:157} INFO - Started process (PID=61578) to work on /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/S3_to_postgres.py
+[2024-03-01T15:44:17.867-0500] {processor.py:829} INFO - Processing file /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/S3_to_postgres.py for tasks to queue
+[2024-03-01T15:44:17.868-0500] {logging_mixin.py:154} INFO - [2024-03-01T15:44:17.867-0500] {dagbag.py:536} INFO - Filling up the DagBag from /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/S3_to_postgres.py
+[2024-03-01T15:44:20.123-0500] {processor.py:839} INFO - DAG(s) dict_keys(['s3_to_postgres']) retrieved from /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/S3_to_postgres.py
+[2024-03-01T15:44:20.428-0500] {logging_mixin.py:154} INFO - [2024-03-01T15:44:20.427-0500] {dag.py:2941} INFO - Sync 1 DAGs
+[2024-03-01T15:44:20.447-0500] {logging_mixin.py:154} INFO - [2024-03-01T15:44:20.447-0500] {dag.py:3722} INFO - Setting next_dagrun for s3_to_postgres to 2024-02-26T00:00:00+00:00, run_after=2024-02-26T00:00:00+00:00
+[2024-03-01T15:44:20.462-0500] {processor.py:179} INFO - Processing /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/S3_to_postgres.py took 2.602 seconds
+[2024-03-01T16:00:16.640-0500] {processor.py:157} INFO - Started process (PID=61669) to work on /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/S3_to_postgres.py
+[2024-03-01T16:00:16.644-0500] {processor.py:829} INFO - Processing file /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/S3_to_postgres.py for tasks to queue
+[2024-03-01T16:00:16.644-0500] {logging_mixin.py:154} INFO - [2024-03-01T16:00:16.644-0500] {dagbag.py:536} INFO - Filling up the DagBag from /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/S3_to_postgres.py
+[2024-03-01T16:00:18.070-0500] {processor.py:839} INFO - DAG(s) dict_keys(['s3_to_postgres']) retrieved from /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/S3_to_postgres.py
+[2024-03-01T16:00:18.227-0500] {logging_mixin.py:154} INFO - [2024-03-01T16:00:18.227-0500] {dag.py:2941} INFO - Sync 1 DAGs
+[2024-03-01T16:00:18.249-0500] {logging_mixin.py:154} INFO - [2024-03-01T16:00:18.248-0500] {dag.py:3722} INFO - Setting next_dagrun for s3_to_postgres to 2024-02-26T00:00:00+00:00, run_after=2024-02-26T00:00:00+00:00
+[2024-03-01T16:00:18.267-0500] {processor.py:179} INFO - Processing /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/S3_to_postgres.py took 1.629 seconds
+[2024-03-01T16:10:20.683-0500] {processor.py:157} INFO - Started process (PID=61740) to work on /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/S3_to_postgres.py
+[2024-03-01T16:10:20.687-0500] {processor.py:829} INFO - Processing file /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/S3_to_postgres.py for tasks to queue
+[2024-03-01T16:10:20.688-0500] {logging_mixin.py:154} INFO - [2024-03-01T16:10:20.687-0500] {dagbag.py:536} INFO - Filling up the DagBag from /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/S3_to_postgres.py
+[2024-03-01T16:10:21.866-0500] {processor.py:839} INFO - DAG(s) dict_keys(['s3_to_postgres']) retrieved from /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/S3_to_postgres.py
+[2024-03-01T16:10:22.115-0500] {logging_mixin.py:154} INFO - [2024-03-01T16:10:22.114-0500] {dag.py:2941} INFO - Sync 1 DAGs
+[2024-03-01T16:10:22.147-0500] {logging_mixin.py:154} INFO - [2024-03-01T16:10:22.146-0500] {dag.py:3722} INFO - Setting next_dagrun for s3_to_postgres to 2024-02-26T00:00:00+00:00, run_after=2024-02-26T00:00:00+00:00
+[2024-03-01T16:10:22.176-0500] {processor.py:179} INFO - Processing /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/S3_to_postgres.py took 1.497 seconds
+[2024-03-01T16:10:54.778-0500] {processor.py:157} INFO - Started process (PID=61905) to work on /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/S3_to_postgres.py
+[2024-03-01T16:10:54.781-0500] {processor.py:829} INFO - Processing file /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/S3_to_postgres.py for tasks to queue
+[2024-03-01T16:10:54.782-0500] {logging_mixin.py:154} INFO - [2024-03-01T16:10:54.782-0500] {dagbag.py:536} INFO - Filling up the DagBag from /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/S3_to_postgres.py
+[2024-03-01T16:10:55.695-0500] {processor.py:839} INFO - DAG(s) dict_keys(['s3_to_postgres']) retrieved from /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/S3_to_postgres.py
+[2024-03-01T16:10:55.839-0500] {logging_mixin.py:154} INFO - [2024-03-01T16:10:55.839-0500] {dag.py:2941} INFO - Sync 1 DAGs
+[2024-03-01T16:10:55.859-0500] {logging_mixin.py:154} INFO - [2024-03-01T16:10:55.859-0500] {dag.py:3722} INFO - Setting next_dagrun for s3_to_postgres to 2024-02-26T00:00:00+00:00, run_after=2024-02-26T00:00:00+00:00
+[2024-03-01T16:10:55.872-0500] {processor.py:179} INFO - Processing /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/S3_to_postgres.py took 1.097 seconds
+[2024-03-01T16:11:27.208-0500] {processor.py:157} INFO - Started process (PID=62019) to work on /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/S3_to_postgres.py
+[2024-03-01T16:11:27.211-0500] {processor.py:829} INFO - Processing file /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/S3_to_postgres.py for tasks to queue
+[2024-03-01T16:11:27.211-0500] {logging_mixin.py:154} INFO - [2024-03-01T16:11:27.211-0500] {dagbag.py:536} INFO - Filling up the DagBag from /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/S3_to_postgres.py
+[2024-03-01T16:11:27.936-0500] {processor.py:839} INFO - DAG(s) dict_keys(['s3_to_postgres']) retrieved from /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/S3_to_postgres.py
+[2024-03-01T16:11:28.069-0500] {logging_mixin.py:154} INFO - [2024-03-01T16:11:28.069-0500] {dag.py:2941} INFO - Sync 1 DAGs
+[2024-03-01T16:11:28.085-0500] {logging_mixin.py:154} INFO - [2024-03-01T16:11:28.085-0500] {dag.py:3722} INFO - Setting next_dagrun for s3_to_postgres to 2024-02-26T00:00:00+00:00, run_after=2024-02-26T00:00:00+00:00
+[2024-03-01T16:11:28.096-0500] {processor.py:179} INFO - Processing /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/S3_to_postgres.py took 0.890 seconds
+[2024-03-01T16:11:59.520-0500] {processor.py:157} INFO - Started process (PID=62127) to work on /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/S3_to_postgres.py
+[2024-03-01T16:11:59.524-0500] {processor.py:829} INFO - Processing file /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/S3_to_postgres.py for tasks to queue
+[2024-03-01T16:11:59.524-0500] {logging_mixin.py:154} INFO - [2024-03-01T16:11:59.524-0500] {dagbag.py:536} INFO - Filling up the DagBag from /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/S3_to_postgres.py
+[2024-03-01T16:12:00.190-0500] {processor.py:839} INFO - DAG(s) dict_keys(['s3_to_postgres']) retrieved from /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/S3_to_postgres.py
+[2024-03-01T16:12:00.312-0500] {logging_mixin.py:154} INFO - [2024-03-01T16:12:00.312-0500] {dag.py:2941} INFO - Sync 1 DAGs
+[2024-03-01T16:12:00.329-0500] {logging_mixin.py:154} INFO - [2024-03-01T16:12:00.329-0500] {dag.py:3722} INFO - Setting next_dagrun for s3_to_postgres to 2024-02-26T00:00:00+00:00, run_after=2024-02-26T00:00:00+00:00
+[2024-03-01T16:12:00.340-0500] {processor.py:179} INFO - Processing /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/S3_to_postgres.py took 0.822 seconds
+[2024-03-01T16:12:31.705-0500] {processor.py:157} INFO - Started process (PID=62242) to work on /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/S3_to_postgres.py
+[2024-03-01T16:12:31.708-0500] {processor.py:829} INFO - Processing file /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/S3_to_postgres.py for tasks to queue
+[2024-03-01T16:12:31.709-0500] {logging_mixin.py:154} INFO - [2024-03-01T16:12:31.709-0500] {dagbag.py:536} INFO - Filling up the DagBag from /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/S3_to_postgres.py
+[2024-03-01T16:12:32.449-0500] {processor.py:839} INFO - DAG(s) dict_keys(['s3_to_postgres']) retrieved from /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/S3_to_postgres.py
+[2024-03-01T16:12:32.608-0500] {logging_mixin.py:154} INFO - [2024-03-01T16:12:32.607-0500] {dag.py:2941} INFO - Sync 1 DAGs
+[2024-03-01T16:12:32.626-0500] {logging_mixin.py:154} INFO - [2024-03-01T16:12:32.626-0500] {dag.py:3722} INFO - Setting next_dagrun for s3_to_postgres to 2024-02-26T00:00:00+00:00, run_after=2024-02-26T00:00:00+00:00
+[2024-03-01T16:12:32.639-0500] {processor.py:179} INFO - Processing /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/S3_to_postgres.py took 0.936 seconds
+[2024-03-01T16:13:05.095-0500] {processor.py:157} INFO - Started process (PID=62368) to work on /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/S3_to_postgres.py
+[2024-03-01T16:13:05.103-0500] {processor.py:829} INFO - Processing file /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/S3_to_postgres.py for tasks to queue
+[2024-03-01T16:13:05.104-0500] {logging_mixin.py:154} INFO - [2024-03-01T16:13:05.104-0500] {dagbag.py:536} INFO - Filling up the DagBag from /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/S3_to_postgres.py
+[2024-03-01T16:13:07.539-0500] {processor.py:839} INFO - DAG(s) dict_keys(['s3_to_postgres']) retrieved from /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/S3_to_postgres.py
+[2024-03-01T16:13:08.471-0500] {logging_mixin.py:154} INFO - [2024-03-01T16:13:08.471-0500] {dag.py:2941} INFO - Sync 1 DAGs
+[2024-03-01T16:13:08.855-0500] {logging_mixin.py:154} INFO - [2024-03-01T16:13:08.855-0500] {dag.py:3722} INFO - Setting next_dagrun for s3_to_postgres to 2024-02-26T00:00:00+00:00, run_after=2024-02-26T00:00:00+00:00
+[2024-03-01T16:13:08.996-0500] {processor.py:179} INFO - Processing /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/S3_to_postgres.py took 3.907 seconds
+[2024-03-01T16:13:49.786-0500] {processor.py:157} INFO - Started process (PID=62528) to work on /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/S3_to_postgres.py
+[2024-03-01T16:13:49.790-0500] {processor.py:829} INFO - Processing file /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/S3_to_postgres.py for tasks to queue
+[2024-03-01T16:13:49.790-0500] {logging_mixin.py:154} INFO - [2024-03-01T16:13:49.790-0500] {dagbag.py:536} INFO - Filling up the DagBag from /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/S3_to_postgres.py
+[2024-03-01T16:13:50.998-0500] {processor.py:839} INFO - DAG(s) dict_keys(['s3_to_postgres']) retrieved from /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/S3_to_postgres.py
+[2024-03-01T16:13:51.278-0500] {logging_mixin.py:154} INFO - [2024-03-01T16:13:51.277-0500] {dag.py:2941} INFO - Sync 1 DAGs
+[2024-03-01T16:13:51.298-0500] {logging_mixin.py:154} INFO - [2024-03-01T16:13:51.298-0500] {dag.py:3722} INFO - Setting next_dagrun for s3_to_postgres to 2024-02-26T00:00:00+00:00, run_after=2024-02-26T00:00:00+00:00
+[2024-03-01T16:13:51.311-0500] {processor.py:179} INFO - Processing /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/S3_to_postgres.py took 1.527 seconds
+[2024-03-01T16:14:23.070-0500] {processor.py:157} INFO - Started process (PID=62649) to work on /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/S3_to_postgres.py
+[2024-03-01T16:14:23.074-0500] {processor.py:829} INFO - Processing file /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/S3_to_postgres.py for tasks to queue
+[2024-03-01T16:14:23.074-0500] {logging_mixin.py:154} INFO - [2024-03-01T16:14:23.074-0500] {dagbag.py:536} INFO - Filling up the DagBag from /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/S3_to_postgres.py
+[2024-03-01T16:14:23.975-0500] {processor.py:839} INFO - DAG(s) dict_keys(['s3_to_postgres']) retrieved from /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/S3_to_postgres.py
+[2024-03-01T16:14:24.144-0500] {logging_mixin.py:154} INFO - [2024-03-01T16:14:24.144-0500] {dag.py:2941} INFO - Sync 1 DAGs
+[2024-03-01T16:14:24.163-0500] {logging_mixin.py:154} INFO - [2024-03-01T16:14:24.163-0500] {dag.py:3722} INFO - Setting next_dagrun for s3_to_postgres to 2024-02-26T00:00:00+00:00, run_after=2024-02-26T00:00:00+00:00
+[2024-03-01T16:14:24.176-0500] {processor.py:179} INFO - Processing /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/S3_to_postgres.py took 1.109 seconds
+[2024-03-01T16:14:55.441-0500] {processor.py:157} INFO - Started process (PID=62768) to work on /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/S3_to_postgres.py
+[2024-03-01T16:14:55.445-0500] {processor.py:829} INFO - Processing file /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/S3_to_postgres.py for tasks to queue
+[2024-03-01T16:14:55.445-0500] {logging_mixin.py:154} INFO - [2024-03-01T16:14:55.445-0500] {dagbag.py:536} INFO - Filling up the DagBag from /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/S3_to_postgres.py
+[2024-03-01T16:14:56.350-0500] {processor.py:839} INFO - DAG(s) dict_keys(['s3_to_postgres']) retrieved from /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/S3_to_postgres.py
+[2024-03-01T16:14:56.515-0500] {logging_mixin.py:154} INFO - [2024-03-01T16:14:56.515-0500] {dag.py:2941} INFO - Sync 1 DAGs
+[2024-03-01T16:14:56.535-0500] {logging_mixin.py:154} INFO - [2024-03-01T16:14:56.535-0500] {dag.py:3722} INFO - Setting next_dagrun for s3_to_postgres to 2024-02-26T00:00:00+00:00, run_after=2024-02-26T00:00:00+00:00
+[2024-03-01T16:14:56.548-0500] {processor.py:179} INFO - Processing /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/S3_to_postgres.py took 1.109 seconds
+[2024-03-01T16:15:28.056-0500] {processor.py:157} INFO - Started process (PID=62931) to work on /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/S3_to_postgres.py
+[2024-03-01T16:15:28.061-0500] {processor.py:829} INFO - Processing file /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/S3_to_postgres.py for tasks to queue
+[2024-03-01T16:15:28.061-0500] {logging_mixin.py:154} INFO - [2024-03-01T16:15:28.061-0500] {dagbag.py:536} INFO - Filling up the DagBag from /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/S3_to_postgres.py
+[2024-03-01T16:15:29.009-0500] {processor.py:839} INFO - DAG(s) dict_keys(['s3_to_postgres']) retrieved from /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/S3_to_postgres.py
+[2024-03-01T16:15:29.211-0500] {logging_mixin.py:154} INFO - [2024-03-01T16:15:29.210-0500] {dag.py:2941} INFO - Sync 1 DAGs
+[2024-03-01T16:15:29.245-0500] {logging_mixin.py:154} INFO - [2024-03-01T16:15:29.245-0500] {dag.py:3722} INFO - Setting next_dagrun for s3_to_postgres to 2024-02-26T00:00:00+00:00, run_after=2024-02-26T00:00:00+00:00
+[2024-03-01T16:15:29.267-0500] {processor.py:179} INFO - Processing /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/S3_to_postgres.py took 1.213 seconds
+[2024-03-01T16:16:01.225-0500] {processor.py:157} INFO - Started process (PID=63077) to work on /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/S3_to_postgres.py
+[2024-03-01T16:16:01.230-0500] {processor.py:829} INFO - Processing file /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/S3_to_postgres.py for tasks to queue
+[2024-03-01T16:16:01.231-0500] {logging_mixin.py:154} INFO - [2024-03-01T16:16:01.231-0500] {dagbag.py:536} INFO - Filling up the DagBag from /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/S3_to_postgres.py
+[2024-03-01T16:16:01.977-0500] {processor.py:839} INFO - DAG(s) dict_keys(['s3_to_postgres']) retrieved from /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/S3_to_postgres.py
+[2024-03-01T16:16:02.131-0500] {logging_mixin.py:154} INFO - [2024-03-01T16:16:02.131-0500] {dag.py:2941} INFO - Sync 1 DAGs
+[2024-03-01T16:16:02.144-0500] {logging_mixin.py:154} INFO - [2024-03-01T16:16:02.143-0500] {dag.py:3722} INFO - Setting next_dagrun for s3_to_postgres to 2024-02-26T00:00:00+00:00, run_after=2024-02-26T00:00:00+00:00
+[2024-03-01T16:16:02.153-0500] {processor.py:179} INFO - Processing /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/S3_to_postgres.py took 0.930 seconds
+[2024-03-01T16:16:34.266-0500] {processor.py:157} INFO - Started process (PID=63220) to work on /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/S3_to_postgres.py
+[2024-03-01T16:16:34.269-0500] {processor.py:829} INFO - Processing file /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/S3_to_postgres.py for tasks to queue
+[2024-03-01T16:16:34.270-0500] {logging_mixin.py:154} INFO - [2024-03-01T16:16:34.270-0500] {dagbag.py:536} INFO - Filling up the DagBag from /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/S3_to_postgres.py
+[2024-03-01T16:16:35.786-0500] {processor.py:839} INFO - DAG(s) dict_keys(['s3_to_postgres']) retrieved from /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/S3_to_postgres.py
+[2024-03-01T16:16:36.016-0500] {logging_mixin.py:154} INFO - [2024-03-01T16:16:36.014-0500] {dag.py:2941} INFO - Sync 1 DAGs
+[2024-03-01T16:16:36.043-0500] {logging_mixin.py:154} INFO - [2024-03-01T16:16:36.043-0500] {dag.py:3722} INFO - Setting next_dagrun for s3_to_postgres to 2024-02-26T00:00:00+00:00, run_after=2024-02-26T00:00:00+00:00
+[2024-03-01T16:16:36.062-0500] {processor.py:179} INFO - Processing /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/S3_to_postgres.py took 1.799 seconds
+[2024-03-01T16:17:07.466-0500] {processor.py:157} INFO - Started process (PID=63404) to work on /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/S3_to_postgres.py
+[2024-03-01T16:17:07.469-0500] {processor.py:829} INFO - Processing file /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/S3_to_postgres.py for tasks to queue
+[2024-03-01T16:17:07.470-0500] {logging_mixin.py:154} INFO - [2024-03-01T16:17:07.470-0500] {dagbag.py:536} INFO - Filling up the DagBag from /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/S3_to_postgres.py
+[2024-03-01T16:17:08.390-0500] {processor.py:839} INFO - DAG(s) dict_keys(['s3_to_postgres']) retrieved from /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/S3_to_postgres.py
+[2024-03-01T16:17:08.502-0500] {logging_mixin.py:154} INFO - [2024-03-01T16:17:08.501-0500] {dag.py:2941} INFO - Sync 1 DAGs
+[2024-03-01T16:17:08.518-0500] {logging_mixin.py:154} INFO - [2024-03-01T16:17:08.518-0500] {dag.py:3722} INFO - Setting next_dagrun for s3_to_postgres to 2024-02-26T00:00:00+00:00, run_after=2024-02-26T00:00:00+00:00
+[2024-03-01T16:17:08.529-0500] {processor.py:179} INFO - Processing /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/S3_to_postgres.py took 1.065 seconds
+[2024-03-01T16:17:40.702-0500] {processor.py:157} INFO - Started process (PID=63524) to work on /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/S3_to_postgres.py
+[2024-03-01T16:17:40.707-0500] {processor.py:829} INFO - Processing file /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/S3_to_postgres.py for tasks to queue
+[2024-03-01T16:17:40.708-0500] {logging_mixin.py:154} INFO - [2024-03-01T16:17:40.708-0500] {dagbag.py:536} INFO - Filling up the DagBag from /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/S3_to_postgres.py
+[2024-03-01T16:17:41.697-0500] {processor.py:839} INFO - DAG(s) dict_keys(['s3_to_postgres']) retrieved from /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/S3_to_postgres.py
+[2024-03-01T16:17:41.877-0500] {logging_mixin.py:154} INFO - [2024-03-01T16:17:41.877-0500] {dag.py:2941} INFO - Sync 1 DAGs
+[2024-03-01T16:17:41.897-0500] {logging_mixin.py:154} INFO - [2024-03-01T16:17:41.897-0500] {dag.py:3722} INFO - Setting next_dagrun for s3_to_postgres to 2024-02-26T00:00:00+00:00, run_after=2024-02-26T00:00:00+00:00
+[2024-03-01T16:17:41.912-0500] {processor.py:179} INFO - Processing /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/S3_to_postgres.py took 1.214 seconds
+[2024-03-01T16:18:13.202-0500] {processor.py:157} INFO - Started process (PID=63643) to work on /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/S3_to_postgres.py
+[2024-03-01T16:18:13.206-0500] {processor.py:829} INFO - Processing file /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/S3_to_postgres.py for tasks to queue
+[2024-03-01T16:18:13.206-0500] {logging_mixin.py:154} INFO - [2024-03-01T16:18:13.206-0500] {dagbag.py:536} INFO - Filling up the DagBag from /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/S3_to_postgres.py
+[2024-03-01T16:18:13.885-0500] {processor.py:839} INFO - DAG(s) dict_keys(['s3_to_postgres']) retrieved from /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/S3_to_postgres.py
+[2024-03-01T16:18:14.031-0500] {logging_mixin.py:154} INFO - [2024-03-01T16:18:14.030-0500] {dag.py:2941} INFO - Sync 1 DAGs
+[2024-03-01T16:18:14.049-0500] {logging_mixin.py:154} INFO - [2024-03-01T16:18:14.049-0500] {dag.py:3722} INFO - Setting next_dagrun for s3_to_postgres to 2024-02-26T00:00:00+00:00, run_after=2024-02-26T00:00:00+00:00
+[2024-03-01T16:18:14.061-0500] {processor.py:179} INFO - Processing /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/S3_to_postgres.py took 0.860 seconds
+[2024-03-01T16:18:45.339-0500] {processor.py:157} INFO - Started process (PID=63753) to work on /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/S3_to_postgres.py
+[2024-03-01T16:18:45.342-0500] {processor.py:829} INFO - Processing file /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/S3_to_postgres.py for tasks to queue
+[2024-03-01T16:18:45.343-0500] {logging_mixin.py:154} INFO - [2024-03-01T16:18:45.342-0500] {dagbag.py:536} INFO - Filling up the DagBag from /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/S3_to_postgres.py
+[2024-03-01T16:18:46.040-0500] {processor.py:839} INFO - DAG(s) dict_keys(['s3_to_postgres']) retrieved from /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/S3_to_postgres.py
+[2024-03-01T16:18:46.183-0500] {logging_mixin.py:154} INFO - [2024-03-01T16:18:46.182-0500] {dag.py:2941} INFO - Sync 1 DAGs
+[2024-03-01T16:18:46.199-0500] {logging_mixin.py:154} INFO - [2024-03-01T16:18:46.199-0500] {dag.py:3722} INFO - Setting next_dagrun for s3_to_postgres to 2024-02-26T00:00:00+00:00, run_after=2024-02-26T00:00:00+00:00
+[2024-03-01T16:18:46.210-0500] {processor.py:179} INFO - Processing /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/S3_to_postgres.py took 0.873 seconds
+[2024-03-01T16:19:17.568-0500] {processor.py:157} INFO - Started process (PID=63879) to work on /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/S3_to_postgres.py
+[2024-03-01T16:19:17.574-0500] {processor.py:829} INFO - Processing file /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/S3_to_postgres.py for tasks to queue
+[2024-03-01T16:19:17.574-0500] {logging_mixin.py:154} INFO - [2024-03-01T16:19:17.574-0500] {dagbag.py:536} INFO - Filling up the DagBag from /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/S3_to_postgres.py
+[2024-03-01T16:19:18.250-0500] {processor.py:839} INFO - DAG(s) dict_keys(['s3_to_postgres']) retrieved from /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/S3_to_postgres.py
+[2024-03-01T16:19:18.400-0500] {logging_mixin.py:154} INFO - [2024-03-01T16:19:18.399-0500] {dag.py:2941} INFO - Sync 1 DAGs
+[2024-03-01T16:19:18.416-0500] {logging_mixin.py:154} INFO - [2024-03-01T16:19:18.416-0500] {dag.py:3722} INFO - Setting next_dagrun for s3_to_postgres to 2024-02-26T00:00:00+00:00, run_after=2024-02-26T00:00:00+00:00
+[2024-03-01T16:19:18.428-0500] {processor.py:179} INFO - Processing /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/S3_to_postgres.py took 0.861 seconds
+[2024-03-01T16:19:49.789-0500] {processor.py:157} INFO - Started process (PID=63987) to work on /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/S3_to_postgres.py
+[2024-03-01T16:19:49.793-0500] {processor.py:829} INFO - Processing file /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/S3_to_postgres.py for tasks to queue
+[2024-03-01T16:19:49.794-0500] {logging_mixin.py:154} INFO - [2024-03-01T16:19:49.793-0500] {dagbag.py:536} INFO - Filling up the DagBag from /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/S3_to_postgres.py
+[2024-03-01T16:19:50.737-0500] {processor.py:839} INFO - DAG(s) dict_keys(['s3_to_postgres']) retrieved from /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/S3_to_postgres.py
+[2024-03-01T16:19:50.908-0500] {logging_mixin.py:154} INFO - [2024-03-01T16:19:50.908-0500] {dag.py:2941} INFO - Sync 1 DAGs
+[2024-03-01T16:19:50.926-0500] {logging_mixin.py:154} INFO - [2024-03-01T16:19:50.926-0500] {dag.py:3722} INFO - Setting next_dagrun for s3_to_postgres to 2024-02-26T00:00:00+00:00, run_after=2024-02-26T00:00:00+00:00
+[2024-03-01T16:19:50.939-0500] {processor.py:179} INFO - Processing /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/S3_to_postgres.py took 1.152 seconds
+[2024-03-01T16:20:22.639-0500] {processor.py:157} INFO - Started process (PID=64116) to work on /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/S3_to_postgres.py
+[2024-03-01T16:20:22.647-0500] {processor.py:829} INFO - Processing file /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/S3_to_postgres.py for tasks to queue
+[2024-03-01T16:20:22.647-0500] {logging_mixin.py:154} INFO - [2024-03-01T16:20:22.647-0500] {dagbag.py:536} INFO - Filling up the DagBag from /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/S3_to_postgres.py
+[2024-03-01T16:20:23.386-0500] {processor.py:839} INFO - DAG(s) dict_keys(['s3_to_postgres']) retrieved from /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/S3_to_postgres.py
+[2024-03-01T16:20:23.537-0500] {logging_mixin.py:154} INFO - [2024-03-01T16:20:23.536-0500] {dag.py:2941} INFO - Sync 1 DAGs
+[2024-03-01T16:20:23.552-0500] {logging_mixin.py:154} INFO - [2024-03-01T16:20:23.552-0500] {dag.py:3722} INFO - Setting next_dagrun for s3_to_postgres to 2024-02-26T00:00:00+00:00, run_after=2024-02-26T00:00:00+00:00
+[2024-03-01T16:20:23.563-0500] {processor.py:179} INFO - Processing /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/S3_to_postgres.py took 0.926 seconds
+[2024-03-01T16:20:54.856-0500] {processor.py:157} INFO - Started process (PID=64233) to work on /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/S3_to_postgres.py
+[2024-03-01T16:20:54.861-0500] {processor.py:829} INFO - Processing file /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/S3_to_postgres.py for tasks to queue
+[2024-03-01T16:20:54.861-0500] {logging_mixin.py:154} INFO - [2024-03-01T16:20:54.861-0500] {dagbag.py:536} INFO - Filling up the DagBag from /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/S3_to_postgres.py
+[2024-03-01T16:20:55.845-0500] {processor.py:839} INFO - DAG(s) dict_keys(['s3_to_postgres']) retrieved from /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/S3_to_postgres.py
+[2024-03-01T16:20:56.011-0500] {logging_mixin.py:154} INFO - [2024-03-01T16:20:56.011-0500] {dag.py:2941} INFO - Sync 1 DAGs
+[2024-03-01T16:20:56.026-0500] {logging_mixin.py:154} INFO - [2024-03-01T16:20:56.026-0500] {dag.py:3722} INFO - Setting next_dagrun for s3_to_postgres to 2024-02-26T00:00:00+00:00, run_after=2024-02-26T00:00:00+00:00
+[2024-03-01T16:20:56.064-0500] {processor.py:179} INFO - Processing /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/S3_to_postgres.py took 1.210 seconds
+[2024-03-01T16:21:27.359-0500] {processor.py:157} INFO - Started process (PID=64357) to work on /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/S3_to_postgres.py
+[2024-03-01T16:21:27.364-0500] {processor.py:829} INFO - Processing file /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/S3_to_postgres.py for tasks to queue
+[2024-03-01T16:21:27.365-0500] {logging_mixin.py:154} INFO - [2024-03-01T16:21:27.365-0500] {dagbag.py:536} INFO - Filling up the DagBag from /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/S3_to_postgres.py
+[2024-03-01T16:21:28.337-0500] {processor.py:839} INFO - DAG(s) dict_keys(['s3_to_postgres']) retrieved from /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/S3_to_postgres.py
+[2024-03-01T16:21:28.492-0500] {logging_mixin.py:154} INFO - [2024-03-01T16:21:28.492-0500] {dag.py:2941} INFO - Sync 1 DAGs
+[2024-03-01T16:21:28.511-0500] {logging_mixin.py:154} INFO - [2024-03-01T16:21:28.511-0500] {dag.py:3722} INFO - Setting next_dagrun for s3_to_postgres to 2024-02-26T00:00:00+00:00, run_after=2024-02-26T00:00:00+00:00
+[2024-03-01T16:21:28.524-0500] {processor.py:179} INFO - Processing /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/S3_to_postgres.py took 1.167 seconds
+[2024-03-01T16:22:00.128-0500] {processor.py:157} INFO - Started process (PID=64484) to work on /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/S3_to_postgres.py
+[2024-03-01T16:22:00.132-0500] {processor.py:829} INFO - Processing file /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/S3_to_postgres.py for tasks to queue
+[2024-03-01T16:22:00.132-0500] {logging_mixin.py:154} INFO - [2024-03-01T16:22:00.132-0500] {dagbag.py:536} INFO - Filling up the DagBag from /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/S3_to_postgres.py
+[2024-03-01T16:22:01.041-0500] {processor.py:839} INFO - DAG(s) dict_keys(['s3_to_postgres']) retrieved from /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/S3_to_postgres.py
+[2024-03-01T16:22:01.274-0500] {logging_mixin.py:154} INFO - [2024-03-01T16:22:01.274-0500] {dag.py:2941} INFO - Sync 1 DAGs
+[2024-03-01T16:22:01.294-0500] {logging_mixin.py:154} INFO - [2024-03-01T16:22:01.293-0500] {dag.py:3722} INFO - Setting next_dagrun for s3_to_postgres to 2024-02-26T00:00:00+00:00, run_after=2024-02-26T00:00:00+00:00
+[2024-03-01T16:22:01.311-0500] {processor.py:179} INFO - Processing /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/S3_to_postgres.py took 1.185 seconds
+[2024-03-01T16:22:33.230-0500] {processor.py:157} INFO - Started process (PID=64610) to work on /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/S3_to_postgres.py
+[2024-03-01T16:22:33.235-0500] {processor.py:829} INFO - Processing file /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/S3_to_postgres.py for tasks to queue
+[2024-03-01T16:22:33.236-0500] {logging_mixin.py:154} INFO - [2024-03-01T16:22:33.235-0500] {dagbag.py:536} INFO - Filling up the DagBag from /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/S3_to_postgres.py
+[2024-03-01T16:22:33.927-0500] {processor.py:839} INFO - DAG(s) dict_keys(['s3_to_postgres']) retrieved from /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/S3_to_postgres.py
+[2024-03-01T16:22:34.078-0500] {logging_mixin.py:154} INFO - [2024-03-01T16:22:34.078-0500] {dag.py:2941} INFO - Sync 1 DAGs
+[2024-03-01T16:22:34.093-0500] {logging_mixin.py:154} INFO - [2024-03-01T16:22:34.093-0500] {dag.py:3722} INFO - Setting next_dagrun for s3_to_postgres to 2024-02-26T00:00:00+00:00, run_after=2024-02-26T00:00:00+00:00
+[2024-03-01T16:22:34.103-0500] {processor.py:179} INFO - Processing /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/S3_to_postgres.py took 0.876 seconds
+[2024-03-01T16:23:05.378-0500] {processor.py:157} INFO - Started process (PID=64725) to work on /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/S3_to_postgres.py
+[2024-03-01T16:23:05.381-0500] {processor.py:829} INFO - Processing file /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/S3_to_postgres.py for tasks to queue
+[2024-03-01T16:23:05.381-0500] {logging_mixin.py:154} INFO - [2024-03-01T16:23:05.381-0500] {dagbag.py:536} INFO - Filling up the DagBag from /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/S3_to_postgres.py
+[2024-03-01T16:23:06.135-0500] {processor.py:839} INFO - DAG(s) dict_keys(['s3_to_postgres']) retrieved from /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/S3_to_postgres.py
+[2024-03-01T16:23:06.280-0500] {logging_mixin.py:154} INFO - [2024-03-01T16:23:06.280-0500] {dag.py:2941} INFO - Sync 1 DAGs
+[2024-03-01T16:23:06.297-0500] {logging_mixin.py:154} INFO - [2024-03-01T16:23:06.296-0500] {dag.py:3722} INFO - Setting next_dagrun for s3_to_postgres to 2024-02-26T00:00:00+00:00, run_after=2024-02-26T00:00:00+00:00
+[2024-03-01T16:23:06.308-0500] {processor.py:179} INFO - Processing /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/S3_to_postgres.py took 0.932 seconds
+[2024-03-01T16:23:37.801-0500] {processor.py:157} INFO - Started process (PID=64842) to work on /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/S3_to_postgres.py
+[2024-03-01T16:23:37.804-0500] {processor.py:829} INFO - Processing file /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/S3_to_postgres.py for tasks to queue
+[2024-03-01T16:23:37.804-0500] {logging_mixin.py:154} INFO - [2024-03-01T16:23:37.804-0500] {dagbag.py:536} INFO - Filling up the DagBag from /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/S3_to_postgres.py
+[2024-03-01T16:23:38.862-0500] {processor.py:839} INFO - DAG(s) dict_keys(['s3_to_postgres']) retrieved from /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/S3_to_postgres.py
+[2024-03-01T16:23:39.020-0500] {logging_mixin.py:154} INFO - [2024-03-01T16:23:39.020-0500] {dag.py:2941} INFO - Sync 1 DAGs
+[2024-03-01T16:23:39.041-0500] {logging_mixin.py:154} INFO - [2024-03-01T16:23:39.041-0500] {dag.py:3722} INFO - Setting next_dagrun for s3_to_postgres to 2024-02-26T00:00:00+00:00, run_after=2024-02-26T00:00:00+00:00
+[2024-03-01T16:23:39.054-0500] {processor.py:179} INFO - Processing /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/S3_to_postgres.py took 1.256 seconds
+[2024-03-01T16:24:10.859-0500] {processor.py:157} INFO - Started process (PID=64954) to work on /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/S3_to_postgres.py
+[2024-03-01T16:24:10.865-0500] {processor.py:829} INFO - Processing file /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/S3_to_postgres.py for tasks to queue
+[2024-03-01T16:24:10.865-0500] {logging_mixin.py:154} INFO - [2024-03-01T16:24:10.865-0500] {dagbag.py:536} INFO - Filling up the DagBag from /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/S3_to_postgres.py
+[2024-03-01T16:24:11.570-0500] {processor.py:839} INFO - DAG(s) dict_keys(['s3_to_postgres']) retrieved from /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/S3_to_postgres.py
+[2024-03-01T16:24:11.728-0500] {logging_mixin.py:154} INFO - [2024-03-01T16:24:11.727-0500] {dag.py:2941} INFO - Sync 1 DAGs
+[2024-03-01T16:24:11.744-0500] {logging_mixin.py:154} INFO - [2024-03-01T16:24:11.744-0500] {dag.py:3722} INFO - Setting next_dagrun for s3_to_postgres to 2024-02-26T00:00:00+00:00, run_after=2024-02-26T00:00:00+00:00
+[2024-03-01T16:24:11.755-0500] {processor.py:179} INFO - Processing /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/S3_to_postgres.py took 0.898 seconds
+[2024-03-01T16:24:43.059-0500] {processor.py:157} INFO - Started process (PID=65064) to work on /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/S3_to_postgres.py
+[2024-03-01T16:24:43.062-0500] {processor.py:829} INFO - Processing file /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/S3_to_postgres.py for tasks to queue
+[2024-03-01T16:24:43.063-0500] {logging_mixin.py:154} INFO - [2024-03-01T16:24:43.063-0500] {dagbag.py:536} INFO - Filling up the DagBag from /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/S3_to_postgres.py
+[2024-03-01T16:24:44.009-0500] {processor.py:839} INFO - DAG(s) dict_keys(['s3_to_postgres']) retrieved from /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/S3_to_postgres.py
+[2024-03-01T16:24:44.177-0500] {logging_mixin.py:154} INFO - [2024-03-01T16:24:44.176-0500] {dag.py:2941} INFO - Sync 1 DAGs
+[2024-03-01T16:24:44.198-0500] {logging_mixin.py:154} INFO - [2024-03-01T16:24:44.198-0500] {dag.py:3722} INFO - Setting next_dagrun for s3_to_postgres to 2024-02-26T00:00:00+00:00, run_after=2024-02-26T00:00:00+00:00
+[2024-03-01T16:24:44.211-0500] {processor.py:179} INFO - Processing /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/S3_to_postgres.py took 1.155 seconds
+[2024-03-01T16:25:15.521-0500] {processor.py:157} INFO - Started process (PID=65182) to work on /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/S3_to_postgres.py
+[2024-03-01T16:25:15.527-0500] {processor.py:829} INFO - Processing file /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/S3_to_postgres.py for tasks to queue
+[2024-03-01T16:25:15.527-0500] {logging_mixin.py:154} INFO - [2024-03-01T16:25:15.527-0500] {dagbag.py:536} INFO - Filling up the DagBag from /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/S3_to_postgres.py
+[2024-03-01T16:25:16.466-0500] {processor.py:839} INFO - DAG(s) dict_keys(['s3_to_postgres']) retrieved from /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/S3_to_postgres.py
+[2024-03-01T16:25:16.628-0500] {logging_mixin.py:154} INFO - [2024-03-01T16:25:16.628-0500] {dag.py:2941} INFO - Sync 1 DAGs
+[2024-03-01T16:25:16.648-0500] {logging_mixin.py:154} INFO - [2024-03-01T16:25:16.648-0500] {dag.py:3722} INFO - Setting next_dagrun for s3_to_postgres to 2024-02-26T00:00:00+00:00, run_after=2024-02-26T00:00:00+00:00
+[2024-03-01T16:25:16.661-0500] {processor.py:179} INFO - Processing /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/S3_to_postgres.py took 1.143 seconds
+[2024-03-01T16:25:48.038-0500] {processor.py:157} INFO - Started process (PID=65290) to work on /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/S3_to_postgres.py
+[2024-03-01T16:25:48.043-0500] {processor.py:829} INFO - Processing file /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/S3_to_postgres.py for tasks to queue
+[2024-03-01T16:25:48.044-0500] {logging_mixin.py:154} INFO - [2024-03-01T16:25:48.043-0500] {dagbag.py:536} INFO - Filling up the DagBag from /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/S3_to_postgres.py
+[2024-03-01T16:25:48.968-0500] {processor.py:839} INFO - DAG(s) dict_keys(['s3_to_postgres']) retrieved from /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/S3_to_postgres.py
+[2024-03-01T16:25:49.130-0500] {logging_mixin.py:154} INFO - [2024-03-01T16:25:49.129-0500] {dag.py:2941} INFO - Sync 1 DAGs
+[2024-03-01T16:25:49.150-0500] {logging_mixin.py:154} INFO - [2024-03-01T16:25:49.150-0500] {dag.py:3722} INFO - Setting next_dagrun for s3_to_postgres to 2024-02-26T00:00:00+00:00, run_after=2024-02-26T00:00:00+00:00
+[2024-03-01T16:25:49.164-0500] {processor.py:179} INFO - Processing /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/S3_to_postgres.py took 1.128 seconds
+[2024-03-01T16:26:20.582-0500] {processor.py:157} INFO - Started process (PID=65403) to work on /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/S3_to_postgres.py
+[2024-03-01T16:26:20.588-0500] {processor.py:829} INFO - Processing file /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/S3_to_postgres.py for tasks to queue
+[2024-03-01T16:26:20.588-0500] {logging_mixin.py:154} INFO - [2024-03-01T16:26:20.588-0500] {dagbag.py:536} INFO - Filling up the DagBag from /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/S3_to_postgres.py
+[2024-03-01T16:26:21.465-0500] {processor.py:839} INFO - DAG(s) dict_keys(['s3_to_postgres']) retrieved from /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/S3_to_postgres.py
+[2024-03-01T16:26:21.635-0500] {logging_mixin.py:154} INFO - [2024-03-01T16:26:21.635-0500] {dag.py:2941} INFO - Sync 1 DAGs
+[2024-03-01T16:26:21.651-0500] {logging_mixin.py:154} INFO - [2024-03-01T16:26:21.651-0500] {dag.py:3722} INFO - Setting next_dagrun for s3_to_postgres to 2024-02-26T00:00:00+00:00, run_after=2024-02-26T00:00:00+00:00
+[2024-03-01T16:26:21.666-0500] {processor.py:179} INFO - Processing /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/S3_to_postgres.py took 1.086 seconds
+[2024-03-01T16:26:53.299-0500] {processor.py:157} INFO - Started process (PID=65513) to work on /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/S3_to_postgres.py
+[2024-03-01T16:26:53.304-0500] {processor.py:829} INFO - Processing file /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/S3_to_postgres.py for tasks to queue
+[2024-03-01T16:26:53.305-0500] {logging_mixin.py:154} INFO - [2024-03-01T16:26:53.305-0500] {dagbag.py:536} INFO - Filling up the DagBag from /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/S3_to_postgres.py
+[2024-03-01T16:26:54.187-0500] {processor.py:839} INFO - DAG(s) dict_keys(['s3_to_postgres']) retrieved from /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/S3_to_postgres.py
+[2024-03-01T16:26:54.363-0500] {logging_mixin.py:154} INFO - [2024-03-01T16:26:54.362-0500] {dag.py:2941} INFO - Sync 1 DAGs
+[2024-03-01T16:26:54.382-0500] {logging_mixin.py:154} INFO - [2024-03-01T16:26:54.382-0500] {dag.py:3722} INFO - Setting next_dagrun for s3_to_postgres to 2024-02-26T00:00:00+00:00, run_after=2024-02-26T00:00:00+00:00
+[2024-03-01T16:26:54.394-0500] {processor.py:179} INFO - Processing /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/S3_to_postgres.py took 1.097 seconds
+[2024-03-01T16:27:26.388-0500] {processor.py:157} INFO - Started process (PID=65628) to work on /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/S3_to_postgres.py
+[2024-03-01T16:27:26.395-0500] {processor.py:829} INFO - Processing file /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/S3_to_postgres.py for tasks to queue
+[2024-03-01T16:27:26.395-0500] {logging_mixin.py:154} INFO - [2024-03-01T16:27:26.395-0500] {dagbag.py:536} INFO - Filling up the DagBag from /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/S3_to_postgres.py
+[2024-03-01T16:27:27.202-0500] {processor.py:839} INFO - DAG(s) dict_keys(['s3_to_postgres']) retrieved from /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/S3_to_postgres.py
+[2024-03-01T16:27:27.389-0500] {logging_mixin.py:154} INFO - [2024-03-01T16:27:27.388-0500] {dag.py:2941} INFO - Sync 1 DAGs
+[2024-03-01T16:27:27.406-0500] {logging_mixin.py:154} INFO - [2024-03-01T16:27:27.406-0500] {dag.py:3722} INFO - Setting next_dagrun for s3_to_postgres to 2024-02-26T00:00:00+00:00, run_after=2024-02-26T00:00:00+00:00
+[2024-03-01T16:27:27.419-0500] {processor.py:179} INFO - Processing /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/S3_to_postgres.py took 1.033 seconds

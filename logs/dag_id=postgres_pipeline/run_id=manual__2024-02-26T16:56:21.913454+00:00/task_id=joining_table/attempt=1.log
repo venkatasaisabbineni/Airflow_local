@@ -1,0 +1,32 @@
+[2024-02-26T11:56:27.980-0500] {taskinstance.py:1159} INFO - Dependencies all met for dep_context=non-requeueable deps ti=<TaskInstance: postgres_pipeline.joining_table manual__2024-02-26T16:56:21.913454+00:00 [queued]>
+[2024-02-26T11:56:27.988-0500] {taskinstance.py:1159} INFO - Dependencies all met for dep_context=requeueable deps ti=<TaskInstance: postgres_pipeline.joining_table manual__2024-02-26T16:56:21.913454+00:00 [queued]>
+[2024-02-26T11:56:27.990-0500] {taskinstance.py:1361} INFO - Starting attempt 1 of 1
+[2024-02-26T11:56:28.001-0500] {taskinstance.py:1382} INFO - Executing <Task(PostgresOperator): joining_table> on 2024-02-26 16:56:21.913454+00:00
+[2024-02-26T11:56:28.004-0500] {standard_task_runner.py:57} INFO - Started process 23185 to run task
+[2024-02-26T11:56:28.008-0500] {standard_task_runner.py:84} INFO - Running: ['airflow', 'tasks', 'run', 'postgres_pipeline', 'joining_table', 'manual__2024-02-26T16:56:21.913454+00:00', '--job-id', '31', '--raw', '--subdir', 'DAGS_FOLDER/postgres_pipeline.py', '--cfg-path', '/var/folders/0j/ct19m_4d33qfzqs3tkf7s7rm0000gq/T/tmpe6prbltc']
+[2024-02-26T11:56:28.010-0500] {standard_task_runner.py:85} INFO - Job 31: Subtask joining_table
+[2024-02-26T11:56:28.087-0500] {task_command.py:416} INFO - Running <TaskInstance: postgres_pipeline.joining_table manual__2024-02-26T16:56:21.913454+00:00 [running]> on host venkatasaismbp.hsd1.nj.comcast.net
+[2024-02-26T11:56:28.170-0500] {taskinstance.py:1662} INFO - Exporting env vars: AIRFLOW_CTX_DAG_OWNER='loonycorn' AIRFLOW_CTX_DAG_ID='postgres_pipeline' AIRFLOW_CTX_TASK_ID='joining_table' AIRFLOW_CTX_EXECUTION_DATE='2024-02-26T16:56:21.913454+00:00' AIRFLOW_CTX_TRY_NUMBER='1' AIRFLOW_CTX_DAG_RUN_ID='manual__2024-02-26T16:56:21.913454+00:00'
+[2024-02-26T11:56:28.171-0500] {sql.py:274} INFO - Executing: CREATE TABLE complete_customer_details
+AS
+SELECT customers.id, 
+       customers.name, 
+       customer_purchases.product, 
+       customer_purchases.price
+FROM customers RIGHT JOIN customer_purchases
+ON customers.id = customer_purchases.customer_id;
+[2024-02-26T11:56:28.186-0500] {base.py:73} INFO - Using connection ID 'postgres_connection' for task execution.
+[2024-02-26T11:56:28.284-0500] {base.py:73} INFO - Using connection ID 'postgres_connection' for task execution.
+[2024-02-26T11:56:28.298-0500] {sql.py:418} INFO - Running statement: CREATE TABLE complete_customer_details
+AS
+SELECT customers.id, 
+       customers.name, 
+       customer_purchases.product, 
+       customer_purchases.price
+FROM customers RIGHT JOIN customer_purchases
+ON customers.id = customer_purchases.customer_id;, parameters: None
+[2024-02-26T11:56:28.300-0500] {sql.py:427} INFO - Rows affected: 20
+[2024-02-26T11:56:28.316-0500] {taskinstance.py:1400} INFO - Marking task as SUCCESS. dag_id=postgres_pipeline, task_id=joining_table, execution_date=20240226T165621, start_date=20240226T165627, end_date=20240226T165628
+[2024-02-26T11:56:28.348-0500] {local_task_job_runner.py:228} INFO - Task exited with return code 0
+[2024-02-26T11:56:28.372-0500] {logging_mixin.py:154} WARNING - /Users/venkatasaisabbineni/Desktop/Airflow_local/airflow_env/lib/python3.11/site-packages/airflow/models/baseoperator.py:1203 AirflowProviderDeprecationWarning: Call to deprecated class PostgresOperator. (Please use `airflow.providers.common.sql.operators.sql.SQLExecuteQueryOperator`.Also, you can provide `hook_params={'schema': <database>}`.)
+[2024-02-26T11:56:28.381-0500] {taskinstance.py:2778} INFO - 0 downstream tasks scheduled from follow-on schedule check

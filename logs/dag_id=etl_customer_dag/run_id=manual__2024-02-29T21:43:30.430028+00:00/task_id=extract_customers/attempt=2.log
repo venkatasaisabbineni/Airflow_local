@@ -1,0 +1,25 @@
+[2024-03-01T15:09:15.958-0500] {taskinstance.py:1159} INFO - Dependencies all met for dep_context=non-requeueable deps ti=<TaskInstance: etl_customer_dag.extract_customers manual__2024-02-29T21:43:30.430028+00:00 [queued]>
+[2024-03-01T15:09:16.106-0500] {taskinstance.py:1159} INFO - Dependencies all met for dep_context=requeueable deps ti=<TaskInstance: etl_customer_dag.extract_customers manual__2024-02-29T21:43:30.430028+00:00 [queued]>
+[2024-03-01T15:09:16.107-0500] {taskinstance.py:1361} INFO - Starting attempt 2 of 2
+[2024-03-01T15:09:16.125-0500] {taskinstance.py:1382} INFO - Executing <Task(PostgresOperator): extract_customers> on 2024-02-29 21:43:30.430028+00:00
+[2024-03-01T15:09:16.132-0500] {standard_task_runner.py:57} INFO - Started process 53630 to run task
+[2024-03-01T15:09:16.144-0500] {standard_task_runner.py:84} INFO - Running: ['airflow', 'tasks', 'run', 'etl_customer_dag', 'extract_customers', 'manual__2024-02-29T21:43:30.430028+00:00', '--job-id', '132', '--raw', '--subdir', 'DAGS_FOLDER/etl_customer_dag.py', '--cfg-path', '/var/folders/0j/ct19m_4d33qfzqs3tkf7s7rm0000gq/T/tmp9svbbq_2']
+[2024-03-01T15:09:16.146-0500] {standard_task_runner.py:85} INFO - Job 132: Subtask extract_customers
+[2024-03-01T15:09:16.327-0500] {task_command.py:416} INFO - Running <TaskInstance: etl_customer_dag.extract_customers manual__2024-02-29T21:43:30.430028+00:00 [running]> on host venkatasaismbp.hsd1.nj.comcast.net
+[2024-03-01T15:09:16.551-0500] {taskinstance.py:1662} INFO - Exporting env vars: AIRFLOW_CTX_DAG_OWNER='Venkata' AIRFLOW_CTX_DAG_ID='etl_customer_dag' AIRFLOW_CTX_TASK_ID='extract_customers' AIRFLOW_CTX_EXECUTION_DATE='2024-02-29T21:43:30.430028+00:00' AIRFLOW_CTX_TRY_NUMBER='2' AIRFLOW_CTX_DAG_RUN_ID='manual__2024-02-29T21:43:30.430028+00:00'
+[2024-03-01T15:09:16.554-0500] {sql.py:276} INFO - Executing: 
+            SELECT * 
+            FROM customer_credit_card_details;
+        
+[2024-03-01T15:09:16.597-0500] {base.py:73} INFO - Using connection ID 'postgres_connection' for task execution.
+[2024-03-01T15:09:16.900-0500] {base.py:73} INFO - Using connection ID 'postgres_connection' for task execution.
+[2024-03-01T15:09:16.923-0500] {sql.py:457} INFO - Running statement: 
+            SELECT * 
+            FROM customer_credit_card_details;
+        , parameters: None
+[2024-03-01T15:09:16.926-0500] {sql.py:466} INFO - Rows affected: 1000
+[2024-03-01T15:09:16.933-0500] {logging_mixin.py:154} WARNING - /Users/venkatasaisabbineni/Desktop/Airflow_local/airflow_env/lib/python3.11/site-packages/airflow/providers/common/sql/hooks/sql.py:407 AirflowProviderDeprecationWarning: Call to deprecated method _make_common_data_structure. (The `_make_serializable` method is deprecated and support will be removed in a future version of the common.sql provider. Please update the DbApiHook's provider to a version based on common.sql >= 1.9.1.)
+[2024-03-01T15:09:17.012-0500] {taskinstance.py:1400} INFO - Marking task as SUCCESS. dag_id=etl_customer_dag, task_id=extract_customers, execution_date=20240229T214330, start_date=20240301T200915, end_date=20240301T200917
+[2024-03-01T15:09:17.031-0500] {local_task_job_runner.py:228} INFO - Task exited with return code 0
+[2024-03-01T15:09:17.075-0500] {logging_mixin.py:154} WARNING - /Users/venkatasaisabbineni/Desktop/Airflow_local/airflow_env/lib/python3.11/site-packages/airflow/models/baseoperator.py:1203 AirflowProviderDeprecationWarning: Call to deprecated class PostgresOperator. (Please use `airflow.providers.common.sql.operators.sql.SQLExecuteQueryOperator`.Also, you can provide `hook_params={'schema': <database>}`.)
+[2024-03-01T15:09:17.092-0500] {taskinstance.py:2778} INFO - 1 downstream tasks scheduled from follow-on schedule check

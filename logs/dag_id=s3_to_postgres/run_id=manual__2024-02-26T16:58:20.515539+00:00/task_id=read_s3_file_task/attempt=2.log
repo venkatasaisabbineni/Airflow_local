@@ -1,0 +1,10 @@
+[2024-02-26T11:59:00.809-0500] {taskinstance.py:1159} INFO - Dependencies all met for dep_context=non-requeueable deps ti=<TaskInstance: s3_to_postgres.read_s3_file_task manual__2024-02-26T16:58:20.515539+00:00 [queued]>
+[2024-02-26T11:59:00.814-0500] {taskinstance.py:1159} INFO - Dependencies all met for dep_context=requeueable deps ti=<TaskInstance: s3_to_postgres.read_s3_file_task manual__2024-02-26T16:58:20.515539+00:00 [queued]>
+[2024-02-26T11:59:00.814-0500] {taskinstance.py:1361} INFO - Starting attempt 2 of 2
+[2024-02-26T11:59:00.821-0500] {taskinstance.py:1382} INFO - Executing <Task(PythonOperator): read_s3_file_task> on 2024-02-26 16:58:20.515539+00:00
+[2024-02-26T11:59:00.823-0500] {standard_task_runner.py:57} INFO - Started process 23788 to run task
+[2024-02-26T11:59:00.826-0500] {standard_task_runner.py:84} INFO - Running: ['airflow', 'tasks', 'run', 's3_to_postgres', 'read_s3_file_task', 'manual__2024-02-26T16:58:20.515539+00:00', '--job-id', '35', '--raw', '--subdir', 'DAGS_FOLDER/S3_to_postgres.py', '--cfg-path', '/var/folders/0j/ct19m_4d33qfzqs3tkf7s7rm0000gq/T/tmpili8wsjz']
+[2024-02-26T11:59:00.828-0500] {standard_task_runner.py:85} INFO - Job 35: Subtask read_s3_file_task
+[2024-02-26T11:59:00.894-0500] {task_command.py:416} INFO - Running <TaskInstance: s3_to_postgres.read_s3_file_task manual__2024-02-26T16:58:20.515539+00:00 [running]> on host venkatasaismbp.hsd1.nj.comcast.net
+[2024-02-26T11:59:01.167-0500] {local_task_job_runner.py:228} INFO - Task exited with return code -5
+[2024-02-26T11:59:01.199-0500] {taskinstance.py:2778} INFO - 0 downstream tasks scheduled from follow-on schedule check

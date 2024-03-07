@@ -1,0 +1,364 @@
+[2024-02-26T12:27:32.702-0500] {processor.py:157} INFO - Started process (PID=30420) to work on /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/etl_customer_dag.py
+[2024-02-26T12:27:32.706-0500] {processor.py:829} INFO - Processing file /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/etl_customer_dag.py for tasks to queue
+[2024-02-26T12:27:32.707-0500] {logging_mixin.py:154} INFO - [2024-02-26T12:27:32.707-0500] {dagbag.py:536} INFO - Filling up the DagBag from /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/etl_customer_dag.py
+[2024-02-26T12:27:32.817-0500] {processor.py:839} INFO - DAG(s) dict_keys(['etl_customer_dag']) retrieved from /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/etl_customer_dag.py
+[2024-02-26T12:27:33.029-0500] {logging_mixin.py:154} INFO - [2024-02-26T12:27:33.028-0500] {dag.py:2941} INFO - Sync 1 DAGs
+[2024-02-26T12:27:33.203-0500] {logging_mixin.py:154} INFO - [2024-02-26T12:27:33.203-0500] {dag.py:3722} INFO - Setting next_dagrun for etl_customer_dag to 2024-02-25T00:00:00+00:00, run_after=2024-02-25T00:00:00+00:00
+[2024-02-26T12:27:33.226-0500] {processor.py:179} INFO - Processing /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/etl_customer_dag.py took 0.529 seconds
+[2024-02-26T12:27:53.472-0500] {processor.py:157} INFO - Started process (PID=30645) to work on /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/etl_customer_dag.py
+[2024-02-26T12:27:53.475-0500] {processor.py:829} INFO - Processing file /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/etl_customer_dag.py for tasks to queue
+[2024-02-26T12:27:53.476-0500] {logging_mixin.py:154} INFO - [2024-02-26T12:27:53.476-0500] {dagbag.py:536} INFO - Filling up the DagBag from /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/etl_customer_dag.py
+[2024-02-26T12:27:53.513-0500] {processor.py:839} INFO - DAG(s) dict_keys(['etl_customer_dag']) retrieved from /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/etl_customer_dag.py
+[2024-02-26T12:27:53.640-0500] {logging_mixin.py:154} INFO - [2024-02-26T12:27:53.640-0500] {taskinstance.py:1939} ERROR - {'DAG Id': 'etl_customer_dag', 'Task Id': 'extract_customers', 'Run Id': 'manual__2024-02-26T17:27:49.689406+00:00', 'Hostname': 'venkatasaismbp.hsd1.nj.comcast.net'}
+[2024-02-26T12:27:53.651-0500] {logging_mixin.py:154} INFO - [2024-02-26T12:27:53.651-0500] {taskinstance.py:1400} INFO - Marking task as FAILED. dag_id=etl_customer_dag, task_id=extract_customers, execution_date=20240226T172749, start_date=20240226T172751, end_date=20240226T172753
+[2024-02-26T12:27:53.658-0500] {processor.py:790} INFO - Executed failure callback for <TaskInstance: etl_customer_dag.extract_customers manual__2024-02-26T17:27:49.689406+00:00 [failed]> in state failed
+[2024-02-26T12:27:53.700-0500] {logging_mixin.py:154} INFO - [2024-02-26T12:27:53.700-0500] {dag.py:2941} INFO - Sync 1 DAGs
+[2024-02-26T12:27:53.713-0500] {logging_mixin.py:154} INFO - [2024-02-26T12:27:53.712-0500] {dag.py:3722} INFO - Setting next_dagrun for etl_customer_dag to None, run_after=None
+[2024-02-26T12:27:53.723-0500] {processor.py:179} INFO - Processing /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/etl_customer_dag.py took 0.254 seconds
+[2024-02-26T12:28:24.645-0500] {processor.py:157} INFO - Started process (PID=30744) to work on /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/etl_customer_dag.py
+[2024-02-26T12:28:24.647-0500] {processor.py:829} INFO - Processing file /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/etl_customer_dag.py for tasks to queue
+[2024-02-26T12:28:24.648-0500] {logging_mixin.py:154} INFO - [2024-02-26T12:28:24.648-0500] {dagbag.py:536} INFO - Filling up the DagBag from /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/etl_customer_dag.py
+[2024-02-26T12:28:24.684-0500] {processor.py:839} INFO - DAG(s) dict_keys(['etl_customer_dag']) retrieved from /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/etl_customer_dag.py
+[2024-02-26T12:28:24.830-0500] {logging_mixin.py:154} INFO - [2024-02-26T12:28:24.829-0500] {dag.py:2941} INFO - Sync 1 DAGs
+[2024-02-26T12:28:24.846-0500] {logging_mixin.py:154} INFO - [2024-02-26T12:28:24.846-0500] {dag.py:3722} INFO - Setting next_dagrun for etl_customer_dag to None, run_after=None
+[2024-02-26T12:28:24.856-0500] {processor.py:179} INFO - Processing /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/etl_customer_dag.py took 0.214 seconds
+[2024-02-26T12:28:56.773-0500] {processor.py:157} INFO - Started process (PID=30900) to work on /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/etl_customer_dag.py
+[2024-02-26T12:28:56.776-0500] {processor.py:829} INFO - Processing file /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/etl_customer_dag.py for tasks to queue
+[2024-02-26T12:28:56.777-0500] {logging_mixin.py:154} INFO - [2024-02-26T12:28:56.777-0500] {dagbag.py:536} INFO - Filling up the DagBag from /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/etl_customer_dag.py
+[2024-02-26T12:28:56.825-0500] {processor.py:839} INFO - DAG(s) dict_keys(['etl_customer_dag']) retrieved from /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/etl_customer_dag.py
+[2024-02-26T12:28:56.996-0500] {logging_mixin.py:154} INFO - [2024-02-26T12:28:56.995-0500] {dag.py:2941} INFO - Sync 1 DAGs
+[2024-02-26T12:28:57.012-0500] {logging_mixin.py:154} INFO - [2024-02-26T12:28:57.012-0500] {dag.py:3722} INFO - Setting next_dagrun for etl_customer_dag to None, run_after=None
+[2024-02-26T12:28:57.026-0500] {processor.py:179} INFO - Processing /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/etl_customer_dag.py took 0.255 seconds
+[2024-02-26T12:29:29.236-0500] {processor.py:157} INFO - Started process (PID=31010) to work on /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/etl_customer_dag.py
+[2024-02-26T12:29:29.239-0500] {processor.py:829} INFO - Processing file /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/etl_customer_dag.py for tasks to queue
+[2024-02-26T12:29:29.240-0500] {logging_mixin.py:154} INFO - [2024-02-26T12:29:29.240-0500] {dagbag.py:536} INFO - Filling up the DagBag from /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/etl_customer_dag.py
+[2024-02-26T12:29:29.293-0500] {processor.py:839} INFO - DAG(s) dict_keys(['etl_customer_dag']) retrieved from /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/etl_customer_dag.py
+[2024-02-26T12:29:29.455-0500] {logging_mixin.py:154} INFO - [2024-02-26T12:29:29.455-0500] {dag.py:2941} INFO - Sync 1 DAGs
+[2024-02-26T12:29:29.473-0500] {logging_mixin.py:154} INFO - [2024-02-26T12:29:29.473-0500] {dag.py:3722} INFO - Setting next_dagrun for etl_customer_dag to None, run_after=None
+[2024-02-26T12:29:29.486-0500] {processor.py:179} INFO - Processing /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/etl_customer_dag.py took 0.253 seconds
+[2024-02-26T12:30:00.426-0500] {processor.py:157} INFO - Started process (PID=31098) to work on /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/etl_customer_dag.py
+[2024-02-26T12:30:00.429-0500] {processor.py:829} INFO - Processing file /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/etl_customer_dag.py for tasks to queue
+[2024-02-26T12:30:00.430-0500] {logging_mixin.py:154} INFO - [2024-02-26T12:30:00.430-0500] {dagbag.py:536} INFO - Filling up the DagBag from /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/etl_customer_dag.py
+[2024-02-26T12:30:00.460-0500] {processor.py:839} INFO - DAG(s) dict_keys(['etl_customer_dag']) retrieved from /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/etl_customer_dag.py
+[2024-02-26T12:30:00.583-0500] {logging_mixin.py:154} INFO - [2024-02-26T12:30:00.583-0500] {dag.py:2941} INFO - Sync 1 DAGs
+[2024-02-26T12:30:00.599-0500] {logging_mixin.py:154} INFO - [2024-02-26T12:30:00.599-0500] {dag.py:3722} INFO - Setting next_dagrun for etl_customer_dag to None, run_after=None
+[2024-02-26T12:30:00.610-0500] {processor.py:179} INFO - Processing /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/etl_customer_dag.py took 0.186 seconds
+[2024-02-26T12:30:08.127-0500] {processor.py:157} INFO - Started process (PID=31123) to work on /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/etl_customer_dag.py
+[2024-02-26T12:30:08.130-0500] {processor.py:829} INFO - Processing file /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/etl_customer_dag.py for tasks to queue
+[2024-02-26T12:30:08.130-0500] {logging_mixin.py:154} INFO - [2024-02-26T12:30:08.130-0500] {dagbag.py:536} INFO - Filling up the DagBag from /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/etl_customer_dag.py
+[2024-02-26T12:30:08.168-0500] {processor.py:839} INFO - DAG(s) dict_keys(['etl_customer_dag']) retrieved from /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/etl_customer_dag.py
+[2024-02-26T12:30:09.007-0500] {logging_mixin.py:154} INFO - [2024-02-26T12:30:09.006-0500] {dag.py:2941} INFO - Sync 1 DAGs
+[2024-02-26T12:30:09.029-0500] {logging_mixin.py:154} INFO - [2024-02-26T12:30:09.029-0500] {dag.py:3722} INFO - Setting next_dagrun for etl_customer_dag to None, run_after=None
+[2024-02-26T12:30:09.053-0500] {processor.py:179} INFO - Processing /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/etl_customer_dag.py took 0.927 seconds
+[2024-02-26T12:30:33.989-0500] {processor.py:157} INFO - Started process (PID=31233) to work on /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/etl_customer_dag.py
+[2024-02-26T12:30:33.992-0500] {processor.py:829} INFO - Processing file /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/etl_customer_dag.py for tasks to queue
+[2024-02-26T12:30:33.993-0500] {logging_mixin.py:154} INFO - [2024-02-26T12:30:33.992-0500] {dagbag.py:536} INFO - Filling up the DagBag from /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/etl_customer_dag.py
+[2024-02-26T12:30:34.029-0500] {processor.py:839} INFO - DAG(s) dict_keys(['etl_customer_dag']) retrieved from /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/etl_customer_dag.py
+[2024-02-26T12:30:34.144-0500] {logging_mixin.py:154} INFO - [2024-02-26T12:30:34.143-0500] {taskinstance.py:1939} ERROR - {'DAG Id': 'etl_customer_dag', 'Task Id': 'extract_customers', 'Run Id': 'manual__2024-02-26T17:30:30.308230+00:00', 'Hostname': 'venkatasaismbp.hsd1.nj.comcast.net'}
+[2024-02-26T12:30:34.158-0500] {logging_mixin.py:154} INFO - [2024-02-26T12:30:34.158-0500] {taskinstance.py:1400} INFO - Marking task as FAILED. dag_id=etl_customer_dag, task_id=extract_customers, execution_date=20240226T173030, start_date=20240226T173032, end_date=20240226T173034
+[2024-02-26T12:30:34.165-0500] {processor.py:790} INFO - Executed failure callback for <TaskInstance: etl_customer_dag.extract_customers manual__2024-02-26T17:30:30.308230+00:00 [failed]> in state failed
+[2024-02-26T12:30:34.171-0500] {logging_mixin.py:154} INFO - [2024-02-26T12:30:34.171-0500] {dag.py:2941} INFO - Sync 1 DAGs
+[2024-02-26T12:30:34.183-0500] {logging_mixin.py:154} INFO - [2024-02-26T12:30:34.183-0500] {dag.py:3722} INFO - Setting next_dagrun for etl_customer_dag to None, run_after=None
+[2024-02-26T12:30:34.193-0500] {processor.py:179} INFO - Processing /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/etl_customer_dag.py took 0.206 seconds
+[2024-02-26T12:31:05.015-0500] {processor.py:157} INFO - Started process (PID=31335) to work on /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/etl_customer_dag.py
+[2024-02-26T12:31:05.018-0500] {processor.py:829} INFO - Processing file /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/etl_customer_dag.py for tasks to queue
+[2024-02-26T12:31:05.018-0500] {logging_mixin.py:154} INFO - [2024-02-26T12:31:05.018-0500] {dagbag.py:536} INFO - Filling up the DagBag from /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/etl_customer_dag.py
+[2024-02-26T12:31:05.047-0500] {processor.py:839} INFO - DAG(s) dict_keys(['etl_customer_dag']) retrieved from /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/etl_customer_dag.py
+[2024-02-26T12:31:05.176-0500] {logging_mixin.py:154} INFO - [2024-02-26T12:31:05.175-0500] {dag.py:2941} INFO - Sync 1 DAGs
+[2024-02-26T12:31:05.189-0500] {logging_mixin.py:154} INFO - [2024-02-26T12:31:05.189-0500] {dag.py:3722} INFO - Setting next_dagrun for etl_customer_dag to None, run_after=None
+[2024-02-26T12:31:05.198-0500] {processor.py:179} INFO - Processing /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/etl_customer_dag.py took 0.185 seconds
+[2024-02-26T12:31:36.219-0500] {processor.py:157} INFO - Started process (PID=31420) to work on /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/etl_customer_dag.py
+[2024-02-26T12:31:36.222-0500] {processor.py:829} INFO - Processing file /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/etl_customer_dag.py for tasks to queue
+[2024-02-26T12:31:36.222-0500] {logging_mixin.py:154} INFO - [2024-02-26T12:31:36.222-0500] {dagbag.py:536} INFO - Filling up the DagBag from /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/etl_customer_dag.py
+[2024-02-26T12:31:36.262-0500] {processor.py:839} INFO - DAG(s) dict_keys(['etl_customer_dag']) retrieved from /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/etl_customer_dag.py
+[2024-02-26T12:31:36.411-0500] {logging_mixin.py:154} INFO - [2024-02-26T12:31:36.411-0500] {dag.py:2941} INFO - Sync 1 DAGs
+[2024-02-26T12:31:36.426-0500] {logging_mixin.py:154} INFO - [2024-02-26T12:31:36.426-0500] {dag.py:3722} INFO - Setting next_dagrun for etl_customer_dag to None, run_after=None
+[2024-02-26T12:31:36.436-0500] {processor.py:179} INFO - Processing /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/etl_customer_dag.py took 0.219 seconds
+[2024-02-26T12:32:07.832-0500] {processor.py:157} INFO - Started process (PID=31503) to work on /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/etl_customer_dag.py
+[2024-02-26T12:32:07.835-0500] {processor.py:829} INFO - Processing file /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/etl_customer_dag.py for tasks to queue
+[2024-02-26T12:32:07.836-0500] {logging_mixin.py:154} INFO - [2024-02-26T12:32:07.836-0500] {dagbag.py:536} INFO - Filling up the DagBag from /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/etl_customer_dag.py
+[2024-02-26T12:32:07.955-0500] {processor.py:839} INFO - DAG(s) dict_keys(['etl_customer_dag']) retrieved from /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/etl_customer_dag.py
+[2024-02-26T12:32:08.115-0500] {logging_mixin.py:154} INFO - [2024-02-26T12:32:08.115-0500] {dag.py:2941} INFO - Sync 1 DAGs
+[2024-02-26T12:32:08.132-0500] {logging_mixin.py:154} INFO - [2024-02-26T12:32:08.131-0500] {dag.py:3722} INFO - Setting next_dagrun for etl_customer_dag to None, run_after=None
+[2024-02-26T12:32:08.144-0500] {processor.py:179} INFO - Processing /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/etl_customer_dag.py took 0.315 seconds
+[2024-02-26T12:32:13.561-0500] {processor.py:157} INFO - Started process (PID=31524) to work on /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/etl_customer_dag.py
+[2024-02-26T12:32:13.563-0500] {processor.py:829} INFO - Processing file /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/etl_customer_dag.py for tasks to queue
+[2024-02-26T12:32:13.564-0500] {logging_mixin.py:154} INFO - [2024-02-26T12:32:13.564-0500] {dagbag.py:536} INFO - Filling up the DagBag from /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/etl_customer_dag.py
+[2024-02-26T12:32:13.599-0500] {processor.py:839} INFO - DAG(s) dict_keys(['etl_customer_dag']) retrieved from /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/etl_customer_dag.py
+[2024-02-26T12:32:13.729-0500] {logging_mixin.py:154} INFO - [2024-02-26T12:32:13.728-0500] {dag.py:2941} INFO - Sync 1 DAGs
+[2024-02-26T12:32:13.743-0500] {logging_mixin.py:154} INFO - [2024-02-26T12:32:13.743-0500] {dag.py:3722} INFO - Setting next_dagrun for etl_customer_dag to None, run_after=None
+[2024-02-26T12:32:13.756-0500] {processor.py:179} INFO - Processing /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/etl_customer_dag.py took 0.197 seconds
+[2024-02-26T12:32:15.016-0500] {processor.py:157} INFO - Started process (PID=31531) to work on /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/etl_customer_dag.py
+[2024-02-26T12:32:15.019-0500] {processor.py:829} INFO - Processing file /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/etl_customer_dag.py for tasks to queue
+[2024-02-26T12:32:15.020-0500] {logging_mixin.py:154} INFO - [2024-02-26T12:32:15.020-0500] {dagbag.py:536} INFO - Filling up the DagBag from /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/etl_customer_dag.py
+[2024-02-26T12:32:15.056-0500] {processor.py:839} INFO - DAG(s) dict_keys(['etl_customer_dag']) retrieved from /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/etl_customer_dag.py
+[2024-02-26T12:32:15.201-0500] {logging_mixin.py:154} INFO - [2024-02-26T12:32:15.201-0500] {dag.py:2941} INFO - Sync 1 DAGs
+[2024-02-26T12:32:15.215-0500] {logging_mixin.py:154} INFO - [2024-02-26T12:32:15.215-0500] {dag.py:3722} INFO - Setting next_dagrun for etl_customer_dag to None, run_after=None
+[2024-02-26T12:32:15.230-0500] {processor.py:179} INFO - Processing /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/etl_customer_dag.py took 0.215 seconds
+[2024-02-26T12:32:16.571-0500] {processor.py:157} INFO - Started process (PID=31534) to work on /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/etl_customer_dag.py
+[2024-02-26T12:32:16.573-0500] {processor.py:829} INFO - Processing file /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/etl_customer_dag.py for tasks to queue
+[2024-02-26T12:32:16.574-0500] {logging_mixin.py:154} INFO - [2024-02-26T12:32:16.574-0500] {dagbag.py:536} INFO - Filling up the DagBag from /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/etl_customer_dag.py
+[2024-02-26T12:32:16.603-0500] {processor.py:839} INFO - DAG(s) dict_keys(['etl_customer_dag']) retrieved from /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/etl_customer_dag.py
+[2024-02-26T12:32:16.729-0500] {logging_mixin.py:154} INFO - [2024-02-26T12:32:16.729-0500] {dag.py:2941} INFO - Sync 1 DAGs
+[2024-02-26T12:32:16.744-0500] {logging_mixin.py:154} INFO - [2024-02-26T12:32:16.743-0500] {dag.py:3722} INFO - Setting next_dagrun for etl_customer_dag to None, run_after=None
+[2024-02-26T12:32:16.755-0500] {processor.py:179} INFO - Processing /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/etl_customer_dag.py took 0.186 seconds
+[2024-02-26T12:32:18.054-0500] {processor.py:157} INFO - Started process (PID=31542) to work on /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/etl_customer_dag.py
+[2024-02-26T12:32:18.057-0500] {processor.py:829} INFO - Processing file /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/etl_customer_dag.py for tasks to queue
+[2024-02-26T12:32:18.057-0500] {logging_mixin.py:154} INFO - [2024-02-26T12:32:18.057-0500] {dagbag.py:536} INFO - Filling up the DagBag from /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/etl_customer_dag.py
+[2024-02-26T12:32:18.098-0500] {processor.py:839} INFO - DAG(s) dict_keys(['etl_customer_dag']) retrieved from /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/etl_customer_dag.py
+[2024-02-26T12:32:18.242-0500] {logging_mixin.py:154} INFO - [2024-02-26T12:32:18.241-0500] {dag.py:2941} INFO - Sync 1 DAGs
+[2024-02-26T12:32:18.256-0500] {logging_mixin.py:154} INFO - [2024-02-26T12:32:18.255-0500] {dag.py:3722} INFO - Setting next_dagrun for etl_customer_dag to None, run_after=None
+[2024-02-26T12:32:18.267-0500] {processor.py:179} INFO - Processing /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/etl_customer_dag.py took 0.217 seconds
+[2024-02-26T12:32:52.876-0500] {processor.py:157} INFO - Started process (PID=31725) to work on /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/etl_customer_dag.py
+[2024-02-26T12:32:52.881-0500] {processor.py:829} INFO - Processing file /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/etl_customer_dag.py for tasks to queue
+[2024-02-26T12:32:52.882-0500] {logging_mixin.py:154} INFO - [2024-02-26T12:32:52.882-0500] {dagbag.py:536} INFO - Filling up the DagBag from /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/etl_customer_dag.py
+[2024-02-26T12:32:52.958-0500] {processor.py:839} INFO - DAG(s) dict_keys(['etl_customer_dag']) retrieved from /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/etl_customer_dag.py
+[2024-02-26T12:32:53.124-0500] {logging_mixin.py:154} INFO - [2024-02-26T12:32:53.124-0500] {dag.py:2941} INFO - Sync 1 DAGs
+[2024-02-26T12:32:53.250-0500] {logging_mixin.py:154} INFO - [2024-02-26T12:32:53.250-0500] {dag.py:3722} INFO - Setting next_dagrun for etl_customer_dag to None, run_after=None
+[2024-02-26T12:32:53.274-0500] {processor.py:179} INFO - Processing /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/etl_customer_dag.py took 0.401 seconds
+[2024-02-26T12:33:24.543-0500] {processor.py:157} INFO - Started process (PID=31837) to work on /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/etl_customer_dag.py
+[2024-02-26T12:33:24.548-0500] {processor.py:829} INFO - Processing file /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/etl_customer_dag.py for tasks to queue
+[2024-02-26T12:33:24.548-0500] {logging_mixin.py:154} INFO - [2024-02-26T12:33:24.548-0500] {dagbag.py:536} INFO - Filling up the DagBag from /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/etl_customer_dag.py
+[2024-02-26T12:33:24.590-0500] {processor.py:839} INFO - DAG(s) dict_keys(['etl_customer_dag']) retrieved from /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/etl_customer_dag.py
+[2024-02-26T12:33:24.775-0500] {logging_mixin.py:154} INFO - [2024-02-26T12:33:24.775-0500] {dag.py:2941} INFO - Sync 1 DAGs
+[2024-02-26T12:33:24.792-0500] {logging_mixin.py:154} INFO - [2024-02-26T12:33:24.792-0500] {dag.py:3722} INFO - Setting next_dagrun for etl_customer_dag to None, run_after=None
+[2024-02-26T12:33:24.805-0500] {processor.py:179} INFO - Processing /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/etl_customer_dag.py took 0.263 seconds
+[2024-02-26T12:34:36.193-0500] {processor.py:157} INFO - Started process (PID=32126) to work on /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/etl_customer_dag.py
+[2024-02-26T12:34:36.200-0500] {processor.py:829} INFO - Processing file /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/etl_customer_dag.py for tasks to queue
+[2024-02-26T12:34:36.200-0500] {logging_mixin.py:154} INFO - [2024-02-26T12:34:36.200-0500] {dagbag.py:536} INFO - Filling up the DagBag from /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/etl_customer_dag.py
+[2024-02-26T12:34:36.334-0500] {processor.py:839} INFO - DAG(s) dict_keys(['etl_customer_dag']) retrieved from /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/etl_customer_dag.py
+[2024-02-26T12:34:36.498-0500] {logging_mixin.py:154} INFO - [2024-02-26T12:34:36.497-0500] {dag.py:2941} INFO - Sync 1 DAGs
+[2024-02-26T12:34:36.622-0500] {logging_mixin.py:154} INFO - [2024-02-26T12:34:36.622-0500] {dag.py:3722} INFO - Setting next_dagrun for etl_customer_dag to None, run_after=None
+[2024-02-26T12:34:36.645-0500] {processor.py:179} INFO - Processing /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/etl_customer_dag.py took 0.456 seconds
+[2024-02-26T12:35:07.771-0500] {processor.py:157} INFO - Started process (PID=32332) to work on /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/etl_customer_dag.py
+[2024-02-26T12:35:07.774-0500] {processor.py:829} INFO - Processing file /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/etl_customer_dag.py for tasks to queue
+[2024-02-26T12:35:07.774-0500] {logging_mixin.py:154} INFO - [2024-02-26T12:35:07.774-0500] {dagbag.py:536} INFO - Filling up the DagBag from /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/etl_customer_dag.py
+[2024-02-26T12:35:07.814-0500] {processor.py:839} INFO - DAG(s) dict_keys(['etl_customer_dag']) retrieved from /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/etl_customer_dag.py
+[2024-02-26T12:35:07.980-0500] {logging_mixin.py:154} INFO - [2024-02-26T12:35:07.980-0500] {dag.py:2941} INFO - Sync 1 DAGs
+[2024-02-26T12:35:07.998-0500] {logging_mixin.py:154} INFO - [2024-02-26T12:35:07.998-0500] {dag.py:3722} INFO - Setting next_dagrun for etl_customer_dag to None, run_after=None
+[2024-02-26T12:35:08.011-0500] {processor.py:179} INFO - Processing /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/etl_customer_dag.py took 0.242 seconds
+[2024-02-26T12:35:39.068-0500] {processor.py:157} INFO - Started process (PID=32419) to work on /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/etl_customer_dag.py
+[2024-02-26T12:35:39.071-0500] {processor.py:829} INFO - Processing file /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/etl_customer_dag.py for tasks to queue
+[2024-02-26T12:35:39.071-0500] {logging_mixin.py:154} INFO - [2024-02-26T12:35:39.071-0500] {dagbag.py:536} INFO - Filling up the DagBag from /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/etl_customer_dag.py
+[2024-02-26T12:35:39.109-0500] {processor.py:839} INFO - DAG(s) dict_keys(['etl_customer_dag']) retrieved from /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/etl_customer_dag.py
+[2024-02-26T12:35:39.263-0500] {logging_mixin.py:154} INFO - [2024-02-26T12:35:39.263-0500] {dag.py:2941} INFO - Sync 1 DAGs
+[2024-02-26T12:35:39.278-0500] {logging_mixin.py:154} INFO - [2024-02-26T12:35:39.278-0500] {dag.py:3722} INFO - Setting next_dagrun for etl_customer_dag to None, run_after=None
+[2024-02-26T12:35:39.288-0500] {processor.py:179} INFO - Processing /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/etl_customer_dag.py took 0.221 seconds
+[2024-02-26T12:36:10.983-0500] {processor.py:157} INFO - Started process (PID=32536) to work on /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/etl_customer_dag.py
+[2024-02-26T12:36:10.988-0500] {processor.py:829} INFO - Processing file /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/etl_customer_dag.py for tasks to queue
+[2024-02-26T12:36:10.988-0500] {logging_mixin.py:154} INFO - [2024-02-26T12:36:10.988-0500] {dagbag.py:536} INFO - Filling up the DagBag from /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/etl_customer_dag.py
+[2024-02-26T12:36:11.045-0500] {processor.py:839} INFO - DAG(s) dict_keys(['etl_customer_dag']) retrieved from /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/etl_customer_dag.py
+[2024-02-26T12:36:11.271-0500] {logging_mixin.py:154} INFO - [2024-02-26T12:36:11.271-0500] {dag.py:2941} INFO - Sync 1 DAGs
+[2024-02-26T12:36:11.292-0500] {logging_mixin.py:154} INFO - [2024-02-26T12:36:11.292-0500] {dag.py:3722} INFO - Setting next_dagrun for etl_customer_dag to None, run_after=None
+[2024-02-26T12:36:11.307-0500] {processor.py:179} INFO - Processing /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/etl_customer_dag.py took 0.325 seconds
+[2024-02-26T12:36:35.593-0500] {processor.py:157} INFO - Started process (PID=32631) to work on /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/etl_customer_dag.py
+[2024-02-26T12:36:35.596-0500] {processor.py:829} INFO - Processing file /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/etl_customer_dag.py for tasks to queue
+[2024-02-26T12:36:35.596-0500] {logging_mixin.py:154} INFO - [2024-02-26T12:36:35.596-0500] {dagbag.py:536} INFO - Filling up the DagBag from /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/etl_customer_dag.py
+[2024-02-26T12:36:35.638-0500] {processor.py:839} INFO - DAG(s) dict_keys(['etl_customer_dag']) retrieved from /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/etl_customer_dag.py
+[2024-02-26T12:36:35.788-0500] {logging_mixin.py:154} INFO - [2024-02-26T12:36:35.788-0500] {dag.py:2941} INFO - Sync 1 DAGs
+[2024-02-26T12:36:35.803-0500] {logging_mixin.py:154} INFO - [2024-02-26T12:36:35.803-0500] {dag.py:3722} INFO - Setting next_dagrun for etl_customer_dag to None, run_after=None
+[2024-02-26T12:36:35.815-0500] {processor.py:179} INFO - Processing /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/etl_customer_dag.py took 0.225 seconds
+[2024-02-26T16:07:44.256-0500] {processor.py:157} INFO - Started process (PID=46930) to work on /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/etl_customer_dag.py
+[2024-02-26T16:07:44.263-0500] {processor.py:829} INFO - Processing file /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/etl_customer_dag.py for tasks to queue
+[2024-02-26T16:07:44.264-0500] {logging_mixin.py:154} INFO - [2024-02-26T16:07:44.264-0500] {dagbag.py:536} INFO - Filling up the DagBag from /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/etl_customer_dag.py
+[2024-02-26T16:07:44.269-0500] {logging_mixin.py:154} INFO - [2024-02-26T16:07:44.268-0500] {dagbag.py:346} ERROR - Failed to import: /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/etl_customer_dag.py
+Traceback (most recent call last):
+  File "/Users/venkatasaisabbineni/Desktop/Airflow_local/airflow_env/lib/python3.11/site-packages/airflow/models/dagbag.py", line 342, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 936, in exec_module
+  File "<frozen importlib._bootstrap_external>", line 1074, in get_code
+  File "<frozen importlib._bootstrap_external>", line 1004, in source_to_code
+  File "<frozen importlib._bootstrap>", line 241, in _call_with_frames_removed
+  File "/Users/venkatasaisabbineni/Desktop/Airflow_local/dags/etl_customer_dag.py", line 48
+    task_id='upload_to_s3'
+            ^^^^^^^
+SyntaxError: invalid syntax. Perhaps you forgot a comma?
+[2024-02-26T16:07:44.270-0500] {processor.py:841} WARNING - No viable dags retrieved from /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/etl_customer_dag.py
+[2024-02-26T16:07:44.493-0500] {processor.py:179} INFO - Processing /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/etl_customer_dag.py took 0.241 seconds
+[2024-02-26T16:07:57.662-0500] {processor.py:157} INFO - Started process (PID=46988) to work on /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/etl_customer_dag.py
+[2024-02-26T16:07:57.666-0500] {processor.py:829} INFO - Processing file /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/etl_customer_dag.py for tasks to queue
+[2024-02-26T16:07:57.666-0500] {logging_mixin.py:154} INFO - [2024-02-26T16:07:57.666-0500] {dagbag.py:536} INFO - Filling up the DagBag from /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/etl_customer_dag.py
+[2024-02-26T16:07:57.822-0500] {processor.py:839} INFO - DAG(s) dict_keys(['etl_customer_dag']) retrieved from /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/etl_customer_dag.py
+[2024-02-26T16:07:58.691-0500] {logging_mixin.py:154} INFO - [2024-02-26T16:07:58.690-0500] {dag.py:2941} INFO - Sync 1 DAGs
+[2024-02-26T16:07:58.707-0500] {logging_mixin.py:154} INFO - [2024-02-26T16:07:58.707-0500] {dag.py:3722} INFO - Setting next_dagrun for etl_customer_dag to None, run_after=None
+[2024-02-26T16:07:58.725-0500] {processor.py:179} INFO - Processing /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/etl_customer_dag.py took 1.064 seconds
+[2024-02-26T16:08:00.455-0500] {processor.py:157} INFO - Started process (PID=46998) to work on /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/etl_customer_dag.py
+[2024-02-26T16:08:00.459-0500] {processor.py:829} INFO - Processing file /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/etl_customer_dag.py for tasks to queue
+[2024-02-26T16:08:00.459-0500] {logging_mixin.py:154} INFO - [2024-02-26T16:08:00.459-0500] {dagbag.py:536} INFO - Filling up the DagBag from /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/etl_customer_dag.py
+[2024-02-26T16:08:00.589-0500] {processor.py:839} INFO - DAG(s) dict_keys(['etl_customer_dag']) retrieved from /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/etl_customer_dag.py
+[2024-02-26T16:08:00.648-0500] {logging_mixin.py:154} INFO - [2024-02-26T16:08:00.648-0500] {dag.py:2941} INFO - Sync 1 DAGs
+[2024-02-26T16:08:00.721-0500] {logging_mixin.py:154} INFO - [2024-02-26T16:08:00.720-0500] {dag.py:3722} INFO - Setting next_dagrun for etl_customer_dag to None, run_after=None
+[2024-02-26T16:08:00.734-0500] {processor.py:179} INFO - Processing /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/etl_customer_dag.py took 0.281 seconds
+[2024-02-26T16:08:32.174-0500] {processor.py:157} INFO - Started process (PID=47208) to work on /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/etl_customer_dag.py
+[2024-02-26T16:08:32.177-0500] {processor.py:829} INFO - Processing file /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/etl_customer_dag.py for tasks to queue
+[2024-02-26T16:08:32.178-0500] {logging_mixin.py:154} INFO - [2024-02-26T16:08:32.178-0500] {dagbag.py:536} INFO - Filling up the DagBag from /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/etl_customer_dag.py
+[2024-02-26T16:08:32.304-0500] {processor.py:839} INFO - DAG(s) dict_keys(['etl_customer_dag']) retrieved from /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/etl_customer_dag.py
+[2024-02-26T16:08:32.467-0500] {logging_mixin.py:154} INFO - [2024-02-26T16:08:32.467-0500] {dag.py:2941} INFO - Sync 1 DAGs
+[2024-02-26T16:08:32.485-0500] {logging_mixin.py:154} INFO - [2024-02-26T16:08:32.485-0500] {dag.py:3722} INFO - Setting next_dagrun for etl_customer_dag to None, run_after=None
+[2024-02-26T16:08:32.496-0500] {processor.py:179} INFO - Processing /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/etl_customer_dag.py took 0.325 seconds
+[2024-02-26T16:08:37.260-0500] {processor.py:157} INFO - Started process (PID=47237) to work on /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/etl_customer_dag.py
+[2024-02-26T16:08:37.267-0500] {processor.py:829} INFO - Processing file /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/etl_customer_dag.py for tasks to queue
+[2024-02-26T16:08:37.268-0500] {logging_mixin.py:154} INFO - [2024-02-26T16:08:37.268-0500] {dagbag.py:536} INFO - Filling up the DagBag from /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/etl_customer_dag.py
+[2024-02-26T16:08:37.592-0500] {processor.py:839} INFO - DAG(s) dict_keys(['etl_customer_dag']) retrieved from /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/etl_customer_dag.py
+[2024-02-26T16:08:37.759-0500] {logging_mixin.py:154} INFO - [2024-02-26T16:08:37.758-0500] {taskinstance.py:1939} ERROR - {'DAG Id': 'etl_customer_dag', 'Task Id': 'saving_to_csv', 'Run Id': 'manual__2024-02-26T21:08:20.782809+00:00', 'Hostname': 'venkatasaismbp.mynetworksettings.com'}
+[2024-02-26T16:08:37.776-0500] {logging_mixin.py:154} INFO - [2024-02-26T16:08:37.775-0500] {taskinstance.py:1400} INFO - Marking task as FAILED. dag_id=etl_customer_dag, task_id=saving_to_csv, execution_date=20240226T210820, start_date=20240226T210825, end_date=20240226T210837
+[2024-02-26T16:08:37.786-0500] {processor.py:790} INFO - Executed failure callback for <TaskInstance: etl_customer_dag.saving_to_csv manual__2024-02-26T21:08:20.782809+00:00 [failed]> in state failed
+[2024-02-26T16:08:37.865-0500] {logging_mixin.py:154} INFO - [2024-02-26T16:08:37.865-0500] {dag.py:2941} INFO - Sync 1 DAGs
+[2024-02-26T16:08:37.878-0500] {logging_mixin.py:154} INFO - [2024-02-26T16:08:37.878-0500] {dag.py:3722} INFO - Setting next_dagrun for etl_customer_dag to None, run_after=None
+[2024-02-26T16:08:37.890-0500] {processor.py:179} INFO - Processing /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/etl_customer_dag.py took 0.637 seconds
+[2024-02-26T16:09:08.909-0500] {processor.py:157} INFO - Started process (PID=47344) to work on /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/etl_customer_dag.py
+[2024-02-26T16:09:08.912-0500] {processor.py:829} INFO - Processing file /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/etl_customer_dag.py for tasks to queue
+[2024-02-26T16:09:08.912-0500] {logging_mixin.py:154} INFO - [2024-02-26T16:09:08.912-0500] {dagbag.py:536} INFO - Filling up the DagBag from /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/etl_customer_dag.py
+[2024-02-26T16:09:09.037-0500] {processor.py:839} INFO - DAG(s) dict_keys(['etl_customer_dag']) retrieved from /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/etl_customer_dag.py
+[2024-02-26T16:09:09.172-0500] {logging_mixin.py:154} INFO - [2024-02-26T16:09:09.172-0500] {dag.py:2941} INFO - Sync 1 DAGs
+[2024-02-26T16:09:09.187-0500] {logging_mixin.py:154} INFO - [2024-02-26T16:09:09.187-0500] {dag.py:3722} INFO - Setting next_dagrun for etl_customer_dag to None, run_after=None
+[2024-02-26T16:09:09.197-0500] {processor.py:179} INFO - Processing /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/etl_customer_dag.py took 0.290 seconds
+[2024-02-26T16:09:41.968-0500] {processor.py:157} INFO - Started process (PID=47450) to work on /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/etl_customer_dag.py
+[2024-02-26T16:09:41.978-0500] {processor.py:829} INFO - Processing file /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/etl_customer_dag.py for tasks to queue
+[2024-02-26T16:09:41.978-0500] {logging_mixin.py:154} INFO - [2024-02-26T16:09:41.978-0500] {dagbag.py:536} INFO - Filling up the DagBag from /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/etl_customer_dag.py
+[2024-02-26T16:09:42.433-0500] {processor.py:839} INFO - DAG(s) dict_keys(['etl_customer_dag']) retrieved from /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/etl_customer_dag.py
+[2024-02-26T16:09:42.835-0500] {logging_mixin.py:154} INFO - [2024-02-26T16:09:42.835-0500] {dag.py:2941} INFO - Sync 1 DAGs
+[2024-02-26T16:09:42.864-0500] {logging_mixin.py:154} INFO - [2024-02-26T16:09:42.863-0500] {dag.py:3722} INFO - Setting next_dagrun for etl_customer_dag to None, run_after=None
+[2024-02-26T16:09:42.886-0500] {processor.py:179} INFO - Processing /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/etl_customer_dag.py took 0.923 seconds
+[2024-02-26T16:10:14.424-0500] {processor.py:157} INFO - Started process (PID=47555) to work on /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/etl_customer_dag.py
+[2024-02-26T16:10:14.427-0500] {processor.py:829} INFO - Processing file /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/etl_customer_dag.py for tasks to queue
+[2024-02-26T16:10:14.428-0500] {logging_mixin.py:154} INFO - [2024-02-26T16:10:14.427-0500] {dagbag.py:536} INFO - Filling up the DagBag from /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/etl_customer_dag.py
+[2024-02-26T16:10:14.554-0500] {processor.py:839} INFO - DAG(s) dict_keys(['etl_customer_dag']) retrieved from /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/etl_customer_dag.py
+[2024-02-26T16:10:14.711-0500] {logging_mixin.py:154} INFO - [2024-02-26T16:10:14.710-0500] {dag.py:2941} INFO - Sync 1 DAGs
+[2024-02-26T16:10:14.725-0500] {logging_mixin.py:154} INFO - [2024-02-26T16:10:14.725-0500] {dag.py:3722} INFO - Setting next_dagrun for etl_customer_dag to None, run_after=None
+[2024-02-26T16:10:14.736-0500] {processor.py:179} INFO - Processing /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/etl_customer_dag.py took 0.314 seconds
+[2024-02-26T16:10:35.426-0500] {processor.py:157} INFO - Started process (PID=47614) to work on /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/etl_customer_dag.py
+[2024-02-26T16:10:35.430-0500] {processor.py:829} INFO - Processing file /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/etl_customer_dag.py for tasks to queue
+[2024-02-26T16:10:35.430-0500] {logging_mixin.py:154} INFO - [2024-02-26T16:10:35.430-0500] {dagbag.py:536} INFO - Filling up the DagBag from /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/etl_customer_dag.py
+[2024-02-26T16:10:35.528-0500] {processor.py:839} INFO - DAG(s) dict_keys(['etl_customer_dag']) retrieved from /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/etl_customer_dag.py
+[2024-02-26T16:10:35.655-0500] {logging_mixin.py:154} INFO - [2024-02-26T16:10:35.655-0500] {dag.py:2941} INFO - Sync 1 DAGs
+[2024-02-26T16:10:35.670-0500] {logging_mixin.py:154} INFO - [2024-02-26T16:10:35.669-0500] {dag.py:3722} INFO - Setting next_dagrun for etl_customer_dag to None, run_after=None
+[2024-02-26T16:10:35.681-0500] {processor.py:179} INFO - Processing /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/etl_customer_dag.py took 0.256 seconds
+[2024-02-26T16:10:39.412-0500] {processor.py:157} INFO - Started process (PID=47626) to work on /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/etl_customer_dag.py
+[2024-02-26T16:10:39.415-0500] {processor.py:829} INFO - Processing file /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/etl_customer_dag.py for tasks to queue
+[2024-02-26T16:10:39.418-0500] {logging_mixin.py:154} INFO - [2024-02-26T16:10:39.418-0500] {dagbag.py:536} INFO - Filling up the DagBag from /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/etl_customer_dag.py
+[2024-02-26T16:10:39.553-0500] {processor.py:839} INFO - DAG(s) dict_keys(['etl_customer_dag']) retrieved from /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/etl_customer_dag.py
+[2024-02-26T16:10:39.698-0500] {logging_mixin.py:154} INFO - [2024-02-26T16:10:39.697-0500] {dag.py:2941} INFO - Sync 1 DAGs
+[2024-02-26T16:10:39.715-0500] {logging_mixin.py:154} INFO - [2024-02-26T16:10:39.715-0500] {dag.py:3722} INFO - Setting next_dagrun for etl_customer_dag to None, run_after=None
+[2024-02-26T16:10:39.730-0500] {processor.py:179} INFO - Processing /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/etl_customer_dag.py took 0.320 seconds
+[2024-02-26T16:10:57.767-0500] {processor.py:157} INFO - Started process (PID=47673) to work on /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/etl_customer_dag.py
+[2024-02-26T16:10:57.770-0500] {processor.py:829} INFO - Processing file /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/etl_customer_dag.py for tasks to queue
+[2024-02-26T16:10:57.771-0500] {logging_mixin.py:154} INFO - [2024-02-26T16:10:57.771-0500] {dagbag.py:536} INFO - Filling up the DagBag from /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/etl_customer_dag.py
+[2024-02-26T16:10:57.946-0500] {processor.py:839} INFO - DAG(s) dict_keys(['etl_customer_dag']) retrieved from /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/etl_customer_dag.py
+[2024-02-26T16:10:58.149-0500] {logging_mixin.py:154} INFO - [2024-02-26T16:10:58.148-0500] {dag.py:2941} INFO - Sync 1 DAGs
+[2024-02-26T16:10:58.172-0500] {logging_mixin.py:154} INFO - [2024-02-26T16:10:58.172-0500] {dag.py:3722} INFO - Setting next_dagrun for etl_customer_dag to None, run_after=None
+[2024-02-26T16:10:58.215-0500] {processor.py:179} INFO - Processing /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/etl_customer_dag.py took 0.450 seconds
+[2024-02-26T16:11:17.436-0500] {processor.py:157} INFO - Started process (PID=47755) to work on /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/etl_customer_dag.py
+[2024-02-26T16:11:17.440-0500] {processor.py:829} INFO - Processing file /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/etl_customer_dag.py for tasks to queue
+[2024-02-26T16:11:17.440-0500] {logging_mixin.py:154} INFO - [2024-02-26T16:11:17.440-0500] {dagbag.py:536} INFO - Filling up the DagBag from /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/etl_customer_dag.py
+[2024-02-26T16:11:17.578-0500] {processor.py:839} INFO - DAG(s) dict_keys(['etl_customer_dag']) retrieved from /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/etl_customer_dag.py
+[2024-02-26T16:11:17.726-0500] {logging_mixin.py:154} INFO - [2024-02-26T16:11:17.726-0500] {taskinstance.py:1939} ERROR - {'DAG Id': 'etl_customer_dag', 'Task Id': 'extract_customers', 'Run Id': 'manual__2024-02-26T21:11:12.904952+00:00', 'Hostname': 'venkatasaismbp.mynetworksettings.com'}
+[2024-02-26T16:11:17.737-0500] {logging_mixin.py:154} INFO - [2024-02-26T16:11:17.737-0500] {taskinstance.py:1400} INFO - Marking task as FAILED. dag_id=etl_customer_dag, task_id=extract_customers, execution_date=20240226T211112, start_date=20240226T211114, end_date=20240226T211117
+[2024-02-26T16:11:17.743-0500] {processor.py:790} INFO - Executed failure callback for <TaskInstance: etl_customer_dag.extract_customers manual__2024-02-26T21:11:12.904952+00:00 [failed]> in state failed
+[2024-02-26T16:11:17.788-0500] {logging_mixin.py:154} INFO - [2024-02-26T16:11:17.788-0500] {dag.py:2941} INFO - Sync 1 DAGs
+[2024-02-26T16:11:17.801-0500] {logging_mixin.py:154} INFO - [2024-02-26T16:11:17.800-0500] {dag.py:3722} INFO - Setting next_dagrun for etl_customer_dag to None, run_after=None
+[2024-02-26T16:11:17.813-0500] {processor.py:179} INFO - Processing /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/etl_customer_dag.py took 0.378 seconds
+[2024-02-26T16:11:49.340-0500] {processor.py:157} INFO - Started process (PID=47850) to work on /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/etl_customer_dag.py
+[2024-02-26T16:11:49.344-0500] {processor.py:829} INFO - Processing file /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/etl_customer_dag.py for tasks to queue
+[2024-02-26T16:11:49.344-0500] {logging_mixin.py:154} INFO - [2024-02-26T16:11:49.344-0500] {dagbag.py:536} INFO - Filling up the DagBag from /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/etl_customer_dag.py
+[2024-02-26T16:11:49.477-0500] {processor.py:839} INFO - DAG(s) dict_keys(['etl_customer_dag']) retrieved from /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/etl_customer_dag.py
+[2024-02-26T16:11:49.618-0500] {logging_mixin.py:154} INFO - [2024-02-26T16:11:49.618-0500] {dag.py:2941} INFO - Sync 1 DAGs
+[2024-02-26T16:11:49.633-0500] {logging_mixin.py:154} INFO - [2024-02-26T16:11:49.633-0500] {dag.py:3722} INFO - Setting next_dagrun for etl_customer_dag to None, run_after=None
+[2024-02-26T16:11:49.644-0500] {processor.py:179} INFO - Processing /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/etl_customer_dag.py took 0.306 seconds
+[2024-02-26T16:12:20.826-0500] {processor.py:157} INFO - Started process (PID=47935) to work on /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/etl_customer_dag.py
+[2024-02-26T16:12:20.829-0500] {processor.py:829} INFO - Processing file /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/etl_customer_dag.py for tasks to queue
+[2024-02-26T16:12:20.829-0500] {logging_mixin.py:154} INFO - [2024-02-26T16:12:20.829-0500] {dagbag.py:536} INFO - Filling up the DagBag from /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/etl_customer_dag.py
+[2024-02-26T16:12:20.966-0500] {processor.py:839} INFO - DAG(s) dict_keys(['etl_customer_dag']) retrieved from /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/etl_customer_dag.py
+[2024-02-26T16:12:21.110-0500] {logging_mixin.py:154} INFO - [2024-02-26T16:12:21.110-0500] {dag.py:2941} INFO - Sync 1 DAGs
+[2024-02-26T16:12:21.126-0500] {logging_mixin.py:154} INFO - [2024-02-26T16:12:21.126-0500] {dag.py:3722} INFO - Setting next_dagrun for etl_customer_dag to None, run_after=None
+[2024-02-26T16:12:21.137-0500] {processor.py:179} INFO - Processing /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/etl_customer_dag.py took 0.313 seconds
+[2024-02-26T16:12:53.537-0500] {processor.py:157} INFO - Started process (PID=48050) to work on /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/etl_customer_dag.py
+[2024-02-26T16:12:53.549-0500] {processor.py:829} INFO - Processing file /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/etl_customer_dag.py for tasks to queue
+[2024-02-26T16:12:53.550-0500] {logging_mixin.py:154} INFO - [2024-02-26T16:12:53.549-0500] {dagbag.py:536} INFO - Filling up the DagBag from /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/etl_customer_dag.py
+[2024-02-26T16:12:53.860-0500] {processor.py:839} INFO - DAG(s) dict_keys(['etl_customer_dag']) retrieved from /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/etl_customer_dag.py
+[2024-02-26T16:12:54.176-0500] {logging_mixin.py:154} INFO - [2024-02-26T16:12:54.175-0500] {dag.py:2941} INFO - Sync 1 DAGs
+[2024-02-26T16:12:54.206-0500] {logging_mixin.py:154} INFO - [2024-02-26T16:12:54.205-0500] {dag.py:3722} INFO - Setting next_dagrun for etl_customer_dag to None, run_after=None
+[2024-02-26T16:12:54.228-0500] {processor.py:179} INFO - Processing /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/etl_customer_dag.py took 0.699 seconds
+[2024-02-26T16:13:26.123-0500] {processor.py:157} INFO - Started process (PID=48152) to work on /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/etl_customer_dag.py
+[2024-02-26T16:13:26.127-0500] {processor.py:829} INFO - Processing file /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/etl_customer_dag.py for tasks to queue
+[2024-02-26T16:13:26.128-0500] {logging_mixin.py:154} INFO - [2024-02-26T16:13:26.127-0500] {dagbag.py:536} INFO - Filling up the DagBag from /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/etl_customer_dag.py
+[2024-02-26T16:13:26.262-0500] {processor.py:839} INFO - DAG(s) dict_keys(['etl_customer_dag']) retrieved from /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/etl_customer_dag.py
+[2024-02-26T16:13:26.396-0500] {logging_mixin.py:154} INFO - [2024-02-26T16:13:26.395-0500] {dag.py:2941} INFO - Sync 1 DAGs
+[2024-02-26T16:13:26.408-0500] {logging_mixin.py:154} INFO - [2024-02-26T16:13:26.407-0500] {dag.py:3722} INFO - Setting next_dagrun for etl_customer_dag to None, run_after=None
+[2024-02-26T16:13:26.417-0500] {processor.py:179} INFO - Processing /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/etl_customer_dag.py took 0.296 seconds
+[2024-02-26T16:14:38.962-0500] {processor.py:157} INFO - Started process (PID=48447) to work on /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/etl_customer_dag.py
+[2024-02-26T16:14:38.973-0500] {processor.py:829} INFO - Processing file /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/etl_customer_dag.py for tasks to queue
+[2024-02-26T16:14:38.976-0500] {logging_mixin.py:154} INFO - [2024-02-26T16:14:38.976-0500] {dagbag.py:536} INFO - Filling up the DagBag from /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/etl_customer_dag.py
+[2024-02-26T16:14:39.329-0500] {processor.py:839} INFO - DAG(s) dict_keys(['etl_customer_dag']) retrieved from /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/etl_customer_dag.py
+[2024-02-26T16:14:39.414-0500] {logging_mixin.py:154} INFO - [2024-02-26T16:14:39.413-0500] {dag.py:2941} INFO - Sync 1 DAGs
+[2024-02-26T16:14:39.522-0500] {logging_mixin.py:154} INFO - [2024-02-26T16:14:39.521-0500] {dag.py:3722} INFO - Setting next_dagrun for etl_customer_dag to None, run_after=None
+[2024-02-26T16:14:39.542-0500] {processor.py:179} INFO - Processing /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/etl_customer_dag.py took 0.583 seconds
+[2024-02-26T16:15:10.938-0500] {processor.py:157} INFO - Started process (PID=48603) to work on /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/etl_customer_dag.py
+[2024-02-26T16:15:10.942-0500] {processor.py:829} INFO - Processing file /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/etl_customer_dag.py for tasks to queue
+[2024-02-26T16:15:10.943-0500] {logging_mixin.py:154} INFO - [2024-02-26T16:15:10.943-0500] {dagbag.py:536} INFO - Filling up the DagBag from /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/etl_customer_dag.py
+[2024-02-26T16:15:11.077-0500] {processor.py:839} INFO - DAG(s) dict_keys(['etl_customer_dag']) retrieved from /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/etl_customer_dag.py
+[2024-02-26T16:15:11.316-0500] {logging_mixin.py:154} INFO - [2024-02-26T16:15:11.316-0500] {dag.py:2941} INFO - Sync 1 DAGs
+[2024-02-26T16:15:11.337-0500] {logging_mixin.py:154} INFO - [2024-02-26T16:15:11.337-0500] {dag.py:3722} INFO - Setting next_dagrun for etl_customer_dag to None, run_after=None
+[2024-02-26T16:15:11.354-0500] {processor.py:179} INFO - Processing /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/etl_customer_dag.py took 0.419 seconds
+[2024-02-26T16:15:15.191-0500] {processor.py:157} INFO - Started process (PID=48626) to work on /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/etl_customer_dag.py
+[2024-02-26T16:15:15.197-0500] {processor.py:829} INFO - Processing file /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/etl_customer_dag.py for tasks to queue
+[2024-02-26T16:15:15.198-0500] {logging_mixin.py:154} INFO - [2024-02-26T16:15:15.198-0500] {dagbag.py:536} INFO - Filling up the DagBag from /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/etl_customer_dag.py
+[2024-02-26T16:15:15.376-0500] {processor.py:839} INFO - DAG(s) dict_keys(['etl_customer_dag']) retrieved from /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/etl_customer_dag.py
+[2024-02-26T16:15:15.524-0500] {logging_mixin.py:154} INFO - [2024-02-26T16:15:15.523-0500] {taskinstance.py:1939} ERROR - {'DAG Id': 'etl_customer_dag', 'Task Id': 'extract_customers', 'Run Id': 'manual__2024-02-26T21:15:05.730232+00:00', 'Hostname': 'venkatasaismbp.mynetworksettings.com'}
+[2024-02-26T16:15:15.539-0500] {logging_mixin.py:154} INFO - [2024-02-26T16:15:15.539-0500] {taskinstance.py:1400} INFO - Marking task as FAILED. dag_id=etl_customer_dag, task_id=extract_customers, execution_date=20240226T211505, start_date=20240226T211507, end_date=20240226T211515
+[2024-02-26T16:15:15.548-0500] {processor.py:790} INFO - Executed failure callback for <TaskInstance: etl_customer_dag.extract_customers manual__2024-02-26T21:15:05.730232+00:00 [failed]> in state failed
+[2024-02-26T16:15:15.603-0500] {logging_mixin.py:154} INFO - [2024-02-26T16:15:15.603-0500] {dag.py:2941} INFO - Sync 1 DAGs
+[2024-02-26T16:15:15.621-0500] {logging_mixin.py:154} INFO - [2024-02-26T16:15:15.620-0500] {dag.py:3722} INFO - Setting next_dagrun for etl_customer_dag to None, run_after=None
+[2024-02-26T16:15:15.638-0500] {processor.py:179} INFO - Processing /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/etl_customer_dag.py took 0.450 seconds
+[2024-02-26T16:15:48.638-0500] {processor.py:157} INFO - Started process (PID=48749) to work on /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/etl_customer_dag.py
+[2024-02-26T16:15:48.644-0500] {processor.py:829} INFO - Processing file /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/etl_customer_dag.py for tasks to queue
+[2024-02-26T16:15:48.645-0500] {logging_mixin.py:154} INFO - [2024-02-26T16:15:48.645-0500] {dagbag.py:536} INFO - Filling up the DagBag from /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/etl_customer_dag.py
+[2024-02-26T16:15:48.872-0500] {processor.py:839} INFO - DAG(s) dict_keys(['etl_customer_dag']) retrieved from /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/etl_customer_dag.py
+[2024-02-26T16:15:49.142-0500] {logging_mixin.py:154} INFO - [2024-02-26T16:15:49.142-0500] {dag.py:2941} INFO - Sync 1 DAGs
+[2024-02-26T16:15:49.170-0500] {logging_mixin.py:154} INFO - [2024-02-26T16:15:49.169-0500] {dag.py:3722} INFO - Setting next_dagrun for etl_customer_dag to None, run_after=None
+[2024-02-26T16:15:49.190-0500] {processor.py:179} INFO - Processing /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/etl_customer_dag.py took 0.556 seconds
+[2024-02-26T16:16:20.565-0500] {processor.py:157} INFO - Started process (PID=48853) to work on /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/etl_customer_dag.py
+[2024-02-26T16:16:20.568-0500] {processor.py:829} INFO - Processing file /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/etl_customer_dag.py for tasks to queue
+[2024-02-26T16:16:20.569-0500] {logging_mixin.py:154} INFO - [2024-02-26T16:16:20.569-0500] {dagbag.py:536} INFO - Filling up the DagBag from /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/etl_customer_dag.py
+[2024-02-26T16:16:20.696-0500] {processor.py:839} INFO - DAG(s) dict_keys(['etl_customer_dag']) retrieved from /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/etl_customer_dag.py
+[2024-02-26T16:16:20.839-0500] {logging_mixin.py:154} INFO - [2024-02-26T16:16:20.839-0500] {dag.py:2941} INFO - Sync 1 DAGs
+[2024-02-26T16:16:20.856-0500] {logging_mixin.py:154} INFO - [2024-02-26T16:16:20.856-0500] {dag.py:3722} INFO - Setting next_dagrun for etl_customer_dag to None, run_after=None
+[2024-02-26T16:16:20.868-0500] {processor.py:179} INFO - Processing /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/etl_customer_dag.py took 0.305 seconds
+[2024-02-26T16:16:52.034-0500] {processor.py:157} INFO - Started process (PID=48951) to work on /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/etl_customer_dag.py
+[2024-02-26T16:16:52.037-0500] {processor.py:829} INFO - Processing file /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/etl_customer_dag.py for tasks to queue
+[2024-02-26T16:16:52.038-0500] {logging_mixin.py:154} INFO - [2024-02-26T16:16:52.037-0500] {dagbag.py:536} INFO - Filling up the DagBag from /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/etl_customer_dag.py
+[2024-02-26T16:16:52.236-0500] {processor.py:839} INFO - DAG(s) dict_keys(['etl_customer_dag']) retrieved from /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/etl_customer_dag.py
+[2024-02-26T16:16:52.408-0500] {logging_mixin.py:154} INFO - [2024-02-26T16:16:52.408-0500] {dag.py:2941} INFO - Sync 1 DAGs
+[2024-02-26T16:16:52.423-0500] {logging_mixin.py:154} INFO - [2024-02-26T16:16:52.423-0500] {dag.py:3722} INFO - Setting next_dagrun for etl_customer_dag to None, run_after=None
+[2024-02-26T16:16:52.436-0500] {processor.py:179} INFO - Processing /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/etl_customer_dag.py took 0.405 seconds
+[2024-02-26T16:17:23.666-0500] {processor.py:157} INFO - Started process (PID=49044) to work on /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/etl_customer_dag.py
+[2024-02-26T16:17:23.669-0500] {processor.py:829} INFO - Processing file /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/etl_customer_dag.py for tasks to queue
+[2024-02-26T16:17:23.670-0500] {logging_mixin.py:154} INFO - [2024-02-26T16:17:23.669-0500] {dagbag.py:536} INFO - Filling up the DagBag from /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/etl_customer_dag.py
+[2024-02-26T16:17:23.790-0500] {processor.py:839} INFO - DAG(s) dict_keys(['etl_customer_dag']) retrieved from /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/etl_customer_dag.py
+[2024-02-26T16:17:23.933-0500] {logging_mixin.py:154} INFO - [2024-02-26T16:17:23.933-0500] {dag.py:2941} INFO - Sync 1 DAGs
+[2024-02-26T16:17:23.948-0500] {logging_mixin.py:154} INFO - [2024-02-26T16:17:23.948-0500] {dag.py:3722} INFO - Setting next_dagrun for etl_customer_dag to None, run_after=None
+[2024-02-26T16:17:23.962-0500] {processor.py:179} INFO - Processing /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/etl_customer_dag.py took 0.298 seconds
+[2024-02-26T16:17:33.432-0500] {processor.py:157} INFO - Started process (PID=49083) to work on /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/etl_customer_dag.py
+[2024-02-26T16:17:33.436-0500] {processor.py:829} INFO - Processing file /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/etl_customer_dag.py for tasks to queue
+[2024-02-26T16:17:33.437-0500] {logging_mixin.py:154} INFO - [2024-02-26T16:17:33.437-0500] {dagbag.py:536} INFO - Filling up the DagBag from /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/etl_customer_dag.py
+[2024-02-26T16:17:33.542-0500] {processor.py:839} INFO - DAG(s) dict_keys(['etl_customer_dag']) retrieved from /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/etl_customer_dag.py
+[2024-02-26T16:17:33.681-0500] {logging_mixin.py:154} INFO - [2024-02-26T16:17:33.680-0500] {dag.py:2941} INFO - Sync 1 DAGs
+[2024-02-26T16:17:33.696-0500] {logging_mixin.py:154} INFO - [2024-02-26T16:17:33.696-0500] {dag.py:3722} INFO - Setting next_dagrun for etl_customer_dag to None, run_after=None
+[2024-02-26T16:17:33.707-0500] {processor.py:179} INFO - Processing /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/etl_customer_dag.py took 0.277 seconds
+[2024-02-26T16:17:41.528-0500] {processor.py:157} INFO - Started process (PID=49110) to work on /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/etl_customer_dag.py
+[2024-02-26T16:17:41.531-0500] {processor.py:829} INFO - Processing file /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/etl_customer_dag.py for tasks to queue
+[2024-02-26T16:17:41.532-0500] {logging_mixin.py:154} INFO - [2024-02-26T16:17:41.532-0500] {dagbag.py:536} INFO - Filling up the DagBag from /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/etl_customer_dag.py
+[2024-02-26T16:17:41.639-0500] {processor.py:839} INFO - DAG(s) dict_keys(['etl_customer_dag']) retrieved from /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/etl_customer_dag.py
+[2024-02-26T16:17:41.763-0500] {logging_mixin.py:154} INFO - [2024-02-26T16:17:41.762-0500] {dag.py:2941} INFO - Sync 1 DAGs
+[2024-02-26T16:17:41.775-0500] {logging_mixin.py:154} INFO - [2024-02-26T16:17:41.774-0500] {dag.py:3722} INFO - Setting next_dagrun for etl_customer_dag to None, run_after=None
+[2024-02-26T16:17:41.786-0500] {processor.py:179} INFO - Processing /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/etl_customer_dag.py took 0.260 seconds
+[2024-02-26T16:17:53.644-0500] {processor.py:157} INFO - Started process (PID=49171) to work on /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/etl_customer_dag.py
+[2024-02-26T16:17:53.647-0500] {processor.py:829} INFO - Processing file /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/etl_customer_dag.py for tasks to queue
+[2024-02-26T16:17:53.647-0500] {logging_mixin.py:154} INFO - [2024-02-26T16:17:53.647-0500] {dagbag.py:536} INFO - Filling up the DagBag from /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/etl_customer_dag.py
+[2024-02-26T16:17:53.745-0500] {processor.py:839} INFO - DAG(s) dict_keys(['etl_customer_dag']) retrieved from /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/etl_customer_dag.py
+[2024-02-26T16:17:53.861-0500] {logging_mixin.py:154} INFO - [2024-02-26T16:17:53.861-0500] {taskinstance.py:1939} ERROR - {'DAG Id': 'etl_customer_dag', 'Task Id': 'extract_customers', 'Run Id': 'manual__2024-02-26T21:17:49.964830+00:00', 'Hostname': 'venkatasaismbp.mynetworksettings.com'}
+[2024-02-26T16:17:53.870-0500] {logging_mixin.py:154} INFO - [2024-02-26T16:17:53.870-0500] {taskinstance.py:1400} INFO - Marking task as FAILED. dag_id=etl_customer_dag, task_id=extract_customers, execution_date=20240226T211749, start_date=20240226T211751, end_date=20240226T211753
+[2024-02-26T16:17:53.876-0500] {processor.py:790} INFO - Executed failure callback for <TaskInstance: etl_customer_dag.extract_customers manual__2024-02-26T21:17:49.964830+00:00 [failed]> in state failed
+[2024-02-26T16:17:53.909-0500] {logging_mixin.py:154} INFO - [2024-02-26T16:17:53.909-0500] {dag.py:2941} INFO - Sync 1 DAGs
+[2024-02-26T16:17:53.920-0500] {logging_mixin.py:154} INFO - [2024-02-26T16:17:53.920-0500] {dag.py:3722} INFO - Setting next_dagrun for etl_customer_dag to None, run_after=None
+[2024-02-26T16:17:53.930-0500] {processor.py:179} INFO - Processing /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/etl_customer_dag.py took 0.289 seconds

@@ -1,0 +1,28 @@
+[2024-02-26T11:56:25.853-0500] {taskinstance.py:1159} INFO - Dependencies all met for dep_context=non-requeueable deps ti=<TaskInstance: postgres_pipeline.insert_customers manual__2024-02-26T16:56:21.913454+00:00 [queued]>
+[2024-02-26T11:56:25.857-0500] {taskinstance.py:1159} INFO - Dependencies all met for dep_context=requeueable deps ti=<TaskInstance: postgres_pipeline.insert_customers manual__2024-02-26T16:56:21.913454+00:00 [queued]>
+[2024-02-26T11:56:25.858-0500] {taskinstance.py:1361} INFO - Starting attempt 1 of 1
+[2024-02-26T11:56:25.864-0500] {taskinstance.py:1382} INFO - Executing <Task(PostgresOperator): insert_customers> on 2024-02-26 16:56:21.913454+00:00
+[2024-02-26T11:56:25.866-0500] {standard_task_runner.py:57} INFO - Started process 23099 to run task
+[2024-02-26T11:56:25.870-0500] {standard_task_runner.py:84} INFO - Running: ['airflow', 'tasks', 'run', 'postgres_pipeline', 'insert_customers', 'manual__2024-02-26T16:56:21.913454+00:00', '--job-id', '29', '--raw', '--subdir', 'DAGS_FOLDER/postgres_pipeline.py', '--cfg-path', '/var/folders/0j/ct19m_4d33qfzqs3tkf7s7rm0000gq/T/tmppybtdfkq']
+[2024-02-26T11:56:25.871-0500] {standard_task_runner.py:85} INFO - Job 29: Subtask insert_customers
+[2024-02-26T11:56:25.936-0500] {task_command.py:416} INFO - Running <TaskInstance: postgres_pipeline.insert_customers manual__2024-02-26T16:56:21.913454+00:00 [running]> on host venkatasaismbp.hsd1.nj.comcast.net
+[2024-02-26T11:56:26.028-0500] {taskinstance.py:1662} INFO - Exporting env vars: AIRFLOW_CTX_DAG_OWNER='loonycorn' AIRFLOW_CTX_DAG_ID='postgres_pipeline' AIRFLOW_CTX_TASK_ID='insert_customers' AIRFLOW_CTX_EXECUTION_DATE='2024-02-26T16:56:21.913454+00:00' AIRFLOW_CTX_TRY_NUMBER='1' AIRFLOW_CTX_DAG_RUN_ID='manual__2024-02-26T16:56:21.913454+00:00'
+[2024-02-26T11:56:26.029-0500] {sql.py:274} INFO - Executing: INSERT INTO customers (id, name) VALUES (1, 'Janice Smith');
+INSERT INTO customers (id, name) VALUES (2, 'Ronald Jones');
+INSERT INTO customers (id, name) VALUES (3, 'Kiele West');
+INSERT INTO customers (id, name) VALUES (4, 'Leonard Cruise');
+INSERT INTO customers (id, name) VALUES (5, 'Rihanna Luis');
+INSERT INTO customers (id, name) VALUES (6, 'Koma Day-Lewis');
+[2024-02-26T11:56:26.043-0500] {base.py:73} INFO - Using connection ID 'postgres_connection' for task execution.
+[2024-02-26T11:56:26.131-0500] {base.py:73} INFO - Using connection ID 'postgres_connection' for task execution.
+[2024-02-26T11:56:26.143-0500] {sql.py:418} INFO - Running statement: INSERT INTO customers (id, name) VALUES (1, 'Janice Smith');
+INSERT INTO customers (id, name) VALUES (2, 'Ronald Jones');
+INSERT INTO customers (id, name) VALUES (3, 'Kiele West');
+INSERT INTO customers (id, name) VALUES (4, 'Leonard Cruise');
+INSERT INTO customers (id, name) VALUES (5, 'Rihanna Luis');
+INSERT INTO customers (id, name) VALUES (6, 'Koma Day-Lewis');, parameters: None
+[2024-02-26T11:56:26.145-0500] {sql.py:427} INFO - Rows affected: 1
+[2024-02-26T11:56:26.160-0500] {taskinstance.py:1400} INFO - Marking task as SUCCESS. dag_id=postgres_pipeline, task_id=insert_customers, execution_date=20240226T165621, start_date=20240226T165625, end_date=20240226T165626
+[2024-02-26T11:56:26.170-0500] {local_task_job_runner.py:228} INFO - Task exited with return code 0
+[2024-02-26T11:56:26.192-0500] {logging_mixin.py:154} WARNING - /Users/venkatasaisabbineni/Desktop/Airflow_local/airflow_env/lib/python3.11/site-packages/airflow/models/baseoperator.py:1203 AirflowProviderDeprecationWarning: Call to deprecated class PostgresOperator. (Please use `airflow.providers.common.sql.operators.sql.SQLExecuteQueryOperator`.Also, you can provide `hook_params={'schema': <database>}`.)
+[2024-02-26T11:56:26.201-0500] {taskinstance.py:2778} INFO - 1 downstream tasks scheduled from follow-on schedule check

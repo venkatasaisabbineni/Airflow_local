@@ -1,0 +1,25 @@
+[2024-02-26T07:02:44.589-0500] {taskinstance.py:1159} INFO - Dependencies all met for dep_context=non-requeueable deps ti=<TaskInstance: postgres_pipeline.saving_to_csv manual__2024-02-26T12:02:35.562002+00:00 [queued]>
+[2024-02-26T07:02:44.592-0500] {taskinstance.py:1159} INFO - Dependencies all met for dep_context=requeueable deps ti=<TaskInstance: postgres_pipeline.saving_to_csv manual__2024-02-26T12:02:35.562002+00:00 [queued]>
+[2024-02-26T07:02:44.592-0500] {taskinstance.py:1361} INFO - Starting attempt 1 of 1
+[2024-02-26T07:02:44.598-0500] {taskinstance.py:1382} INFO - Executing <Task(PythonOperator): saving_to_csv> on 2024-02-26 12:02:35.562002+00:00
+[2024-02-26T07:02:44.600-0500] {standard_task_runner.py:57} INFO - Started process 86245 to run task
+[2024-02-26T07:02:44.603-0500] {standard_task_runner.py:84} INFO - Running: ['airflow', 'tasks', 'run', 'postgres_pipeline', 'saving_to_csv', 'manual__2024-02-26T12:02:35.562002+00:00', '--job-id', '34', '--raw', '--subdir', 'DAGS_FOLDER/postgres_pipeline.py', '--cfg-path', '/var/folders/0j/ct19m_4d33qfzqs3tkf7s7rm0000gq/T/tmpv6dp9zfe']
+[2024-02-26T07:02:44.604-0500] {standard_task_runner.py:85} INFO - Job 34: Subtask saving_to_csv
+[2024-02-26T07:02:44.620-0500] {task_command.py:416} INFO - Running <TaskInstance: postgres_pipeline.saving_to_csv manual__2024-02-26T12:02:35.562002+00:00 [running]> on host venkatasaismbp.mynetworksettings.com
+[2024-02-26T07:02:44.647-0500] {taskinstance.py:1662} INFO - Exporting env vars: AIRFLOW_CTX_DAG_OWNER='Venkata' AIRFLOW_CTX_DAG_ID='postgres_pipeline' AIRFLOW_CTX_TASK_ID='saving_to_csv' AIRFLOW_CTX_EXECUTION_DATE='2024-02-26T12:02:35.562002+00:00' AIRFLOW_CTX_TRY_NUMBER='1' AIRFLOW_CTX_DAG_RUN_ID='manual__2024-02-26T12:02:35.562002+00:00'
+[2024-02-26T07:02:44.651-0500] {taskinstance.py:1937} ERROR - Task failed with exception
+Traceback (most recent call last):
+  File "/Users/venkatasaisabbineni/Desktop/Airflow_local/airflow_env/lib/python3.11/site-packages/airflow/operators/python.py", line 192, in execute
+    return_value = self.execute_callable()
+                   ^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/venkatasaisabbineni/Desktop/Airflow_local/airflow_env/lib/python3.11/site-packages/airflow/operators/python.py", line 209, in execute_callable
+    return self.python_callable(*self.op_args, **self.op_kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/venkatasaisabbineni/Desktop/Airflow_local/dags/postgres_pipeline.py", line 15, in saving_to_csv
+    with open('/Users/venkatasaisabbineni/Desktop/Airflow_local/output/filtered_customer_data.csv',
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+FileNotFoundError: [Errno 2] No such file or directory: '/Users/venkatasaisabbineni/Desktop/Airflow_local/output/filtered_customer_data.csv'
+[2024-02-26T07:02:44.654-0500] {taskinstance.py:1400} INFO - Marking task as FAILED. dag_id=postgres_pipeline, task_id=saving_to_csv, execution_date=20240226T120235, start_date=20240226T120244, end_date=20240226T120244
+[2024-02-26T07:02:44.658-0500] {standard_task_runner.py:104} ERROR - Failed to execute job 34 for task saving_to_csv ([Errno 2] No such file or directory: '/Users/venkatasaisabbineni/Desktop/Airflow_local/output/filtered_customer_data.csv'; 86245)
+[2024-02-26T07:02:44.661-0500] {local_task_job_runner.py:228} INFO - Task exited with return code 1
+[2024-02-26T07:02:44.668-0500] {taskinstance.py:2778} INFO - 0 downstream tasks scheduled from follow-on schedule check

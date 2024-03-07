@@ -1,0 +1,11 @@
+[2024-02-26T12:30:32.471-0500] {taskinstance.py:1159} INFO - Dependencies all met for dep_context=non-requeueable deps ti=<TaskInstance: etl_customer_dag.extract_customers manual__2024-02-26T17:30:30.308230+00:00 [queued]>
+[2024-02-26T12:30:32.477-0500] {taskinstance.py:1159} INFO - Dependencies all met for dep_context=requeueable deps ti=<TaskInstance: etl_customer_dag.extract_customers manual__2024-02-26T17:30:30.308230+00:00 [queued]>
+[2024-02-26T12:30:32.477-0500] {taskinstance.py:1361} INFO - Starting attempt 1 of 1
+[2024-02-26T12:30:32.486-0500] {taskinstance.py:1382} INFO - Executing <Task(PostgresOperator): extract_customers> on 2024-02-26 17:30:30.308230+00:00
+[2024-02-26T12:30:32.489-0500] {standard_task_runner.py:57} INFO - Started process 31212 to run task
+[2024-02-26T12:30:32.493-0500] {standard_task_runner.py:84} INFO - Running: ['airflow', 'tasks', 'run', 'etl_customer_dag', 'extract_customers', 'manual__2024-02-26T17:30:30.308230+00:00', '--job-id', '46', '--raw', '--subdir', 'DAGS_FOLDER/etl_customer_dag.py', '--cfg-path', '/var/folders/0j/ct19m_4d33qfzqs3tkf7s7rm0000gq/T/tmpyaucr_62']
+[2024-02-26T12:30:32.495-0500] {standard_task_runner.py:85} INFO - Job 46: Subtask extract_customers
+[2024-02-26T12:30:32.580-0500] {task_command.py:416} INFO - Running <TaskInstance: etl_customer_dag.extract_customers manual__2024-02-26T17:30:30.308230+00:00 [running]> on host venkatasaismbp.hsd1.nj.comcast.net
+[2024-02-26T12:30:32.915-0500] {local_task_job_runner.py:228} INFO - Task exited with return code -5
+[2024-02-26T12:30:32.954-0500] {logging_mixin.py:154} WARNING - /Users/venkatasaisabbineni/Desktop/Airflow_local/airflow_env/lib/python3.11/site-packages/airflow/models/baseoperator.py:1203 AirflowProviderDeprecationWarning: Call to deprecated class PostgresOperator. (Please use `airflow.providers.common.sql.operators.sql.SQLExecuteQueryOperator`.Also, you can provide `hook_params={'schema': <database>}`.)
+[2024-02-26T12:30:32.963-0500] {taskinstance.py:2778} INFO - 0 downstream tasks scheduled from follow-on schedule check

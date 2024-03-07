@@ -1,0 +1,728 @@
+[2024-03-01T13:53:22.139-0500] {processor.py:157} INFO - Started process (PID=37021) to work on /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/first_dag.py
+[2024-03-01T13:53:22.144-0500] {processor.py:829} INFO - Processing file /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/first_dag.py for tasks to queue
+[2024-03-01T13:53:22.145-0500] {logging_mixin.py:154} INFO - [2024-03-01T13:53:22.144-0500] {dagbag.py:536} INFO - Filling up the DagBag from /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/first_dag.py
+[2024-03-01T13:53:22.200-0500] {processor.py:839} INFO - DAG(s) dict_keys(['FIRST_DAG']) retrieved from /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/first_dag.py
+[2024-03-01T13:53:22.287-0500] {logging_mixin.py:154} INFO - [2024-03-01T13:53:22.287-0500] {dag.py:2941} INFO - Sync 1 DAGs
+[2024-03-01T13:53:22.369-0500] {logging_mixin.py:154} INFO - [2024-03-01T13:53:22.368-0500] {dag.py:3722} INFO - Setting next_dagrun for FIRST_DAG to 2024-02-26T00:00:00+00:00, run_after=2024-02-27T00:00:00+00:00
+[2024-03-01T13:53:22.387-0500] {processor.py:179} INFO - Processing /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/first_dag.py took 0.255 seconds
+[2024-03-01T13:53:55.208-0500] {processor.py:157} INFO - Started process (PID=37202) to work on /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/first_dag.py
+[2024-03-01T13:53:55.211-0500] {processor.py:829} INFO - Processing file /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/first_dag.py for tasks to queue
+[2024-03-01T13:53:55.211-0500] {logging_mixin.py:154} INFO - [2024-03-01T13:53:55.211-0500] {dagbag.py:536} INFO - Filling up the DagBag from /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/first_dag.py
+[2024-03-01T13:53:55.240-0500] {processor.py:839} INFO - DAG(s) dict_keys(['FIRST_DAG']) retrieved from /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/first_dag.py
+[2024-03-01T13:53:55.407-0500] {logging_mixin.py:154} INFO - [2024-03-01T13:53:55.407-0500] {dag.py:2941} INFO - Sync 1 DAGs
+[2024-03-01T13:53:55.423-0500] {logging_mixin.py:154} INFO - [2024-03-01T13:53:55.423-0500] {dag.py:3722} INFO - Setting next_dagrun for FIRST_DAG to 2024-02-26T00:00:00+00:00, run_after=2024-02-27T00:00:00+00:00
+[2024-03-01T13:53:55.435-0500] {processor.py:179} INFO - Processing /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/first_dag.py took 0.229 seconds
+[2024-03-01T15:06:55.242-0500] {processor.py:157} INFO - Started process (PID=52579) to work on /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/first_dag.py
+[2024-03-01T15:06:55.246-0500] {processor.py:829} INFO - Processing file /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/first_dag.py for tasks to queue
+[2024-03-01T15:06:55.249-0500] {logging_mixin.py:154} INFO - [2024-03-01T15:06:55.249-0500] {dagbag.py:536} INFO - Filling up the DagBag from /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/first_dag.py
+[2024-03-01T15:06:55.315-0500] {processor.py:839} INFO - DAG(s) dict_keys(['FIRST_DAG']) retrieved from /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/first_dag.py
+[2024-03-01T15:06:55.434-0500] {logging_mixin.py:154} INFO - [2024-03-01T15:06:55.433-0500] {dag.py:2941} INFO - Sync 1 DAGs
+[2024-03-01T15:06:55.619-0500] {logging_mixin.py:154} INFO - [2024-03-01T15:06:55.619-0500] {dag.py:3722} INFO - Setting next_dagrun for FIRST_DAG to 2024-02-26T00:00:00+00:00, run_after=2024-02-27T00:00:00+00:00
+[2024-03-01T15:06:55.646-0500] {processor.py:179} INFO - Processing /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/first_dag.py took 0.408 seconds
+[2024-03-01T15:07:28.672-0500] {processor.py:157} INFO - Started process (PID=52776) to work on /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/first_dag.py
+[2024-03-01T15:07:28.676-0500] {processor.py:829} INFO - Processing file /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/first_dag.py for tasks to queue
+[2024-03-01T15:07:28.676-0500] {logging_mixin.py:154} INFO - [2024-03-01T15:07:28.676-0500] {dagbag.py:536} INFO - Filling up the DagBag from /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/first_dag.py
+[2024-03-01T15:07:28.725-0500] {processor.py:839} INFO - DAG(s) dict_keys(['FIRST_DAG']) retrieved from /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/first_dag.py
+[2024-03-01T15:07:28.970-0500] {logging_mixin.py:154} INFO - [2024-03-01T15:07:28.970-0500] {dag.py:2941} INFO - Sync 1 DAGs
+[2024-03-01T15:07:28.997-0500] {logging_mixin.py:154} INFO - [2024-03-01T15:07:28.997-0500] {dag.py:3722} INFO - Setting next_dagrun for FIRST_DAG to 2024-02-26T00:00:00+00:00, run_after=2024-02-27T00:00:00+00:00
+[2024-03-01T15:07:29.015-0500] {processor.py:179} INFO - Processing /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/first_dag.py took 0.346 seconds
+[2024-03-01T15:08:03.327-0500] {processor.py:157} INFO - Started process (PID=53114) to work on /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/first_dag.py
+[2024-03-01T15:08:03.332-0500] {processor.py:829} INFO - Processing file /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/first_dag.py for tasks to queue
+[2024-03-01T15:08:03.332-0500] {logging_mixin.py:154} INFO - [2024-03-01T15:08:03.332-0500] {dagbag.py:536} INFO - Filling up the DagBag from /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/first_dag.py
+[2024-03-01T15:08:03.386-0500] {processor.py:839} INFO - DAG(s) dict_keys(['FIRST_DAG']) retrieved from /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/first_dag.py
+[2024-03-01T15:08:03.645-0500] {logging_mixin.py:154} INFO - [2024-03-01T15:08:03.645-0500] {dag.py:2941} INFO - Sync 1 DAGs
+[2024-03-01T15:08:03.675-0500] {logging_mixin.py:154} INFO - [2024-03-01T15:08:03.675-0500] {dag.py:3722} INFO - Setting next_dagrun for FIRST_DAG to 2024-02-26T00:00:00+00:00, run_after=2024-02-27T00:00:00+00:00
+[2024-03-01T15:08:03.695-0500] {processor.py:179} INFO - Processing /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/first_dag.py took 0.372 seconds
+[2024-03-01T15:08:36.656-0500] {processor.py:157} INFO - Started process (PID=53329) to work on /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/first_dag.py
+[2024-03-01T15:08:36.660-0500] {processor.py:829} INFO - Processing file /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/first_dag.py for tasks to queue
+[2024-03-01T15:08:36.661-0500] {logging_mixin.py:154} INFO - [2024-03-01T15:08:36.661-0500] {dagbag.py:536} INFO - Filling up the DagBag from /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/first_dag.py
+[2024-03-01T15:08:36.714-0500] {processor.py:839} INFO - DAG(s) dict_keys(['FIRST_DAG']) retrieved from /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/first_dag.py
+[2024-03-01T15:08:36.938-0500] {logging_mixin.py:154} INFO - [2024-03-01T15:08:36.938-0500] {dag.py:2941} INFO - Sync 1 DAGs
+[2024-03-01T15:08:36.962-0500] {logging_mixin.py:154} INFO - [2024-03-01T15:08:36.962-0500] {dag.py:3722} INFO - Setting next_dagrun for FIRST_DAG to 2024-02-26T00:00:00+00:00, run_after=2024-02-27T00:00:00+00:00
+[2024-03-01T15:08:36.981-0500] {processor.py:179} INFO - Processing /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/first_dag.py took 0.330 seconds
+[2024-03-01T15:09:10.801-0500] {processor.py:157} INFO - Started process (PID=53571) to work on /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/first_dag.py
+[2024-03-01T15:09:10.808-0500] {processor.py:829} INFO - Processing file /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/first_dag.py for tasks to queue
+[2024-03-01T15:09:10.808-0500] {logging_mixin.py:154} INFO - [2024-03-01T15:09:10.808-0500] {dagbag.py:536} INFO - Filling up the DagBag from /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/first_dag.py
+[2024-03-01T15:09:10.860-0500] {processor.py:839} INFO - DAG(s) dict_keys(['FIRST_DAG']) retrieved from /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/first_dag.py
+[2024-03-01T15:09:11.077-0500] {logging_mixin.py:154} INFO - [2024-03-01T15:09:11.077-0500] {dag.py:2941} INFO - Sync 1 DAGs
+[2024-03-01T15:09:11.103-0500] {logging_mixin.py:154} INFO - [2024-03-01T15:09:11.102-0500] {dag.py:3722} INFO - Setting next_dagrun for FIRST_DAG to 2024-02-26T00:00:00+00:00, run_after=2024-02-27T00:00:00+00:00
+[2024-03-01T15:09:11.122-0500] {processor.py:179} INFO - Processing /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/first_dag.py took 0.325 seconds
+[2024-03-01T15:09:43.908-0500] {processor.py:157} INFO - Started process (PID=53879) to work on /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/first_dag.py
+[2024-03-01T15:09:43.913-0500] {processor.py:829} INFO - Processing file /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/first_dag.py for tasks to queue
+[2024-03-01T15:09:43.913-0500] {logging_mixin.py:154} INFO - [2024-03-01T15:09:43.913-0500] {dagbag.py:536} INFO - Filling up the DagBag from /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/first_dag.py
+[2024-03-01T15:09:43.953-0500] {processor.py:839} INFO - DAG(s) dict_keys(['FIRST_DAG']) retrieved from /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/first_dag.py
+[2024-03-01T15:09:44.167-0500] {logging_mixin.py:154} INFO - [2024-03-01T15:09:44.167-0500] {dag.py:2941} INFO - Sync 1 DAGs
+[2024-03-01T15:09:44.191-0500] {logging_mixin.py:154} INFO - [2024-03-01T15:09:44.191-0500] {dag.py:3722} INFO - Setting next_dagrun for FIRST_DAG to 2024-02-26T00:00:00+00:00, run_after=2024-02-27T00:00:00+00:00
+[2024-03-01T15:09:44.211-0500] {processor.py:179} INFO - Processing /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/first_dag.py took 0.306 seconds
+[2024-03-01T15:10:17.513-0500] {processor.py:157} INFO - Started process (PID=54043) to work on /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/first_dag.py
+[2024-03-01T15:10:17.519-0500] {processor.py:829} INFO - Processing file /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/first_dag.py for tasks to queue
+[2024-03-01T15:10:17.520-0500] {logging_mixin.py:154} INFO - [2024-03-01T15:10:17.519-0500] {dagbag.py:536} INFO - Filling up the DagBag from /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/first_dag.py
+[2024-03-01T15:10:17.593-0500] {processor.py:839} INFO - DAG(s) dict_keys(['FIRST_DAG']) retrieved from /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/first_dag.py
+[2024-03-01T15:10:17.888-0500] {logging_mixin.py:154} INFO - [2024-03-01T15:10:17.888-0500] {dag.py:2941} INFO - Sync 1 DAGs
+[2024-03-01T15:10:17.916-0500] {logging_mixin.py:154} INFO - [2024-03-01T15:10:17.916-0500] {dag.py:3722} INFO - Setting next_dagrun for FIRST_DAG to 2024-02-26T00:00:00+00:00, run_after=2024-02-27T00:00:00+00:00
+[2024-03-01T15:10:17.939-0500] {processor.py:179} INFO - Processing /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/first_dag.py took 0.431 seconds
+[2024-03-01T15:10:51.077-0500] {processor.py:157} INFO - Started process (PID=54224) to work on /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/first_dag.py
+[2024-03-01T15:10:51.082-0500] {processor.py:829} INFO - Processing file /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/first_dag.py for tasks to queue
+[2024-03-01T15:10:51.082-0500] {logging_mixin.py:154} INFO - [2024-03-01T15:10:51.082-0500] {dagbag.py:536} INFO - Filling up the DagBag from /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/first_dag.py
+[2024-03-01T15:10:51.136-0500] {processor.py:839} INFO - DAG(s) dict_keys(['FIRST_DAG']) retrieved from /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/first_dag.py
+[2024-03-01T15:10:51.380-0500] {logging_mixin.py:154} INFO - [2024-03-01T15:10:51.380-0500] {dag.py:2941} INFO - Sync 1 DAGs
+[2024-03-01T15:10:51.404-0500] {logging_mixin.py:154} INFO - [2024-03-01T15:10:51.404-0500] {dag.py:3722} INFO - Setting next_dagrun for FIRST_DAG to 2024-02-26T00:00:00+00:00, run_after=2024-02-27T00:00:00+00:00
+[2024-03-01T15:10:51.421-0500] {processor.py:179} INFO - Processing /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/first_dag.py took 0.348 seconds
+[2024-03-01T15:11:25.007-0500] {processor.py:157} INFO - Started process (PID=54403) to work on /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/first_dag.py
+[2024-03-01T15:11:25.013-0500] {processor.py:829} INFO - Processing file /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/first_dag.py for tasks to queue
+[2024-03-01T15:11:25.013-0500] {logging_mixin.py:154} INFO - [2024-03-01T15:11:25.013-0500] {dagbag.py:536} INFO - Filling up the DagBag from /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/first_dag.py
+[2024-03-01T15:11:25.064-0500] {processor.py:839} INFO - DAG(s) dict_keys(['FIRST_DAG']) retrieved from /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/first_dag.py
+[2024-03-01T15:11:25.307-0500] {logging_mixin.py:154} INFO - [2024-03-01T15:11:25.306-0500] {dag.py:2941} INFO - Sync 1 DAGs
+[2024-03-01T15:11:25.332-0500] {logging_mixin.py:154} INFO - [2024-03-01T15:11:25.332-0500] {dag.py:3722} INFO - Setting next_dagrun for FIRST_DAG to 2024-02-26T00:00:00+00:00, run_after=2024-02-27T00:00:00+00:00
+[2024-03-01T15:11:25.350-0500] {processor.py:179} INFO - Processing /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/first_dag.py took 0.345 seconds
+[2024-03-01T15:11:58.879-0500] {processor.py:157} INFO - Started process (PID=54526) to work on /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/first_dag.py
+[2024-03-01T15:11:58.883-0500] {processor.py:829} INFO - Processing file /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/first_dag.py for tasks to queue
+[2024-03-01T15:11:58.883-0500] {logging_mixin.py:154} INFO - [2024-03-01T15:11:58.883-0500] {dagbag.py:536} INFO - Filling up the DagBag from /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/first_dag.py
+[2024-03-01T15:11:58.923-0500] {processor.py:839} INFO - DAG(s) dict_keys(['FIRST_DAG']) retrieved from /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/first_dag.py
+[2024-03-01T15:11:59.126-0500] {logging_mixin.py:154} INFO - [2024-03-01T15:11:59.126-0500] {dag.py:2941} INFO - Sync 1 DAGs
+[2024-03-01T15:11:59.146-0500] {logging_mixin.py:154} INFO - [2024-03-01T15:11:59.146-0500] {dag.py:3722} INFO - Setting next_dagrun for FIRST_DAG to 2024-02-26T00:00:00+00:00, run_after=2024-02-27T00:00:00+00:00
+[2024-03-01T15:11:59.158-0500] {processor.py:179} INFO - Processing /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/first_dag.py took 0.282 seconds
+[2024-03-01T15:12:30.723-0500] {processor.py:157} INFO - Started process (PID=54648) to work on /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/first_dag.py
+[2024-03-01T15:12:30.727-0500] {processor.py:829} INFO - Processing file /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/first_dag.py for tasks to queue
+[2024-03-01T15:12:30.727-0500] {logging_mixin.py:154} INFO - [2024-03-01T15:12:30.727-0500] {dagbag.py:536} INFO - Filling up the DagBag from /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/first_dag.py
+[2024-03-01T15:12:30.753-0500] {processor.py:839} INFO - DAG(s) dict_keys(['FIRST_DAG']) retrieved from /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/first_dag.py
+[2024-03-01T15:12:30.884-0500] {logging_mixin.py:154} INFO - [2024-03-01T15:12:30.884-0500] {dag.py:2941} INFO - Sync 1 DAGs
+[2024-03-01T15:12:30.899-0500] {logging_mixin.py:154} INFO - [2024-03-01T15:12:30.899-0500] {dag.py:3722} INFO - Setting next_dagrun for FIRST_DAG to 2024-02-26T00:00:00+00:00, run_after=2024-02-27T00:00:00+00:00
+[2024-03-01T15:12:30.909-0500] {processor.py:179} INFO - Processing /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/first_dag.py took 0.187 seconds
+[2024-03-01T15:13:03.144-0500] {processor.py:157} INFO - Started process (PID=54785) to work on /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/first_dag.py
+[2024-03-01T15:13:03.147-0500] {processor.py:829} INFO - Processing file /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/first_dag.py for tasks to queue
+[2024-03-01T15:13:03.147-0500] {logging_mixin.py:154} INFO - [2024-03-01T15:13:03.147-0500] {dagbag.py:536} INFO - Filling up the DagBag from /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/first_dag.py
+[2024-03-01T15:13:03.174-0500] {processor.py:839} INFO - DAG(s) dict_keys(['FIRST_DAG']) retrieved from /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/first_dag.py
+[2024-03-01T15:13:03.313-0500] {logging_mixin.py:154} INFO - [2024-03-01T15:13:03.313-0500] {dag.py:2941} INFO - Sync 1 DAGs
+[2024-03-01T15:13:03.330-0500] {logging_mixin.py:154} INFO - [2024-03-01T15:13:03.330-0500] {dag.py:3722} INFO - Setting next_dagrun for FIRST_DAG to 2024-02-26T00:00:00+00:00, run_after=2024-02-27T00:00:00+00:00
+[2024-03-01T15:13:03.342-0500] {processor.py:179} INFO - Processing /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/first_dag.py took 0.201 seconds
+[2024-03-01T15:13:35.878-0500] {processor.py:157} INFO - Started process (PID=54896) to work on /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/first_dag.py
+[2024-03-01T15:13:35.884-0500] {processor.py:829} INFO - Processing file /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/first_dag.py for tasks to queue
+[2024-03-01T15:13:35.885-0500] {logging_mixin.py:154} INFO - [2024-03-01T15:13:35.885-0500] {dagbag.py:536} INFO - Filling up the DagBag from /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/first_dag.py
+[2024-03-01T15:13:35.927-0500] {processor.py:839} INFO - DAG(s) dict_keys(['FIRST_DAG']) retrieved from /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/first_dag.py
+[2024-03-01T15:13:36.129-0500] {logging_mixin.py:154} INFO - [2024-03-01T15:13:36.129-0500] {dag.py:2941} INFO - Sync 1 DAGs
+[2024-03-01T15:13:36.147-0500] {logging_mixin.py:154} INFO - [2024-03-01T15:13:36.147-0500] {dag.py:3722} INFO - Setting next_dagrun for FIRST_DAG to 2024-02-26T00:00:00+00:00, run_after=2024-02-27T00:00:00+00:00
+[2024-03-01T15:13:36.159-0500] {processor.py:179} INFO - Processing /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/first_dag.py took 0.286 seconds
+[2024-03-01T15:14:07.701-0500] {processor.py:157} INFO - Started process (PID=55018) to work on /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/first_dag.py
+[2024-03-01T15:14:07.705-0500] {processor.py:829} INFO - Processing file /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/first_dag.py for tasks to queue
+[2024-03-01T15:14:07.705-0500] {logging_mixin.py:154} INFO - [2024-03-01T15:14:07.705-0500] {dagbag.py:536} INFO - Filling up the DagBag from /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/first_dag.py
+[2024-03-01T15:14:07.734-0500] {processor.py:839} INFO - DAG(s) dict_keys(['FIRST_DAG']) retrieved from /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/first_dag.py
+[2024-03-01T15:14:07.885-0500] {logging_mixin.py:154} INFO - [2024-03-01T15:14:07.885-0500] {dag.py:2941} INFO - Sync 1 DAGs
+[2024-03-01T15:14:07.902-0500] {logging_mixin.py:154} INFO - [2024-03-01T15:14:07.902-0500] {dag.py:3722} INFO - Setting next_dagrun for FIRST_DAG to 2024-02-26T00:00:00+00:00, run_after=2024-02-27T00:00:00+00:00
+[2024-03-01T15:14:07.914-0500] {processor.py:179} INFO - Processing /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/first_dag.py took 0.215 seconds
+[2024-03-01T15:14:39.870-0500] {processor.py:157} INFO - Started process (PID=55132) to work on /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/first_dag.py
+[2024-03-01T15:14:39.873-0500] {processor.py:829} INFO - Processing file /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/first_dag.py for tasks to queue
+[2024-03-01T15:14:39.873-0500] {logging_mixin.py:154} INFO - [2024-03-01T15:14:39.873-0500] {dagbag.py:536} INFO - Filling up the DagBag from /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/first_dag.py
+[2024-03-01T15:14:39.896-0500] {processor.py:839} INFO - DAG(s) dict_keys(['FIRST_DAG']) retrieved from /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/first_dag.py
+[2024-03-01T15:14:40.025-0500] {logging_mixin.py:154} INFO - [2024-03-01T15:14:40.024-0500] {dag.py:2941} INFO - Sync 1 DAGs
+[2024-03-01T15:14:40.040-0500] {logging_mixin.py:154} INFO - [2024-03-01T15:14:40.040-0500] {dag.py:3722} INFO - Setting next_dagrun for FIRST_DAG to 2024-02-26T00:00:00+00:00, run_after=2024-02-27T00:00:00+00:00
+[2024-03-01T15:14:40.050-0500] {processor.py:179} INFO - Processing /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/first_dag.py took 0.181 seconds
+[2024-03-01T15:15:11.995-0500] {processor.py:157} INFO - Started process (PID=55247) to work on /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/first_dag.py
+[2024-03-01T15:15:11.997-0500] {processor.py:829} INFO - Processing file /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/first_dag.py for tasks to queue
+[2024-03-01T15:15:11.997-0500] {logging_mixin.py:154} INFO - [2024-03-01T15:15:11.997-0500] {dagbag.py:536} INFO - Filling up the DagBag from /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/first_dag.py
+[2024-03-01T15:15:12.023-0500] {processor.py:839} INFO - DAG(s) dict_keys(['FIRST_DAG']) retrieved from /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/first_dag.py
+[2024-03-01T15:15:12.144-0500] {logging_mixin.py:154} INFO - [2024-03-01T15:15:12.144-0500] {dag.py:2941} INFO - Sync 1 DAGs
+[2024-03-01T15:15:12.158-0500] {logging_mixin.py:154} INFO - [2024-03-01T15:15:12.158-0500] {dag.py:3722} INFO - Setting next_dagrun for FIRST_DAG to 2024-02-26T00:00:00+00:00, run_after=2024-02-27T00:00:00+00:00
+[2024-03-01T15:15:12.168-0500] {processor.py:179} INFO - Processing /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/first_dag.py took 0.175 seconds
+[2024-03-01T15:15:44.181-0500] {processor.py:157} INFO - Started process (PID=55358) to work on /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/first_dag.py
+[2024-03-01T15:15:44.184-0500] {processor.py:829} INFO - Processing file /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/first_dag.py for tasks to queue
+[2024-03-01T15:15:44.184-0500] {logging_mixin.py:154} INFO - [2024-03-01T15:15:44.184-0500] {dagbag.py:536} INFO - Filling up the DagBag from /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/first_dag.py
+[2024-03-01T15:15:44.208-0500] {processor.py:839} INFO - DAG(s) dict_keys(['FIRST_DAG']) retrieved from /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/first_dag.py
+[2024-03-01T15:15:44.339-0500] {logging_mixin.py:154} INFO - [2024-03-01T15:15:44.339-0500] {dag.py:2941} INFO - Sync 1 DAGs
+[2024-03-01T15:15:44.355-0500] {logging_mixin.py:154} INFO - [2024-03-01T15:15:44.355-0500] {dag.py:3722} INFO - Setting next_dagrun for FIRST_DAG to 2024-02-26T00:00:00+00:00, run_after=2024-02-27T00:00:00+00:00
+[2024-03-01T15:15:44.366-0500] {processor.py:179} INFO - Processing /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/first_dag.py took 0.187 seconds
+[2024-03-01T15:16:17.545-0500] {processor.py:157} INFO - Started process (PID=55474) to work on /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/first_dag.py
+[2024-03-01T15:16:17.549-0500] {processor.py:829} INFO - Processing file /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/first_dag.py for tasks to queue
+[2024-03-01T15:16:17.549-0500] {logging_mixin.py:154} INFO - [2024-03-01T15:16:17.549-0500] {dagbag.py:536} INFO - Filling up the DagBag from /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/first_dag.py
+[2024-03-01T15:16:17.581-0500] {processor.py:839} INFO - DAG(s) dict_keys(['FIRST_DAG']) retrieved from /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/first_dag.py
+[2024-03-01T15:16:17.749-0500] {logging_mixin.py:154} INFO - [2024-03-01T15:16:17.748-0500] {dag.py:2941} INFO - Sync 1 DAGs
+[2024-03-01T15:16:17.766-0500] {logging_mixin.py:154} INFO - [2024-03-01T15:16:17.766-0500] {dag.py:3722} INFO - Setting next_dagrun for FIRST_DAG to 2024-02-26T00:00:00+00:00, run_after=2024-02-27T00:00:00+00:00
+[2024-03-01T15:16:17.777-0500] {processor.py:179} INFO - Processing /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/first_dag.py took 0.234 seconds
+[2024-03-01T15:16:49.844-0500] {processor.py:157} INFO - Started process (PID=55593) to work on /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/first_dag.py
+[2024-03-01T15:16:49.848-0500] {processor.py:829} INFO - Processing file /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/first_dag.py for tasks to queue
+[2024-03-01T15:16:49.848-0500] {logging_mixin.py:154} INFO - [2024-03-01T15:16:49.848-0500] {dagbag.py:536} INFO - Filling up the DagBag from /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/first_dag.py
+[2024-03-01T15:16:49.883-0500] {processor.py:839} INFO - DAG(s) dict_keys(['FIRST_DAG']) retrieved from /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/first_dag.py
+[2024-03-01T15:16:50.033-0500] {logging_mixin.py:154} INFO - [2024-03-01T15:16:50.033-0500] {dag.py:2941} INFO - Sync 1 DAGs
+[2024-03-01T15:16:50.048-0500] {logging_mixin.py:154} INFO - [2024-03-01T15:16:50.047-0500] {dag.py:3722} INFO - Setting next_dagrun for FIRST_DAG to 2024-02-26T00:00:00+00:00, run_after=2024-02-27T00:00:00+00:00
+[2024-03-01T15:16:50.058-0500] {processor.py:179} INFO - Processing /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/first_dag.py took 0.216 seconds
+[2024-03-01T15:17:21.971-0500] {processor.py:157} INFO - Started process (PID=55706) to work on /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/first_dag.py
+[2024-03-01T15:17:21.974-0500] {processor.py:829} INFO - Processing file /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/first_dag.py for tasks to queue
+[2024-03-01T15:17:21.974-0500] {logging_mixin.py:154} INFO - [2024-03-01T15:17:21.974-0500] {dagbag.py:536} INFO - Filling up the DagBag from /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/first_dag.py
+[2024-03-01T15:17:21.998-0500] {processor.py:839} INFO - DAG(s) dict_keys(['FIRST_DAG']) retrieved from /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/first_dag.py
+[2024-03-01T15:17:22.126-0500] {logging_mixin.py:154} INFO - [2024-03-01T15:17:22.126-0500] {dag.py:2941} INFO - Sync 1 DAGs
+[2024-03-01T15:17:22.141-0500] {logging_mixin.py:154} INFO - [2024-03-01T15:17:22.141-0500] {dag.py:3722} INFO - Setting next_dagrun for FIRST_DAG to 2024-02-26T00:00:00+00:00, run_after=2024-02-27T00:00:00+00:00
+[2024-03-01T15:17:22.151-0500] {processor.py:179} INFO - Processing /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/first_dag.py took 0.182 seconds
+[2024-03-01T15:17:55.098-0500] {processor.py:157} INFO - Started process (PID=55837) to work on /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/first_dag.py
+[2024-03-01T15:17:55.104-0500] {processor.py:829} INFO - Processing file /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/first_dag.py for tasks to queue
+[2024-03-01T15:17:55.104-0500] {logging_mixin.py:154} INFO - [2024-03-01T15:17:55.104-0500] {dagbag.py:536} INFO - Filling up the DagBag from /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/first_dag.py
+[2024-03-01T15:17:55.128-0500] {processor.py:839} INFO - DAG(s) dict_keys(['FIRST_DAG']) retrieved from /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/first_dag.py
+[2024-03-01T15:17:55.251-0500] {logging_mixin.py:154} INFO - [2024-03-01T15:17:55.251-0500] {dag.py:2941} INFO - Sync 1 DAGs
+[2024-03-01T15:17:55.268-0500] {logging_mixin.py:154} INFO - [2024-03-01T15:17:55.267-0500] {dag.py:3722} INFO - Setting next_dagrun for FIRST_DAG to 2024-02-26T00:00:00+00:00, run_after=2024-02-27T00:00:00+00:00
+[2024-03-01T15:17:55.279-0500] {processor.py:179} INFO - Processing /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/first_dag.py took 0.183 seconds
+[2024-03-01T15:18:26.429-0500] {processor.py:157} INFO - Started process (PID=55944) to work on /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/first_dag.py
+[2024-03-01T15:18:26.433-0500] {processor.py:829} INFO - Processing file /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/first_dag.py for tasks to queue
+[2024-03-01T15:18:26.433-0500] {logging_mixin.py:154} INFO - [2024-03-01T15:18:26.433-0500] {dagbag.py:536} INFO - Filling up the DagBag from /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/first_dag.py
+[2024-03-01T15:18:26.457-0500] {processor.py:839} INFO - DAG(s) dict_keys(['FIRST_DAG']) retrieved from /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/first_dag.py
+[2024-03-01T15:18:26.585-0500] {logging_mixin.py:154} INFO - [2024-03-01T15:18:26.585-0500] {dag.py:2941} INFO - Sync 1 DAGs
+[2024-03-01T15:18:26.602-0500] {logging_mixin.py:154} INFO - [2024-03-01T15:18:26.601-0500] {dag.py:3722} INFO - Setting next_dagrun for FIRST_DAG to 2024-02-26T00:00:00+00:00, run_after=2024-02-27T00:00:00+00:00
+[2024-03-01T15:18:26.612-0500] {processor.py:179} INFO - Processing /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/first_dag.py took 0.185 seconds
+[2024-03-01T15:18:59.357-0500] {processor.py:157} INFO - Started process (PID=56059) to work on /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/first_dag.py
+[2024-03-01T15:18:59.359-0500] {processor.py:829} INFO - Processing file /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/first_dag.py for tasks to queue
+[2024-03-01T15:18:59.359-0500] {logging_mixin.py:154} INFO - [2024-03-01T15:18:59.359-0500] {dagbag.py:536} INFO - Filling up the DagBag from /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/first_dag.py
+[2024-03-01T15:18:59.382-0500] {processor.py:839} INFO - DAG(s) dict_keys(['FIRST_DAG']) retrieved from /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/first_dag.py
+[2024-03-01T15:18:59.505-0500] {logging_mixin.py:154} INFO - [2024-03-01T15:18:59.505-0500] {dag.py:2941} INFO - Sync 1 DAGs
+[2024-03-01T15:18:59.520-0500] {logging_mixin.py:154} INFO - [2024-03-01T15:18:59.520-0500] {dag.py:3722} INFO - Setting next_dagrun for FIRST_DAG to 2024-02-26T00:00:00+00:00, run_after=2024-02-27T00:00:00+00:00
+[2024-03-01T15:18:59.531-0500] {processor.py:179} INFO - Processing /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/first_dag.py took 0.176 seconds
+[2024-03-01T15:19:30.704-0500] {processor.py:157} INFO - Started process (PID=56177) to work on /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/first_dag.py
+[2024-03-01T15:19:30.708-0500] {processor.py:829} INFO - Processing file /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/first_dag.py for tasks to queue
+[2024-03-01T15:19:30.708-0500] {logging_mixin.py:154} INFO - [2024-03-01T15:19:30.708-0500] {dagbag.py:536} INFO - Filling up the DagBag from /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/first_dag.py
+[2024-03-01T15:19:30.733-0500] {processor.py:839} INFO - DAG(s) dict_keys(['FIRST_DAG']) retrieved from /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/first_dag.py
+[2024-03-01T15:19:30.876-0500] {logging_mixin.py:154} INFO - [2024-03-01T15:19:30.876-0500] {dag.py:2941} INFO - Sync 1 DAGs
+[2024-03-01T15:19:30.892-0500] {logging_mixin.py:154} INFO - [2024-03-01T15:19:30.892-0500] {dag.py:3722} INFO - Setting next_dagrun for FIRST_DAG to 2024-02-26T00:00:00+00:00, run_after=2024-02-27T00:00:00+00:00
+[2024-03-01T15:19:30.903-0500] {processor.py:179} INFO - Processing /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/first_dag.py took 0.201 seconds
+[2024-03-01T15:20:02.782-0500] {processor.py:157} INFO - Started process (PID=56288) to work on /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/first_dag.py
+[2024-03-01T15:20:02.785-0500] {processor.py:829} INFO - Processing file /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/first_dag.py for tasks to queue
+[2024-03-01T15:20:02.785-0500] {logging_mixin.py:154} INFO - [2024-03-01T15:20:02.785-0500] {dagbag.py:536} INFO - Filling up the DagBag from /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/first_dag.py
+[2024-03-01T15:20:02.809-0500] {processor.py:839} INFO - DAG(s) dict_keys(['FIRST_DAG']) retrieved from /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/first_dag.py
+[2024-03-01T15:20:02.957-0500] {logging_mixin.py:154} INFO - [2024-03-01T15:20:02.957-0500] {dag.py:2941} INFO - Sync 1 DAGs
+[2024-03-01T15:20:02.973-0500] {logging_mixin.py:154} INFO - [2024-03-01T15:20:02.973-0500] {dag.py:3722} INFO - Setting next_dagrun for FIRST_DAG to 2024-02-26T00:00:00+00:00, run_after=2024-02-27T00:00:00+00:00
+[2024-03-01T15:20:02.984-0500] {processor.py:179} INFO - Processing /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/first_dag.py took 0.203 seconds
+[2024-03-01T15:20:34.868-0500] {processor.py:157} INFO - Started process (PID=56399) to work on /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/first_dag.py
+[2024-03-01T15:20:34.870-0500] {processor.py:829} INFO - Processing file /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/first_dag.py for tasks to queue
+[2024-03-01T15:20:34.871-0500] {logging_mixin.py:154} INFO - [2024-03-01T15:20:34.871-0500] {dagbag.py:536} INFO - Filling up the DagBag from /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/first_dag.py
+[2024-03-01T15:20:34.893-0500] {processor.py:839} INFO - DAG(s) dict_keys(['FIRST_DAG']) retrieved from /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/first_dag.py
+[2024-03-01T15:20:35.027-0500] {logging_mixin.py:154} INFO - [2024-03-01T15:20:35.027-0500] {dag.py:2941} INFO - Sync 1 DAGs
+[2024-03-01T15:20:35.042-0500] {logging_mixin.py:154} INFO - [2024-03-01T15:20:35.042-0500] {dag.py:3722} INFO - Setting next_dagrun for FIRST_DAG to 2024-02-26T00:00:00+00:00, run_after=2024-02-27T00:00:00+00:00
+[2024-03-01T15:20:35.056-0500] {processor.py:179} INFO - Processing /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/first_dag.py took 0.189 seconds
+[2024-03-01T15:21:07.111-0500] {processor.py:157} INFO - Started process (PID=56508) to work on /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/first_dag.py
+[2024-03-01T15:21:07.114-0500] {processor.py:829} INFO - Processing file /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/first_dag.py for tasks to queue
+[2024-03-01T15:21:07.114-0500] {logging_mixin.py:154} INFO - [2024-03-01T15:21:07.114-0500] {dagbag.py:536} INFO - Filling up the DagBag from /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/first_dag.py
+[2024-03-01T15:21:07.140-0500] {processor.py:839} INFO - DAG(s) dict_keys(['FIRST_DAG']) retrieved from /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/first_dag.py
+[2024-03-01T15:21:07.278-0500] {logging_mixin.py:154} INFO - [2024-03-01T15:21:07.277-0500] {dag.py:2941} INFO - Sync 1 DAGs
+[2024-03-01T15:21:07.293-0500] {logging_mixin.py:154} INFO - [2024-03-01T15:21:07.293-0500] {dag.py:3722} INFO - Setting next_dagrun for FIRST_DAG to 2024-02-26T00:00:00+00:00, run_after=2024-02-27T00:00:00+00:00
+[2024-03-01T15:21:07.305-0500] {processor.py:179} INFO - Processing /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/first_dag.py took 0.195 seconds
+[2024-03-01T15:21:39.181-0500] {processor.py:157} INFO - Started process (PID=56628) to work on /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/first_dag.py
+[2024-03-01T15:21:39.186-0500] {processor.py:829} INFO - Processing file /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/first_dag.py for tasks to queue
+[2024-03-01T15:21:39.186-0500] {logging_mixin.py:154} INFO - [2024-03-01T15:21:39.186-0500] {dagbag.py:536} INFO - Filling up the DagBag from /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/first_dag.py
+[2024-03-01T15:21:39.211-0500] {processor.py:839} INFO - DAG(s) dict_keys(['FIRST_DAG']) retrieved from /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/first_dag.py
+[2024-03-01T15:21:39.346-0500] {logging_mixin.py:154} INFO - [2024-03-01T15:21:39.346-0500] {dag.py:2941} INFO - Sync 1 DAGs
+[2024-03-01T15:21:39.360-0500] {logging_mixin.py:154} INFO - [2024-03-01T15:21:39.359-0500] {dag.py:3722} INFO - Setting next_dagrun for FIRST_DAG to 2024-02-26T00:00:00+00:00, run_after=2024-02-27T00:00:00+00:00
+[2024-03-01T15:21:39.370-0500] {processor.py:179} INFO - Processing /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/first_dag.py took 0.191 seconds
+[2024-03-01T15:22:12.261-0500] {processor.py:157} INFO - Started process (PID=56750) to work on /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/first_dag.py
+[2024-03-01T15:22:12.264-0500] {processor.py:829} INFO - Processing file /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/first_dag.py for tasks to queue
+[2024-03-01T15:22:12.264-0500] {logging_mixin.py:154} INFO - [2024-03-01T15:22:12.264-0500] {dagbag.py:536} INFO - Filling up the DagBag from /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/first_dag.py
+[2024-03-01T15:22:12.287-0500] {processor.py:839} INFO - DAG(s) dict_keys(['FIRST_DAG']) retrieved from /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/first_dag.py
+[2024-03-01T15:22:12.412-0500] {logging_mixin.py:154} INFO - [2024-03-01T15:22:12.411-0500] {dag.py:2941} INFO - Sync 1 DAGs
+[2024-03-01T15:22:12.427-0500] {logging_mixin.py:154} INFO - [2024-03-01T15:22:12.427-0500] {dag.py:3722} INFO - Setting next_dagrun for FIRST_DAG to 2024-02-26T00:00:00+00:00, run_after=2024-02-27T00:00:00+00:00
+[2024-03-01T15:22:12.438-0500] {processor.py:179} INFO - Processing /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/first_dag.py took 0.179 seconds
+[2024-03-01T15:22:43.451-0500] {processor.py:157} INFO - Started process (PID=56854) to work on /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/first_dag.py
+[2024-03-01T15:22:43.453-0500] {processor.py:829} INFO - Processing file /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/first_dag.py for tasks to queue
+[2024-03-01T15:22:43.454-0500] {logging_mixin.py:154} INFO - [2024-03-01T15:22:43.454-0500] {dagbag.py:536} INFO - Filling up the DagBag from /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/first_dag.py
+[2024-03-01T15:22:43.477-0500] {processor.py:839} INFO - DAG(s) dict_keys(['FIRST_DAG']) retrieved from /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/first_dag.py
+[2024-03-01T15:22:43.605-0500] {logging_mixin.py:154} INFO - [2024-03-01T15:22:43.605-0500] {dag.py:2941} INFO - Sync 1 DAGs
+[2024-03-01T15:22:43.620-0500] {logging_mixin.py:154} INFO - [2024-03-01T15:22:43.620-0500] {dag.py:3722} INFO - Setting next_dagrun for FIRST_DAG to 2024-02-26T00:00:00+00:00, run_after=2024-02-27T00:00:00+00:00
+[2024-03-01T15:22:43.631-0500] {processor.py:179} INFO - Processing /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/first_dag.py took 0.182 seconds
+[2024-03-01T15:23:15.857-0500] {processor.py:157} INFO - Started process (PID=56975) to work on /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/first_dag.py
+[2024-03-01T15:23:15.861-0500] {processor.py:829} INFO - Processing file /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/first_dag.py for tasks to queue
+[2024-03-01T15:23:15.861-0500] {logging_mixin.py:154} INFO - [2024-03-01T15:23:15.861-0500] {dagbag.py:536} INFO - Filling up the DagBag from /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/first_dag.py
+[2024-03-01T15:23:15.897-0500] {processor.py:839} INFO - DAG(s) dict_keys(['FIRST_DAG']) retrieved from /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/first_dag.py
+[2024-03-01T15:23:16.066-0500] {logging_mixin.py:154} INFO - [2024-03-01T15:23:16.066-0500] {dag.py:2941} INFO - Sync 1 DAGs
+[2024-03-01T15:23:16.083-0500] {logging_mixin.py:154} INFO - [2024-03-01T15:23:16.082-0500] {dag.py:3722} INFO - Setting next_dagrun for FIRST_DAG to 2024-02-26T00:00:00+00:00, run_after=2024-02-27T00:00:00+00:00
+[2024-03-01T15:23:16.096-0500] {processor.py:179} INFO - Processing /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/first_dag.py took 0.241 seconds
+[2024-03-01T15:23:48.212-0500] {processor.py:157} INFO - Started process (PID=57107) to work on /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/first_dag.py
+[2024-03-01T15:23:48.217-0500] {processor.py:829} INFO - Processing file /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/first_dag.py for tasks to queue
+[2024-03-01T15:23:48.217-0500] {logging_mixin.py:154} INFO - [2024-03-01T15:23:48.217-0500] {dagbag.py:536} INFO - Filling up the DagBag from /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/first_dag.py
+[2024-03-01T15:23:48.241-0500] {processor.py:839} INFO - DAG(s) dict_keys(['FIRST_DAG']) retrieved from /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/first_dag.py
+[2024-03-01T15:23:48.371-0500] {logging_mixin.py:154} INFO - [2024-03-01T15:23:48.371-0500] {dag.py:2941} INFO - Sync 1 DAGs
+[2024-03-01T15:23:48.387-0500] {logging_mixin.py:154} INFO - [2024-03-01T15:23:48.387-0500] {dag.py:3722} INFO - Setting next_dagrun for FIRST_DAG to 2024-02-26T00:00:00+00:00, run_after=2024-02-27T00:00:00+00:00
+[2024-03-01T15:23:48.407-0500] {processor.py:179} INFO - Processing /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/first_dag.py took 0.197 seconds
+[2024-03-01T15:24:20.200-0500] {processor.py:157} INFO - Started process (PID=57223) to work on /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/first_dag.py
+[2024-03-01T15:24:20.202-0500] {processor.py:829} INFO - Processing file /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/first_dag.py for tasks to queue
+[2024-03-01T15:24:20.203-0500] {logging_mixin.py:154} INFO - [2024-03-01T15:24:20.203-0500] {dagbag.py:536} INFO - Filling up the DagBag from /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/first_dag.py
+[2024-03-01T15:24:20.231-0500] {processor.py:839} INFO - DAG(s) dict_keys(['FIRST_DAG']) retrieved from /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/first_dag.py
+[2024-03-01T15:24:20.357-0500] {logging_mixin.py:154} INFO - [2024-03-01T15:24:20.357-0500] {dag.py:2941} INFO - Sync 1 DAGs
+[2024-03-01T15:24:20.372-0500] {logging_mixin.py:154} INFO - [2024-03-01T15:24:20.372-0500] {dag.py:3722} INFO - Setting next_dagrun for FIRST_DAG to 2024-02-26T00:00:00+00:00, run_after=2024-02-27T00:00:00+00:00
+[2024-03-01T15:24:20.383-0500] {processor.py:179} INFO - Processing /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/first_dag.py took 0.185 seconds
+[2024-03-01T15:24:52.253-0500] {processor.py:157} INFO - Started process (PID=57338) to work on /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/first_dag.py
+[2024-03-01T15:24:52.255-0500] {processor.py:829} INFO - Processing file /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/first_dag.py for tasks to queue
+[2024-03-01T15:24:52.255-0500] {logging_mixin.py:154} INFO - [2024-03-01T15:24:52.255-0500] {dagbag.py:536} INFO - Filling up the DagBag from /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/first_dag.py
+[2024-03-01T15:24:52.279-0500] {processor.py:839} INFO - DAG(s) dict_keys(['FIRST_DAG']) retrieved from /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/first_dag.py
+[2024-03-01T15:24:52.401-0500] {logging_mixin.py:154} INFO - [2024-03-01T15:24:52.401-0500] {dag.py:2941} INFO - Sync 1 DAGs
+[2024-03-01T15:24:52.415-0500] {logging_mixin.py:154} INFO - [2024-03-01T15:24:52.415-0500] {dag.py:3722} INFO - Setting next_dagrun for FIRST_DAG to 2024-02-26T00:00:00+00:00, run_after=2024-02-27T00:00:00+00:00
+[2024-03-01T15:24:52.426-0500] {processor.py:179} INFO - Processing /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/first_dag.py took 0.175 seconds
+[2024-03-01T15:25:24.791-0500] {processor.py:157} INFO - Started process (PID=57448) to work on /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/first_dag.py
+[2024-03-01T15:25:24.795-0500] {processor.py:829} INFO - Processing file /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/first_dag.py for tasks to queue
+[2024-03-01T15:25:24.796-0500] {logging_mixin.py:154} INFO - [2024-03-01T15:25:24.796-0500] {dagbag.py:536} INFO - Filling up the DagBag from /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/first_dag.py
+[2024-03-01T15:25:24.825-0500] {processor.py:839} INFO - DAG(s) dict_keys(['FIRST_DAG']) retrieved from /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/first_dag.py
+[2024-03-01T15:25:24.980-0500] {logging_mixin.py:154} INFO - [2024-03-01T15:25:24.980-0500] {dag.py:2941} INFO - Sync 1 DAGs
+[2024-03-01T15:25:24.999-0500] {logging_mixin.py:154} INFO - [2024-03-01T15:25:24.999-0500] {dag.py:3722} INFO - Setting next_dagrun for FIRST_DAG to 2024-02-26T00:00:00+00:00, run_after=2024-02-27T00:00:00+00:00
+[2024-03-01T15:25:25.012-0500] {processor.py:179} INFO - Processing /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/first_dag.py took 0.224 seconds
+[2024-03-01T15:25:56.941-0500] {processor.py:157} INFO - Started process (PID=57556) to work on /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/first_dag.py
+[2024-03-01T15:25:56.945-0500] {processor.py:829} INFO - Processing file /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/first_dag.py for tasks to queue
+[2024-03-01T15:25:56.945-0500] {logging_mixin.py:154} INFO - [2024-03-01T15:25:56.945-0500] {dagbag.py:536} INFO - Filling up the DagBag from /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/first_dag.py
+[2024-03-01T15:25:56.969-0500] {processor.py:839} INFO - DAG(s) dict_keys(['FIRST_DAG']) retrieved from /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/first_dag.py
+[2024-03-01T15:25:57.092-0500] {logging_mixin.py:154} INFO - [2024-03-01T15:25:57.092-0500] {dag.py:2941} INFO - Sync 1 DAGs
+[2024-03-01T15:25:57.108-0500] {logging_mixin.py:154} INFO - [2024-03-01T15:25:57.108-0500] {dag.py:3722} INFO - Setting next_dagrun for FIRST_DAG to 2024-02-26T00:00:00+00:00, run_after=2024-02-27T00:00:00+00:00
+[2024-03-01T15:25:57.118-0500] {processor.py:179} INFO - Processing /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/first_dag.py took 0.178 seconds
+[2024-03-01T15:26:28.983-0500] {processor.py:157} INFO - Started process (PID=57667) to work on /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/first_dag.py
+[2024-03-01T15:26:28.986-0500] {processor.py:829} INFO - Processing file /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/first_dag.py for tasks to queue
+[2024-03-01T15:26:28.986-0500] {logging_mixin.py:154} INFO - [2024-03-01T15:26:28.986-0500] {dagbag.py:536} INFO - Filling up the DagBag from /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/first_dag.py
+[2024-03-01T15:26:29.009-0500] {processor.py:839} INFO - DAG(s) dict_keys(['FIRST_DAG']) retrieved from /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/first_dag.py
+[2024-03-01T15:26:29.133-0500] {logging_mixin.py:154} INFO - [2024-03-01T15:26:29.133-0500] {dag.py:2941} INFO - Sync 1 DAGs
+[2024-03-01T15:26:29.147-0500] {logging_mixin.py:154} INFO - [2024-03-01T15:26:29.147-0500] {dag.py:3722} INFO - Setting next_dagrun for FIRST_DAG to 2024-02-26T00:00:00+00:00, run_after=2024-02-27T00:00:00+00:00
+[2024-03-01T15:26:29.159-0500] {processor.py:179} INFO - Processing /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/first_dag.py took 0.178 seconds
+[2024-03-01T15:27:01.266-0500] {processor.py:157} INFO - Started process (PID=57784) to work on /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/first_dag.py
+[2024-03-01T15:27:01.270-0500] {processor.py:829} INFO - Processing file /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/first_dag.py for tasks to queue
+[2024-03-01T15:27:01.271-0500] {logging_mixin.py:154} INFO - [2024-03-01T15:27:01.271-0500] {dagbag.py:536} INFO - Filling up the DagBag from /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/first_dag.py
+[2024-03-01T15:27:01.306-0500] {processor.py:839} INFO - DAG(s) dict_keys(['FIRST_DAG']) retrieved from /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/first_dag.py
+[2024-03-01T15:27:01.461-0500] {logging_mixin.py:154} INFO - [2024-03-01T15:27:01.461-0500] {dag.py:2941} INFO - Sync 1 DAGs
+[2024-03-01T15:27:01.480-0500] {logging_mixin.py:154} INFO - [2024-03-01T15:27:01.480-0500] {dag.py:3722} INFO - Setting next_dagrun for FIRST_DAG to 2024-02-26T00:00:00+00:00, run_after=2024-02-27T00:00:00+00:00
+[2024-03-01T15:27:01.493-0500] {processor.py:179} INFO - Processing /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/first_dag.py took 0.230 seconds
+[2024-03-01T15:27:33.206-0500] {processor.py:157} INFO - Started process (PID=57890) to work on /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/first_dag.py
+[2024-03-01T15:27:33.209-0500] {processor.py:829} INFO - Processing file /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/first_dag.py for tasks to queue
+[2024-03-01T15:27:33.209-0500] {logging_mixin.py:154} INFO - [2024-03-01T15:27:33.209-0500] {dagbag.py:536} INFO - Filling up the DagBag from /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/first_dag.py
+[2024-03-01T15:27:33.235-0500] {processor.py:839} INFO - DAG(s) dict_keys(['FIRST_DAG']) retrieved from /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/first_dag.py
+[2024-03-01T15:27:33.380-0500] {logging_mixin.py:154} INFO - [2024-03-01T15:27:33.380-0500] {dag.py:2941} INFO - Sync 1 DAGs
+[2024-03-01T15:27:33.397-0500] {logging_mixin.py:154} INFO - [2024-03-01T15:27:33.397-0500] {dag.py:3722} INFO - Setting next_dagrun for FIRST_DAG to 2024-02-26T00:00:00+00:00, run_after=2024-02-27T00:00:00+00:00
+[2024-03-01T15:27:33.408-0500] {processor.py:179} INFO - Processing /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/first_dag.py took 0.205 seconds
+[2024-03-01T15:28:05.220-0500] {processor.py:157} INFO - Started process (PID=58005) to work on /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/first_dag.py
+[2024-03-01T15:28:05.223-0500] {processor.py:829} INFO - Processing file /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/first_dag.py for tasks to queue
+[2024-03-01T15:28:05.224-0500] {logging_mixin.py:154} INFO - [2024-03-01T15:28:05.224-0500] {dagbag.py:536} INFO - Filling up the DagBag from /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/first_dag.py
+[2024-03-01T15:28:05.247-0500] {processor.py:839} INFO - DAG(s) dict_keys(['FIRST_DAG']) retrieved from /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/first_dag.py
+[2024-03-01T15:28:05.362-0500] {logging_mixin.py:154} INFO - [2024-03-01T15:28:05.362-0500] {dag.py:2941} INFO - Sync 1 DAGs
+[2024-03-01T15:28:05.376-0500] {logging_mixin.py:154} INFO - [2024-03-01T15:28:05.376-0500] {dag.py:3722} INFO - Setting next_dagrun for FIRST_DAG to 2024-02-26T00:00:00+00:00, run_after=2024-02-27T00:00:00+00:00
+[2024-03-01T15:28:05.387-0500] {processor.py:179} INFO - Processing /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/first_dag.py took 0.169 seconds
+[2024-03-01T15:28:39.730-0500] {processor.py:157} INFO - Started process (PID=58145) to work on /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/first_dag.py
+[2024-03-01T15:28:39.734-0500] {processor.py:829} INFO - Processing file /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/first_dag.py for tasks to queue
+[2024-03-01T15:28:39.734-0500] {logging_mixin.py:154} INFO - [2024-03-01T15:28:39.734-0500] {dagbag.py:536} INFO - Filling up the DagBag from /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/first_dag.py
+[2024-03-01T15:28:39.773-0500] {processor.py:839} INFO - DAG(s) dict_keys(['FIRST_DAG']) retrieved from /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/first_dag.py
+[2024-03-01T15:28:39.967-0500] {logging_mixin.py:154} INFO - [2024-03-01T15:28:39.967-0500] {dag.py:2941} INFO - Sync 1 DAGs
+[2024-03-01T15:28:39.985-0500] {logging_mixin.py:154} INFO - [2024-03-01T15:28:39.985-0500] {dag.py:3722} INFO - Setting next_dagrun for FIRST_DAG to 2024-02-26T00:00:00+00:00, run_after=2024-02-27T00:00:00+00:00
+[2024-03-01T15:28:39.999-0500] {processor.py:179} INFO - Processing /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/first_dag.py took 0.271 seconds
+[2024-03-01T15:29:13.014-0500] {processor.py:157} INFO - Started process (PID=58266) to work on /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/first_dag.py
+[2024-03-01T15:29:13.017-0500] {processor.py:829} INFO - Processing file /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/first_dag.py for tasks to queue
+[2024-03-01T15:29:13.018-0500] {logging_mixin.py:154} INFO - [2024-03-01T15:29:13.018-0500] {dagbag.py:536} INFO - Filling up the DagBag from /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/first_dag.py
+[2024-03-01T15:29:13.050-0500] {processor.py:839} INFO - DAG(s) dict_keys(['FIRST_DAG']) retrieved from /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/first_dag.py
+[2024-03-01T15:29:13.213-0500] {logging_mixin.py:154} INFO - [2024-03-01T15:29:13.213-0500] {dag.py:2941} INFO - Sync 1 DAGs
+[2024-03-01T15:29:13.234-0500] {logging_mixin.py:154} INFO - [2024-03-01T15:29:13.234-0500] {dag.py:3722} INFO - Setting next_dagrun for FIRST_DAG to 2024-02-26T00:00:00+00:00, run_after=2024-02-27T00:00:00+00:00
+[2024-03-01T15:29:13.247-0500] {processor.py:179} INFO - Processing /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/first_dag.py took 0.234 seconds
+[2024-03-01T15:29:46.083-0500] {processor.py:157} INFO - Started process (PID=58384) to work on /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/first_dag.py
+[2024-03-01T15:29:46.087-0500] {processor.py:829} INFO - Processing file /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/first_dag.py for tasks to queue
+[2024-03-01T15:29:46.087-0500] {logging_mixin.py:154} INFO - [2024-03-01T15:29:46.087-0500] {dagbag.py:536} INFO - Filling up the DagBag from /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/first_dag.py
+[2024-03-01T15:29:46.119-0500] {processor.py:839} INFO - DAG(s) dict_keys(['FIRST_DAG']) retrieved from /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/first_dag.py
+[2024-03-01T15:29:46.282-0500] {logging_mixin.py:154} INFO - [2024-03-01T15:29:46.282-0500] {dag.py:2941} INFO - Sync 1 DAGs
+[2024-03-01T15:29:46.302-0500] {logging_mixin.py:154} INFO - [2024-03-01T15:29:46.301-0500] {dag.py:3722} INFO - Setting next_dagrun for FIRST_DAG to 2024-02-26T00:00:00+00:00, run_after=2024-02-27T00:00:00+00:00
+[2024-03-01T15:29:46.315-0500] {processor.py:179} INFO - Processing /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/first_dag.py took 0.234 seconds
+[2024-03-01T15:30:18.946-0500] {processor.py:157} INFO - Started process (PID=58512) to work on /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/first_dag.py
+[2024-03-01T15:30:18.950-0500] {processor.py:829} INFO - Processing file /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/first_dag.py for tasks to queue
+[2024-03-01T15:30:18.950-0500] {logging_mixin.py:154} INFO - [2024-03-01T15:30:18.950-0500] {dagbag.py:536} INFO - Filling up the DagBag from /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/first_dag.py
+[2024-03-01T15:30:18.992-0500] {processor.py:839} INFO - DAG(s) dict_keys(['FIRST_DAG']) retrieved from /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/first_dag.py
+[2024-03-01T15:30:19.167-0500] {logging_mixin.py:154} INFO - [2024-03-01T15:30:19.167-0500] {dag.py:2941} INFO - Sync 1 DAGs
+[2024-03-01T15:30:19.187-0500] {logging_mixin.py:154} INFO - [2024-03-01T15:30:19.187-0500] {dag.py:3722} INFO - Setting next_dagrun for FIRST_DAG to 2024-02-26T00:00:00+00:00, run_after=2024-02-27T00:00:00+00:00
+[2024-03-01T15:30:19.198-0500] {processor.py:179} INFO - Processing /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/first_dag.py took 0.256 seconds
+[2024-03-01T15:30:51.180-0500] {processor.py:157} INFO - Started process (PID=58649) to work on /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/first_dag.py
+[2024-03-01T15:30:51.184-0500] {processor.py:829} INFO - Processing file /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/first_dag.py for tasks to queue
+[2024-03-01T15:30:51.185-0500] {logging_mixin.py:154} INFO - [2024-03-01T15:30:51.185-0500] {dagbag.py:536} INFO - Filling up the DagBag from /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/first_dag.py
+[2024-03-01T15:30:51.208-0500] {processor.py:839} INFO - DAG(s) dict_keys(['FIRST_DAG']) retrieved from /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/first_dag.py
+[2024-03-01T15:30:51.342-0500] {logging_mixin.py:154} INFO - [2024-03-01T15:30:51.341-0500] {dag.py:2941} INFO - Sync 1 DAGs
+[2024-03-01T15:30:51.359-0500] {logging_mixin.py:154} INFO - [2024-03-01T15:30:51.359-0500] {dag.py:3722} INFO - Setting next_dagrun for FIRST_DAG to 2024-02-26T00:00:00+00:00, run_after=2024-02-27T00:00:00+00:00
+[2024-03-01T15:30:51.372-0500] {processor.py:179} INFO - Processing /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/first_dag.py took 0.193 seconds
+[2024-03-01T15:31:23.386-0500] {processor.py:157} INFO - Started process (PID=58761) to work on /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/first_dag.py
+[2024-03-01T15:31:23.389-0500] {processor.py:829} INFO - Processing file /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/first_dag.py for tasks to queue
+[2024-03-01T15:31:23.390-0500] {logging_mixin.py:154} INFO - [2024-03-01T15:31:23.390-0500] {dagbag.py:536} INFO - Filling up the DagBag from /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/first_dag.py
+[2024-03-01T15:31:23.415-0500] {processor.py:839} INFO - DAG(s) dict_keys(['FIRST_DAG']) retrieved from /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/first_dag.py
+[2024-03-01T15:31:23.541-0500] {logging_mixin.py:154} INFO - [2024-03-01T15:31:23.541-0500] {dag.py:2941} INFO - Sync 1 DAGs
+[2024-03-01T15:31:23.560-0500] {logging_mixin.py:154} INFO - [2024-03-01T15:31:23.560-0500] {dag.py:3722} INFO - Setting next_dagrun for FIRST_DAG to 2024-02-26T00:00:00+00:00, run_after=2024-02-27T00:00:00+00:00
+[2024-03-01T15:31:23.574-0500] {processor.py:179} INFO - Processing /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/first_dag.py took 0.190 seconds
+[2024-03-01T15:31:55.919-0500] {processor.py:157} INFO - Started process (PID=58892) to work on /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/first_dag.py
+[2024-03-01T15:31:55.922-0500] {processor.py:829} INFO - Processing file /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/first_dag.py for tasks to queue
+[2024-03-01T15:31:55.922-0500] {logging_mixin.py:154} INFO - [2024-03-01T15:31:55.922-0500] {dagbag.py:536} INFO - Filling up the DagBag from /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/first_dag.py
+[2024-03-01T15:31:55.946-0500] {processor.py:839} INFO - DAG(s) dict_keys(['FIRST_DAG']) retrieved from /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/first_dag.py
+[2024-03-01T15:31:56.066-0500] {logging_mixin.py:154} INFO - [2024-03-01T15:31:56.066-0500] {dag.py:2941} INFO - Sync 1 DAGs
+[2024-03-01T15:31:56.081-0500] {logging_mixin.py:154} INFO - [2024-03-01T15:31:56.081-0500] {dag.py:3722} INFO - Setting next_dagrun for FIRST_DAG to 2024-02-26T00:00:00+00:00, run_after=2024-02-27T00:00:00+00:00
+[2024-03-01T15:31:56.092-0500] {processor.py:179} INFO - Processing /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/first_dag.py took 0.175 seconds
+[2024-03-01T15:32:28.290-0500] {processor.py:157} INFO - Started process (PID=59002) to work on /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/first_dag.py
+[2024-03-01T15:32:28.297-0500] {processor.py:829} INFO - Processing file /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/first_dag.py for tasks to queue
+[2024-03-01T15:32:28.297-0500] {logging_mixin.py:154} INFO - [2024-03-01T15:32:28.297-0500] {dagbag.py:536} INFO - Filling up the DagBag from /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/first_dag.py
+[2024-03-01T15:32:28.357-0500] {processor.py:839} INFO - DAG(s) dict_keys(['FIRST_DAG']) retrieved from /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/first_dag.py
+[2024-03-01T15:32:28.716-0500] {logging_mixin.py:154} INFO - [2024-03-01T15:32:28.712-0500] {dag.py:2941} INFO - Sync 1 DAGs
+[2024-03-01T15:32:28.750-0500] {logging_mixin.py:154} INFO - [2024-03-01T15:32:28.750-0500] {dag.py:3722} INFO - Setting next_dagrun for FIRST_DAG to 2024-02-26T00:00:00+00:00, run_after=2024-02-27T00:00:00+00:00
+[2024-03-01T15:32:28.768-0500] {processor.py:179} INFO - Processing /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/first_dag.py took 0.483 seconds
+[2024-03-01T15:33:01.001-0500] {processor.py:157} INFO - Started process (PID=59138) to work on /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/first_dag.py
+[2024-03-01T15:33:01.005-0500] {processor.py:829} INFO - Processing file /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/first_dag.py for tasks to queue
+[2024-03-01T15:33:01.005-0500] {logging_mixin.py:154} INFO - [2024-03-01T15:33:01.005-0500] {dagbag.py:536} INFO - Filling up the DagBag from /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/first_dag.py
+[2024-03-01T15:33:01.030-0500] {processor.py:839} INFO - DAG(s) dict_keys(['FIRST_DAG']) retrieved from /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/first_dag.py
+[2024-03-01T15:33:01.160-0500] {logging_mixin.py:154} INFO - [2024-03-01T15:33:01.160-0500] {dag.py:2941} INFO - Sync 1 DAGs
+[2024-03-01T15:33:01.174-0500] {logging_mixin.py:154} INFO - [2024-03-01T15:33:01.174-0500] {dag.py:3722} INFO - Setting next_dagrun for FIRST_DAG to 2024-02-26T00:00:00+00:00, run_after=2024-02-27T00:00:00+00:00
+[2024-03-01T15:33:01.185-0500] {processor.py:179} INFO - Processing /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/first_dag.py took 0.185 seconds
+[2024-03-01T15:33:34.502-0500] {processor.py:157} INFO - Started process (PID=59254) to work on /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/first_dag.py
+[2024-03-01T15:33:34.506-0500] {processor.py:829} INFO - Processing file /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/first_dag.py for tasks to queue
+[2024-03-01T15:33:34.507-0500] {logging_mixin.py:154} INFO - [2024-03-01T15:33:34.507-0500] {dagbag.py:536} INFO - Filling up the DagBag from /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/first_dag.py
+[2024-03-01T15:33:34.536-0500] {processor.py:839} INFO - DAG(s) dict_keys(['FIRST_DAG']) retrieved from /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/first_dag.py
+[2024-03-01T15:33:34.716-0500] {logging_mixin.py:154} INFO - [2024-03-01T15:33:34.716-0500] {dag.py:2941} INFO - Sync 1 DAGs
+[2024-03-01T15:33:34.737-0500] {logging_mixin.py:154} INFO - [2024-03-01T15:33:34.737-0500] {dag.py:3722} INFO - Setting next_dagrun for FIRST_DAG to 2024-02-26T00:00:00+00:00, run_after=2024-02-27T00:00:00+00:00
+[2024-03-01T15:33:34.753-0500] {processor.py:179} INFO - Processing /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/first_dag.py took 0.254 seconds
+[2024-03-01T15:34:06.879-0500] {processor.py:157} INFO - Started process (PID=59376) to work on /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/first_dag.py
+[2024-03-01T15:34:06.884-0500] {processor.py:829} INFO - Processing file /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/first_dag.py for tasks to queue
+[2024-03-01T15:34:06.884-0500] {logging_mixin.py:154} INFO - [2024-03-01T15:34:06.884-0500] {dagbag.py:536} INFO - Filling up the DagBag from /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/first_dag.py
+[2024-03-01T15:34:06.915-0500] {processor.py:839} INFO - DAG(s) dict_keys(['FIRST_DAG']) retrieved from /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/first_dag.py
+[2024-03-01T15:34:07.066-0500] {logging_mixin.py:154} INFO - [2024-03-01T15:34:07.066-0500] {dag.py:2941} INFO - Sync 1 DAGs
+[2024-03-01T15:34:07.083-0500] {logging_mixin.py:154} INFO - [2024-03-01T15:34:07.083-0500] {dag.py:3722} INFO - Setting next_dagrun for FIRST_DAG to 2024-02-26T00:00:00+00:00, run_after=2024-02-27T00:00:00+00:00
+[2024-03-01T15:34:07.095-0500] {processor.py:179} INFO - Processing /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/first_dag.py took 0.218 seconds
+[2024-03-01T15:34:39.106-0500] {processor.py:157} INFO - Started process (PID=59492) to work on /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/first_dag.py
+[2024-03-01T15:34:39.109-0500] {processor.py:829} INFO - Processing file /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/first_dag.py for tasks to queue
+[2024-03-01T15:34:39.109-0500] {logging_mixin.py:154} INFO - [2024-03-01T15:34:39.109-0500] {dagbag.py:536} INFO - Filling up the DagBag from /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/first_dag.py
+[2024-03-01T15:34:39.133-0500] {processor.py:839} INFO - DAG(s) dict_keys(['FIRST_DAG']) retrieved from /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/first_dag.py
+[2024-03-01T15:34:39.260-0500] {logging_mixin.py:154} INFO - [2024-03-01T15:34:39.260-0500] {dag.py:2941} INFO - Sync 1 DAGs
+[2024-03-01T15:34:39.275-0500] {logging_mixin.py:154} INFO - [2024-03-01T15:34:39.275-0500] {dag.py:3722} INFO - Setting next_dagrun for FIRST_DAG to 2024-02-26T00:00:00+00:00, run_after=2024-02-27T00:00:00+00:00
+[2024-03-01T15:34:39.286-0500] {processor.py:179} INFO - Processing /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/first_dag.py took 0.183 seconds
+[2024-03-01T15:35:11.205-0500] {processor.py:157} INFO - Started process (PID=59608) to work on /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/first_dag.py
+[2024-03-01T15:35:11.208-0500] {processor.py:829} INFO - Processing file /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/first_dag.py for tasks to queue
+[2024-03-01T15:35:11.208-0500] {logging_mixin.py:154} INFO - [2024-03-01T15:35:11.208-0500] {dagbag.py:536} INFO - Filling up the DagBag from /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/first_dag.py
+[2024-03-01T15:35:11.235-0500] {processor.py:839} INFO - DAG(s) dict_keys(['FIRST_DAG']) retrieved from /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/first_dag.py
+[2024-03-01T15:35:11.361-0500] {logging_mixin.py:154} INFO - [2024-03-01T15:35:11.361-0500] {dag.py:2941} INFO - Sync 1 DAGs
+[2024-03-01T15:35:11.376-0500] {logging_mixin.py:154} INFO - [2024-03-01T15:35:11.375-0500] {dag.py:3722} INFO - Setting next_dagrun for FIRST_DAG to 2024-02-26T00:00:00+00:00, run_after=2024-02-27T00:00:00+00:00
+[2024-03-01T15:35:11.387-0500] {processor.py:179} INFO - Processing /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/first_dag.py took 0.184 seconds
+[2024-03-01T15:35:43.353-0500] {processor.py:157} INFO - Started process (PID=59725) to work on /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/first_dag.py
+[2024-03-01T15:35:43.356-0500] {processor.py:829} INFO - Processing file /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/first_dag.py for tasks to queue
+[2024-03-01T15:35:43.356-0500] {logging_mixin.py:154} INFO - [2024-03-01T15:35:43.356-0500] {dagbag.py:536} INFO - Filling up the DagBag from /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/first_dag.py
+[2024-03-01T15:35:43.379-0500] {processor.py:839} INFO - DAG(s) dict_keys(['FIRST_DAG']) retrieved from /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/first_dag.py
+[2024-03-01T15:35:43.509-0500] {logging_mixin.py:154} INFO - [2024-03-01T15:35:43.509-0500] {dag.py:2941} INFO - Sync 1 DAGs
+[2024-03-01T15:35:43.524-0500] {logging_mixin.py:154} INFO - [2024-03-01T15:35:43.523-0500] {dag.py:3722} INFO - Setting next_dagrun for FIRST_DAG to 2024-02-26T00:00:00+00:00, run_after=2024-02-27T00:00:00+00:00
+[2024-03-01T15:35:43.534-0500] {processor.py:179} INFO - Processing /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/first_dag.py took 0.182 seconds
+[2024-03-01T15:36:15.439-0500] {processor.py:157} INFO - Started process (PID=59845) to work on /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/first_dag.py
+[2024-03-01T15:36:15.442-0500] {processor.py:829} INFO - Processing file /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/first_dag.py for tasks to queue
+[2024-03-01T15:36:15.442-0500] {logging_mixin.py:154} INFO - [2024-03-01T15:36:15.442-0500] {dagbag.py:536} INFO - Filling up the DagBag from /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/first_dag.py
+[2024-03-01T15:36:15.466-0500] {processor.py:839} INFO - DAG(s) dict_keys(['FIRST_DAG']) retrieved from /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/first_dag.py
+[2024-03-01T15:36:15.591-0500] {logging_mixin.py:154} INFO - [2024-03-01T15:36:15.591-0500] {dag.py:2941} INFO - Sync 1 DAGs
+[2024-03-01T15:36:15.607-0500] {logging_mixin.py:154} INFO - [2024-03-01T15:36:15.606-0500] {dag.py:3722} INFO - Setting next_dagrun for FIRST_DAG to 2024-02-26T00:00:00+00:00, run_after=2024-02-27T00:00:00+00:00
+[2024-03-01T15:36:15.621-0500] {processor.py:179} INFO - Processing /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/first_dag.py took 0.183 seconds
+[2024-03-01T15:36:47.675-0500] {processor.py:157} INFO - Started process (PID=59973) to work on /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/first_dag.py
+[2024-03-01T15:36:47.678-0500] {processor.py:829} INFO - Processing file /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/first_dag.py for tasks to queue
+[2024-03-01T15:36:47.678-0500] {logging_mixin.py:154} INFO - [2024-03-01T15:36:47.678-0500] {dagbag.py:536} INFO - Filling up the DagBag from /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/first_dag.py
+[2024-03-01T15:36:47.702-0500] {processor.py:839} INFO - DAG(s) dict_keys(['FIRST_DAG']) retrieved from /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/first_dag.py
+[2024-03-01T15:36:47.827-0500] {logging_mixin.py:154} INFO - [2024-03-01T15:36:47.827-0500] {dag.py:2941} INFO - Sync 1 DAGs
+[2024-03-01T15:36:47.844-0500] {logging_mixin.py:154} INFO - [2024-03-01T15:36:47.843-0500] {dag.py:3722} INFO - Setting next_dagrun for FIRST_DAG to 2024-02-26T00:00:00+00:00, run_after=2024-02-27T00:00:00+00:00
+[2024-03-01T15:36:47.855-0500] {processor.py:179} INFO - Processing /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/first_dag.py took 0.181 seconds
+[2024-03-01T15:37:19.731-0500] {processor.py:157} INFO - Started process (PID=60086) to work on /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/first_dag.py
+[2024-03-01T15:37:19.733-0500] {processor.py:829} INFO - Processing file /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/first_dag.py for tasks to queue
+[2024-03-01T15:37:19.734-0500] {logging_mixin.py:154} INFO - [2024-03-01T15:37:19.734-0500] {dagbag.py:536} INFO - Filling up the DagBag from /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/first_dag.py
+[2024-03-01T15:37:19.756-0500] {processor.py:839} INFO - DAG(s) dict_keys(['FIRST_DAG']) retrieved from /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/first_dag.py
+[2024-03-01T15:37:19.875-0500] {logging_mixin.py:154} INFO - [2024-03-01T15:37:19.875-0500] {dag.py:2941} INFO - Sync 1 DAGs
+[2024-03-01T15:37:19.891-0500] {logging_mixin.py:154} INFO - [2024-03-01T15:37:19.891-0500] {dag.py:3722} INFO - Setting next_dagrun for FIRST_DAG to 2024-02-26T00:00:00+00:00, run_after=2024-02-27T00:00:00+00:00
+[2024-03-01T15:37:19.902-0500] {processor.py:179} INFO - Processing /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/first_dag.py took 0.173 seconds
+[2024-03-01T15:37:52.141-0500] {processor.py:157} INFO - Started process (PID=60215) to work on /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/first_dag.py
+[2024-03-01T15:37:52.145-0500] {processor.py:829} INFO - Processing file /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/first_dag.py for tasks to queue
+[2024-03-01T15:37:52.145-0500] {logging_mixin.py:154} INFO - [2024-03-01T15:37:52.145-0500] {dagbag.py:536} INFO - Filling up the DagBag from /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/first_dag.py
+[2024-03-01T15:37:52.179-0500] {processor.py:839} INFO - DAG(s) dict_keys(['FIRST_DAG']) retrieved from /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/first_dag.py
+[2024-03-01T15:37:52.309-0500] {logging_mixin.py:154} INFO - [2024-03-01T15:37:52.309-0500] {dag.py:2941} INFO - Sync 1 DAGs
+[2024-03-01T15:37:52.326-0500] {logging_mixin.py:154} INFO - [2024-03-01T15:37:52.326-0500] {dag.py:3722} INFO - Setting next_dagrun for FIRST_DAG to 2024-02-26T00:00:00+00:00, run_after=2024-02-27T00:00:00+00:00
+[2024-03-01T15:37:52.338-0500] {processor.py:179} INFO - Processing /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/first_dag.py took 0.199 seconds
+[2024-03-01T15:38:24.293-0500] {processor.py:157} INFO - Started process (PID=60327) to work on /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/first_dag.py
+[2024-03-01T15:38:24.296-0500] {processor.py:829} INFO - Processing file /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/first_dag.py for tasks to queue
+[2024-03-01T15:38:24.296-0500] {logging_mixin.py:154} INFO - [2024-03-01T15:38:24.296-0500] {dagbag.py:536} INFO - Filling up the DagBag from /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/first_dag.py
+[2024-03-01T15:38:24.321-0500] {processor.py:839} INFO - DAG(s) dict_keys(['FIRST_DAG']) retrieved from /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/first_dag.py
+[2024-03-01T15:38:24.447-0500] {logging_mixin.py:154} INFO - [2024-03-01T15:38:24.446-0500] {dag.py:2941} INFO - Sync 1 DAGs
+[2024-03-01T15:38:24.460-0500] {logging_mixin.py:154} INFO - [2024-03-01T15:38:24.460-0500] {dag.py:3722} INFO - Setting next_dagrun for FIRST_DAG to 2024-02-26T00:00:00+00:00, run_after=2024-02-27T00:00:00+00:00
+[2024-03-01T15:38:24.471-0500] {processor.py:179} INFO - Processing /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/first_dag.py took 0.180 seconds
+[2024-03-01T15:38:56.189-0500] {processor.py:157} INFO - Started process (PID=60435) to work on /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/first_dag.py
+[2024-03-01T15:38:56.192-0500] {processor.py:829} INFO - Processing file /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/first_dag.py for tasks to queue
+[2024-03-01T15:38:56.192-0500] {logging_mixin.py:154} INFO - [2024-03-01T15:38:56.192-0500] {dagbag.py:536} INFO - Filling up the DagBag from /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/first_dag.py
+[2024-03-01T15:38:56.217-0500] {processor.py:839} INFO - DAG(s) dict_keys(['FIRST_DAG']) retrieved from /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/first_dag.py
+[2024-03-01T15:38:56.344-0500] {logging_mixin.py:154} INFO - [2024-03-01T15:38:56.344-0500] {dag.py:2941} INFO - Sync 1 DAGs
+[2024-03-01T15:38:56.358-0500] {logging_mixin.py:154} INFO - [2024-03-01T15:38:56.358-0500] {dag.py:3722} INFO - Setting next_dagrun for FIRST_DAG to 2024-02-26T00:00:00+00:00, run_after=2024-02-27T00:00:00+00:00
+[2024-03-01T15:38:56.370-0500] {processor.py:179} INFO - Processing /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/first_dag.py took 0.182 seconds
+[2024-03-01T15:39:28.168-0500] {processor.py:157} INFO - Started process (PID=60550) to work on /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/first_dag.py
+[2024-03-01T15:39:28.171-0500] {processor.py:829} INFO - Processing file /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/first_dag.py for tasks to queue
+[2024-03-01T15:39:28.171-0500] {logging_mixin.py:154} INFO - [2024-03-01T15:39:28.171-0500] {dagbag.py:536} INFO - Filling up the DagBag from /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/first_dag.py
+[2024-03-01T15:39:28.196-0500] {processor.py:839} INFO - DAG(s) dict_keys(['FIRST_DAG']) retrieved from /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/first_dag.py
+[2024-03-01T15:39:28.320-0500] {logging_mixin.py:154} INFO - [2024-03-01T15:39:28.320-0500] {dag.py:2941} INFO - Sync 1 DAGs
+[2024-03-01T15:39:28.335-0500] {logging_mixin.py:154} INFO - [2024-03-01T15:39:28.335-0500] {dag.py:3722} INFO - Setting next_dagrun for FIRST_DAG to 2024-02-26T00:00:00+00:00, run_after=2024-02-27T00:00:00+00:00
+[2024-03-01T15:39:28.347-0500] {processor.py:179} INFO - Processing /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/first_dag.py took 0.180 seconds
+[2024-03-01T15:40:00.124-0500] {processor.py:157} INFO - Started process (PID=60658) to work on /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/first_dag.py
+[2024-03-01T15:40:00.127-0500] {processor.py:829} INFO - Processing file /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/first_dag.py for tasks to queue
+[2024-03-01T15:40:00.128-0500] {logging_mixin.py:154} INFO - [2024-03-01T15:40:00.128-0500] {dagbag.py:536} INFO - Filling up the DagBag from /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/first_dag.py
+[2024-03-01T15:40:00.163-0500] {processor.py:839} INFO - DAG(s) dict_keys(['FIRST_DAG']) retrieved from /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/first_dag.py
+[2024-03-01T15:40:00.298-0500] {logging_mixin.py:154} INFO - [2024-03-01T15:40:00.298-0500] {dag.py:2941} INFO - Sync 1 DAGs
+[2024-03-01T15:40:00.314-0500] {logging_mixin.py:154} INFO - [2024-03-01T15:40:00.314-0500] {dag.py:3722} INFO - Setting next_dagrun for FIRST_DAG to 2024-02-26T00:00:00+00:00, run_after=2024-02-27T00:00:00+00:00
+[2024-03-01T15:40:00.326-0500] {processor.py:179} INFO - Processing /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/first_dag.py took 0.204 seconds
+[2024-03-01T15:40:33.156-0500] {processor.py:157} INFO - Started process (PID=60786) to work on /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/first_dag.py
+[2024-03-01T15:40:33.162-0500] {processor.py:829} INFO - Processing file /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/first_dag.py for tasks to queue
+[2024-03-01T15:40:33.163-0500] {logging_mixin.py:154} INFO - [2024-03-01T15:40:33.162-0500] {dagbag.py:536} INFO - Filling up the DagBag from /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/first_dag.py
+[2024-03-01T15:40:33.213-0500] {processor.py:839} INFO - DAG(s) dict_keys(['FIRST_DAG']) retrieved from /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/first_dag.py
+[2024-03-01T15:40:33.500-0500] {logging_mixin.py:154} INFO - [2024-03-01T15:40:33.500-0500] {dag.py:2941} INFO - Sync 1 DAGs
+[2024-03-01T15:40:33.529-0500] {logging_mixin.py:154} INFO - [2024-03-01T15:40:33.529-0500] {dag.py:3722} INFO - Setting next_dagrun for FIRST_DAG to 2024-02-26T00:00:00+00:00, run_after=2024-02-27T00:00:00+00:00
+[2024-03-01T15:40:33.559-0500] {processor.py:179} INFO - Processing /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/first_dag.py took 0.406 seconds
+[2024-03-01T15:41:06.212-0500] {processor.py:157} INFO - Started process (PID=60901) to work on /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/first_dag.py
+[2024-03-01T15:41:06.216-0500] {processor.py:829} INFO - Processing file /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/first_dag.py for tasks to queue
+[2024-03-01T15:41:06.216-0500] {logging_mixin.py:154} INFO - [2024-03-01T15:41:06.216-0500] {dagbag.py:536} INFO - Filling up the DagBag from /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/first_dag.py
+[2024-03-01T15:41:06.243-0500] {processor.py:839} INFO - DAG(s) dict_keys(['FIRST_DAG']) retrieved from /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/first_dag.py
+[2024-03-01T15:41:06.373-0500] {logging_mixin.py:154} INFO - [2024-03-01T15:41:06.373-0500] {dag.py:2941} INFO - Sync 1 DAGs
+[2024-03-01T15:41:06.387-0500] {logging_mixin.py:154} INFO - [2024-03-01T15:41:06.387-0500] {dag.py:3722} INFO - Setting next_dagrun for FIRST_DAG to 2024-02-26T00:00:00+00:00, run_after=2024-02-27T00:00:00+00:00
+[2024-03-01T15:41:06.397-0500] {processor.py:179} INFO - Processing /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/first_dag.py took 0.187 seconds
+[2024-03-01T15:41:37.504-0500] {processor.py:157} INFO - Started process (PID=61007) to work on /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/first_dag.py
+[2024-03-01T15:41:37.507-0500] {processor.py:829} INFO - Processing file /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/first_dag.py for tasks to queue
+[2024-03-01T15:41:37.507-0500] {logging_mixin.py:154} INFO - [2024-03-01T15:41:37.507-0500] {dagbag.py:536} INFO - Filling up the DagBag from /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/first_dag.py
+[2024-03-01T15:41:37.529-0500] {processor.py:839} INFO - DAG(s) dict_keys(['FIRST_DAG']) retrieved from /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/first_dag.py
+[2024-03-01T15:41:37.643-0500] {logging_mixin.py:154} INFO - [2024-03-01T15:41:37.643-0500] {dag.py:2941} INFO - Sync 1 DAGs
+[2024-03-01T15:41:37.659-0500] {logging_mixin.py:154} INFO - [2024-03-01T15:41:37.658-0500] {dag.py:3722} INFO - Setting next_dagrun for FIRST_DAG to 2024-02-26T00:00:00+00:00, run_after=2024-02-27T00:00:00+00:00
+[2024-03-01T15:41:37.669-0500] {processor.py:179} INFO - Processing /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/first_dag.py took 0.167 seconds
+[2024-03-01T15:42:09.423-0500] {processor.py:157} INFO - Started process (PID=61123) to work on /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/first_dag.py
+[2024-03-01T15:42:09.427-0500] {processor.py:829} INFO - Processing file /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/first_dag.py for tasks to queue
+[2024-03-01T15:42:09.427-0500] {logging_mixin.py:154} INFO - [2024-03-01T15:42:09.427-0500] {dagbag.py:536} INFO - Filling up the DagBag from /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/first_dag.py
+[2024-03-01T15:42:09.452-0500] {processor.py:839} INFO - DAG(s) dict_keys(['FIRST_DAG']) retrieved from /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/first_dag.py
+[2024-03-01T15:42:09.580-0500] {logging_mixin.py:154} INFO - [2024-03-01T15:42:09.580-0500] {dag.py:2941} INFO - Sync 1 DAGs
+[2024-03-01T15:42:09.596-0500] {logging_mixin.py:154} INFO - [2024-03-01T15:42:09.596-0500] {dag.py:3722} INFO - Setting next_dagrun for FIRST_DAG to 2024-02-26T00:00:00+00:00, run_after=2024-02-27T00:00:00+00:00
+[2024-03-01T15:42:09.607-0500] {processor.py:179} INFO - Processing /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/first_dag.py took 0.186 seconds
+[2024-03-01T15:42:41.418-0500] {processor.py:157} INFO - Started process (PID=61228) to work on /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/first_dag.py
+[2024-03-01T15:42:41.422-0500] {processor.py:829} INFO - Processing file /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/first_dag.py for tasks to queue
+[2024-03-01T15:42:41.422-0500] {logging_mixin.py:154} INFO - [2024-03-01T15:42:41.422-0500] {dagbag.py:536} INFO - Filling up the DagBag from /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/first_dag.py
+[2024-03-01T15:42:41.445-0500] {processor.py:839} INFO - DAG(s) dict_keys(['FIRST_DAG']) retrieved from /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/first_dag.py
+[2024-03-01T15:42:41.559-0500] {logging_mixin.py:154} INFO - [2024-03-01T15:42:41.559-0500] {dag.py:2941} INFO - Sync 1 DAGs
+[2024-03-01T15:42:41.573-0500] {logging_mixin.py:154} INFO - [2024-03-01T15:42:41.573-0500] {dag.py:3722} INFO - Setting next_dagrun for FIRST_DAG to 2024-02-26T00:00:00+00:00, run_after=2024-02-27T00:00:00+00:00
+[2024-03-01T15:42:41.582-0500] {processor.py:179} INFO - Processing /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/first_dag.py took 0.166 seconds
+[2024-03-01T15:43:15.674-0500] {processor.py:157} INFO - Started process (PID=61364) to work on /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/first_dag.py
+[2024-03-01T15:43:15.678-0500] {processor.py:829} INFO - Processing file /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/first_dag.py for tasks to queue
+[2024-03-01T15:43:15.679-0500] {logging_mixin.py:154} INFO - [2024-03-01T15:43:15.678-0500] {dagbag.py:536} INFO - Filling up the DagBag from /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/first_dag.py
+[2024-03-01T15:43:15.705-0500] {processor.py:839} INFO - DAG(s) dict_keys(['FIRST_DAG']) retrieved from /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/first_dag.py
+[2024-03-01T15:43:15.832-0500] {logging_mixin.py:154} INFO - [2024-03-01T15:43:15.831-0500] {dag.py:2941} INFO - Sync 1 DAGs
+[2024-03-01T15:43:15.848-0500] {logging_mixin.py:154} INFO - [2024-03-01T15:43:15.848-0500] {dag.py:3722} INFO - Setting next_dagrun for FIRST_DAG to 2024-02-26T00:00:00+00:00, run_after=2024-02-27T00:00:00+00:00
+[2024-03-01T15:43:15.859-0500] {processor.py:179} INFO - Processing /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/first_dag.py took 0.186 seconds
+[2024-03-01T15:43:47.325-0500] {processor.py:157} INFO - Started process (PID=61469) to work on /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/first_dag.py
+[2024-03-01T15:43:47.330-0500] {processor.py:829} INFO - Processing file /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/first_dag.py for tasks to queue
+[2024-03-01T15:43:47.330-0500] {logging_mixin.py:154} INFO - [2024-03-01T15:43:47.330-0500] {dagbag.py:536} INFO - Filling up the DagBag from /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/first_dag.py
+[2024-03-01T15:43:47.363-0500] {processor.py:839} INFO - DAG(s) dict_keys(['FIRST_DAG']) retrieved from /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/first_dag.py
+[2024-03-01T15:43:47.516-0500] {logging_mixin.py:154} INFO - [2024-03-01T15:43:47.516-0500] {dag.py:2941} INFO - Sync 1 DAGs
+[2024-03-01T15:43:47.534-0500] {logging_mixin.py:154} INFO - [2024-03-01T15:43:47.534-0500] {dag.py:3722} INFO - Setting next_dagrun for FIRST_DAG to 2024-02-26T00:00:00+00:00, run_after=2024-02-27T00:00:00+00:00
+[2024-03-01T15:43:47.546-0500] {processor.py:179} INFO - Processing /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/first_dag.py took 0.224 seconds
+[2024-03-01T15:44:21.775-0500] {processor.py:157} INFO - Started process (PID=61603) to work on /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/first_dag.py
+[2024-03-01T15:44:21.779-0500] {processor.py:829} INFO - Processing file /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/first_dag.py for tasks to queue
+[2024-03-01T15:44:21.779-0500] {logging_mixin.py:154} INFO - [2024-03-01T15:44:21.779-0500] {dagbag.py:536} INFO - Filling up the DagBag from /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/first_dag.py
+[2024-03-01T15:44:21.811-0500] {processor.py:839} INFO - DAG(s) dict_keys(['FIRST_DAG']) retrieved from /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/first_dag.py
+[2024-03-01T15:44:21.977-0500] {logging_mixin.py:154} INFO - [2024-03-01T15:44:21.976-0500] {dag.py:2941} INFO - Sync 1 DAGs
+[2024-03-01T15:44:21.995-0500] {logging_mixin.py:154} INFO - [2024-03-01T15:44:21.995-0500] {dag.py:3722} INFO - Setting next_dagrun for FIRST_DAG to 2024-02-26T00:00:00+00:00, run_after=2024-02-27T00:00:00+00:00
+[2024-03-01T15:44:22.008-0500] {processor.py:179} INFO - Processing /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/first_dag.py took 0.236 seconds
+[2024-03-01T16:10:48.457-0500] {processor.py:157} INFO - Started process (PID=61862) to work on /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/first_dag.py
+[2024-03-01T16:10:48.461-0500] {processor.py:829} INFO - Processing file /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/first_dag.py for tasks to queue
+[2024-03-01T16:10:48.461-0500] {logging_mixin.py:154} INFO - [2024-03-01T16:10:48.461-0500] {dagbag.py:536} INFO - Filling up the DagBag from /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/first_dag.py
+[2024-03-01T16:10:48.498-0500] {processor.py:839} INFO - DAG(s) dict_keys(['FIRST_DAG']) retrieved from /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/first_dag.py
+[2024-03-01T16:10:48.667-0500] {logging_mixin.py:154} INFO - [2024-03-01T16:10:48.667-0500] {dag.py:2941} INFO - Sync 1 DAGs
+[2024-03-01T16:10:48.686-0500] {logging_mixin.py:154} INFO - [2024-03-01T16:10:48.685-0500] {dag.py:3722} INFO - Setting next_dagrun for FIRST_DAG to 2024-02-26T00:00:00+00:00, run_after=2024-02-27T00:00:00+00:00
+[2024-03-01T16:10:48.697-0500] {processor.py:179} INFO - Processing /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/first_dag.py took 0.243 seconds
+[2024-03-01T16:11:20.067-0500] {processor.py:157} INFO - Started process (PID=61987) to work on /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/first_dag.py
+[2024-03-01T16:11:20.072-0500] {processor.py:829} INFO - Processing file /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/first_dag.py for tasks to queue
+[2024-03-01T16:11:20.073-0500] {logging_mixin.py:154} INFO - [2024-03-01T16:11:20.072-0500] {dagbag.py:536} INFO - Filling up the DagBag from /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/first_dag.py
+[2024-03-01T16:11:20.105-0500] {processor.py:839} INFO - DAG(s) dict_keys(['FIRST_DAG']) retrieved from /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/first_dag.py
+[2024-03-01T16:11:20.262-0500] {logging_mixin.py:154} INFO - [2024-03-01T16:11:20.261-0500] {dag.py:2941} INFO - Sync 1 DAGs
+[2024-03-01T16:11:20.280-0500] {logging_mixin.py:154} INFO - [2024-03-01T16:11:20.279-0500] {dag.py:3722} INFO - Setting next_dagrun for FIRST_DAG to 2024-02-26T00:00:00+00:00, run_after=2024-02-27T00:00:00+00:00
+[2024-03-01T16:11:20.291-0500] {processor.py:179} INFO - Processing /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/first_dag.py took 0.226 seconds
+[2024-03-01T16:11:52.281-0500] {processor.py:157} INFO - Started process (PID=62102) to work on /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/first_dag.py
+[2024-03-01T16:11:52.285-0500] {processor.py:829} INFO - Processing file /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/first_dag.py for tasks to queue
+[2024-03-01T16:11:52.285-0500] {logging_mixin.py:154} INFO - [2024-03-01T16:11:52.285-0500] {dagbag.py:536} INFO - Filling up the DagBag from /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/first_dag.py
+[2024-03-01T16:11:52.319-0500] {processor.py:839} INFO - DAG(s) dict_keys(['FIRST_DAG']) retrieved from /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/first_dag.py
+[2024-03-01T16:11:52.478-0500] {logging_mixin.py:154} INFO - [2024-03-01T16:11:52.478-0500] {dag.py:2941} INFO - Sync 1 DAGs
+[2024-03-01T16:11:52.496-0500] {logging_mixin.py:154} INFO - [2024-03-01T16:11:52.496-0500] {dag.py:3722} INFO - Setting next_dagrun for FIRST_DAG to 2024-02-26T00:00:00+00:00, run_after=2024-02-27T00:00:00+00:00
+[2024-03-01T16:11:52.509-0500] {processor.py:179} INFO - Processing /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/first_dag.py took 0.231 seconds
+[2024-03-01T16:12:24.548-0500] {processor.py:157} INFO - Started process (PID=62210) to work on /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/first_dag.py
+[2024-03-01T16:12:24.552-0500] {processor.py:829} INFO - Processing file /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/first_dag.py for tasks to queue
+[2024-03-01T16:12:24.552-0500] {logging_mixin.py:154} INFO - [2024-03-01T16:12:24.552-0500] {dagbag.py:536} INFO - Filling up the DagBag from /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/first_dag.py
+[2024-03-01T16:12:24.584-0500] {processor.py:839} INFO - DAG(s) dict_keys(['FIRST_DAG']) retrieved from /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/first_dag.py
+[2024-03-01T16:12:24.744-0500] {logging_mixin.py:154} INFO - [2024-03-01T16:12:24.744-0500] {dag.py:2941} INFO - Sync 1 DAGs
+[2024-03-01T16:12:24.762-0500] {logging_mixin.py:154} INFO - [2024-03-01T16:12:24.761-0500] {dag.py:3722} INFO - Setting next_dagrun for FIRST_DAG to 2024-02-26T00:00:00+00:00, run_after=2024-02-27T00:00:00+00:00
+[2024-03-01T16:12:24.773-0500] {processor.py:179} INFO - Processing /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/first_dag.py took 0.227 seconds
+[2024-03-01T16:12:55.897-0500] {processor.py:157} INFO - Started process (PID=62331) to work on /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/first_dag.py
+[2024-03-01T16:12:55.900-0500] {processor.py:829} INFO - Processing file /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/first_dag.py for tasks to queue
+[2024-03-01T16:12:55.900-0500] {logging_mixin.py:154} INFO - [2024-03-01T16:12:55.900-0500] {dagbag.py:536} INFO - Filling up the DagBag from /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/first_dag.py
+[2024-03-01T16:12:55.930-0500] {processor.py:839} INFO - DAG(s) dict_keys(['FIRST_DAG']) retrieved from /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/first_dag.py
+[2024-03-01T16:12:56.078-0500] {logging_mixin.py:154} INFO - [2024-03-01T16:12:56.077-0500] {dag.py:2941} INFO - Sync 1 DAGs
+[2024-03-01T16:12:56.093-0500] {logging_mixin.py:154} INFO - [2024-03-01T16:12:56.093-0500] {dag.py:3722} INFO - Setting next_dagrun for FIRST_DAG to 2024-02-26T00:00:00+00:00, run_after=2024-02-27T00:00:00+00:00
+[2024-03-01T16:12:56.104-0500] {processor.py:179} INFO - Processing /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/first_dag.py took 0.208 seconds
+[2024-03-01T16:13:29.727-0500] {processor.py:157} INFO - Started process (PID=62449) to work on /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/first_dag.py
+[2024-03-01T16:13:29.735-0500] {processor.py:829} INFO - Processing file /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/first_dag.py for tasks to queue
+[2024-03-01T16:13:29.736-0500] {logging_mixin.py:154} INFO - [2024-03-01T16:13:29.736-0500] {dagbag.py:536} INFO - Filling up the DagBag from /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/first_dag.py
+[2024-03-01T16:13:29.829-0500] {processor.py:839} INFO - DAG(s) dict_keys(['FIRST_DAG']) retrieved from /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/first_dag.py
+[2024-03-01T16:13:30.299-0500] {logging_mixin.py:154} INFO - [2024-03-01T16:13:30.299-0500] {dag.py:2941} INFO - Sync 1 DAGs
+[2024-03-01T16:13:30.330-0500] {logging_mixin.py:154} INFO - [2024-03-01T16:13:30.330-0500] {dag.py:3722} INFO - Setting next_dagrun for FIRST_DAG to 2024-02-26T00:00:00+00:00, run_after=2024-02-27T00:00:00+00:00
+[2024-03-01T16:13:30.353-0500] {processor.py:179} INFO - Processing /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/first_dag.py took 0.632 seconds
+[2024-03-01T16:14:02.610-0500] {processor.py:157} INFO - Started process (PID=62579) to work on /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/first_dag.py
+[2024-03-01T16:14:02.616-0500] {processor.py:829} INFO - Processing file /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/first_dag.py for tasks to queue
+[2024-03-01T16:14:02.616-0500] {logging_mixin.py:154} INFO - [2024-03-01T16:14:02.616-0500] {dagbag.py:536} INFO - Filling up the DagBag from /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/first_dag.py
+[2024-03-01T16:14:02.649-0500] {processor.py:839} INFO - DAG(s) dict_keys(['FIRST_DAG']) retrieved from /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/first_dag.py
+[2024-03-01T16:14:02.798-0500] {logging_mixin.py:154} INFO - [2024-03-01T16:14:02.798-0500] {dag.py:2941} INFO - Sync 1 DAGs
+[2024-03-01T16:14:02.815-0500] {logging_mixin.py:154} INFO - [2024-03-01T16:14:02.815-0500] {dag.py:3722} INFO - Setting next_dagrun for FIRST_DAG to 2024-02-26T00:00:00+00:00, run_after=2024-02-27T00:00:00+00:00
+[2024-03-01T16:14:02.826-0500] {processor.py:179} INFO - Processing /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/first_dag.py took 0.218 seconds
+[2024-03-01T16:14:34.135-0500] {processor.py:157} INFO - Started process (PID=62693) to work on /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/first_dag.py
+[2024-03-01T16:14:34.139-0500] {processor.py:829} INFO - Processing file /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/first_dag.py for tasks to queue
+[2024-03-01T16:14:34.139-0500] {logging_mixin.py:154} INFO - [2024-03-01T16:14:34.139-0500] {dagbag.py:536} INFO - Filling up the DagBag from /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/first_dag.py
+[2024-03-01T16:14:34.163-0500] {processor.py:839} INFO - DAG(s) dict_keys(['FIRST_DAG']) retrieved from /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/first_dag.py
+[2024-03-01T16:14:34.294-0500] {logging_mixin.py:154} INFO - [2024-03-01T16:14:34.294-0500] {dag.py:2941} INFO - Sync 1 DAGs
+[2024-03-01T16:14:34.310-0500] {logging_mixin.py:154} INFO - [2024-03-01T16:14:34.310-0500] {dag.py:3722} INFO - Setting next_dagrun for FIRST_DAG to 2024-02-26T00:00:00+00:00, run_after=2024-02-27T00:00:00+00:00
+[2024-03-01T16:14:34.320-0500] {processor.py:179} INFO - Processing /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/first_dag.py took 0.187 seconds
+[2024-03-01T16:15:05.811-0500] {processor.py:157} INFO - Started process (PID=62827) to work on /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/first_dag.py
+[2024-03-01T16:15:05.816-0500] {processor.py:829} INFO - Processing file /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/first_dag.py for tasks to queue
+[2024-03-01T16:15:05.816-0500] {logging_mixin.py:154} INFO - [2024-03-01T16:15:05.816-0500] {dagbag.py:536} INFO - Filling up the DagBag from /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/first_dag.py
+[2024-03-01T16:15:05.852-0500] {processor.py:839} INFO - DAG(s) dict_keys(['FIRST_DAG']) retrieved from /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/first_dag.py
+[2024-03-01T16:15:06.023-0500] {logging_mixin.py:154} INFO - [2024-03-01T16:15:06.023-0500] {dag.py:2941} INFO - Sync 1 DAGs
+[2024-03-01T16:15:06.038-0500] {logging_mixin.py:154} INFO - [2024-03-01T16:15:06.038-0500] {dag.py:3722} INFO - Setting next_dagrun for FIRST_DAG to 2024-02-26T00:00:00+00:00, run_after=2024-02-27T00:00:00+00:00
+[2024-03-01T16:15:06.048-0500] {processor.py:179} INFO - Processing /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/first_dag.py took 0.238 seconds
+[2024-03-01T16:15:37.771-0500] {processor.py:157} INFO - Started process (PID=62983) to work on /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/first_dag.py
+[2024-03-01T16:15:37.779-0500] {processor.py:829} INFO - Processing file /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/first_dag.py for tasks to queue
+[2024-03-01T16:15:37.779-0500] {logging_mixin.py:154} INFO - [2024-03-01T16:15:37.779-0500] {dagbag.py:536} INFO - Filling up the DagBag from /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/first_dag.py
+[2024-03-01T16:15:37.819-0500] {processor.py:839} INFO - DAG(s) dict_keys(['FIRST_DAG']) retrieved from /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/first_dag.py
+[2024-03-01T16:15:37.986-0500] {logging_mixin.py:154} INFO - [2024-03-01T16:15:37.986-0500] {dag.py:2941} INFO - Sync 1 DAGs
+[2024-03-01T16:15:38.006-0500] {logging_mixin.py:154} INFO - [2024-03-01T16:15:38.006-0500] {dag.py:3722} INFO - Setting next_dagrun for FIRST_DAG to 2024-02-26T00:00:00+00:00, run_after=2024-02-27T00:00:00+00:00
+[2024-03-01T16:15:38.023-0500] {processor.py:179} INFO - Processing /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/first_dag.py took 0.255 seconds
+[2024-03-01T16:16:09.193-0500] {processor.py:157} INFO - Started process (PID=63109) to work on /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/first_dag.py
+[2024-03-01T16:16:09.197-0500] {processor.py:829} INFO - Processing file /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/first_dag.py for tasks to queue
+[2024-03-01T16:16:09.198-0500] {logging_mixin.py:154} INFO - [2024-03-01T16:16:09.197-0500] {dagbag.py:536} INFO - Filling up the DagBag from /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/first_dag.py
+[2024-03-01T16:16:09.222-0500] {processor.py:839} INFO - DAG(s) dict_keys(['FIRST_DAG']) retrieved from /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/first_dag.py
+[2024-03-01T16:16:09.354-0500] {logging_mixin.py:154} INFO - [2024-03-01T16:16:09.354-0500] {dag.py:2941} INFO - Sync 1 DAGs
+[2024-03-01T16:16:09.367-0500] {logging_mixin.py:154} INFO - [2024-03-01T16:16:09.367-0500] {dag.py:3722} INFO - Setting next_dagrun for FIRST_DAG to 2024-02-26T00:00:00+00:00, run_after=2024-02-27T00:00:00+00:00
+[2024-03-01T16:16:09.378-0500] {processor.py:179} INFO - Processing /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/first_dag.py took 0.187 seconds
+[2024-03-01T16:16:41.751-0500] {processor.py:157} INFO - Started process (PID=63302) to work on /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/first_dag.py
+[2024-03-01T16:16:41.768-0500] {processor.py:829} INFO - Processing file /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/first_dag.py for tasks to queue
+[2024-03-01T16:16:41.769-0500] {logging_mixin.py:154} INFO - [2024-03-01T16:16:41.769-0500] {dagbag.py:536} INFO - Filling up the DagBag from /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/first_dag.py
+[2024-03-01T16:16:42.352-0500] {processor.py:839} INFO - DAG(s) dict_keys(['FIRST_DAG']) retrieved from /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/first_dag.py
+[2024-03-01T16:16:43.066-0500] {logging_mixin.py:154} INFO - [2024-03-01T16:16:43.066-0500] {dag.py:2941} INFO - Sync 1 DAGs
+[2024-03-01T16:16:43.093-0500] {logging_mixin.py:154} INFO - [2024-03-01T16:16:43.092-0500] {dag.py:3722} INFO - Setting next_dagrun for FIRST_DAG to 2024-02-26T00:00:00+00:00, run_after=2024-02-27T00:00:00+00:00
+[2024-03-01T16:16:43.112-0500] {processor.py:179} INFO - Processing /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/first_dag.py took 1.365 seconds
+[2024-03-01T16:17:14.763-0500] {processor.py:157} INFO - Started process (PID=63436) to work on /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/first_dag.py
+[2024-03-01T16:17:14.766-0500] {processor.py:829} INFO - Processing file /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/first_dag.py for tasks to queue
+[2024-03-01T16:17:14.767-0500] {logging_mixin.py:154} INFO - [2024-03-01T16:17:14.767-0500] {dagbag.py:536} INFO - Filling up the DagBag from /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/first_dag.py
+[2024-03-01T16:17:14.799-0500] {processor.py:839} INFO - DAG(s) dict_keys(['FIRST_DAG']) retrieved from /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/first_dag.py
+[2024-03-01T16:17:14.981-0500] {logging_mixin.py:154} INFO - [2024-03-01T16:17:14.980-0500] {dag.py:2941} INFO - Sync 1 DAGs
+[2024-03-01T16:17:14.997-0500] {logging_mixin.py:154} INFO - [2024-03-01T16:17:14.996-0500] {dag.py:3722} INFO - Setting next_dagrun for FIRST_DAG to 2024-02-26T00:00:00+00:00, run_after=2024-02-27T00:00:00+00:00
+[2024-03-01T16:17:15.009-0500] {processor.py:179} INFO - Processing /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/first_dag.py took 0.248 seconds
+[2024-03-01T16:17:46.164-0500] {processor.py:157} INFO - Started process (PID=63548) to work on /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/first_dag.py
+[2024-03-01T16:17:46.168-0500] {processor.py:829} INFO - Processing file /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/first_dag.py for tasks to queue
+[2024-03-01T16:17:46.169-0500] {logging_mixin.py:154} INFO - [2024-03-01T16:17:46.169-0500] {dagbag.py:536} INFO - Filling up the DagBag from /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/first_dag.py
+[2024-03-01T16:17:46.204-0500] {processor.py:839} INFO - DAG(s) dict_keys(['FIRST_DAG']) retrieved from /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/first_dag.py
+[2024-03-01T16:17:46.375-0500] {logging_mixin.py:154} INFO - [2024-03-01T16:17:46.374-0500] {dag.py:2941} INFO - Sync 1 DAGs
+[2024-03-01T16:17:46.390-0500] {logging_mixin.py:154} INFO - [2024-03-01T16:17:46.390-0500] {dag.py:3722} INFO - Setting next_dagrun for FIRST_DAG to 2024-02-26T00:00:00+00:00, run_after=2024-02-27T00:00:00+00:00
+[2024-03-01T16:17:46.402-0500] {processor.py:179} INFO - Processing /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/first_dag.py took 0.241 seconds
+[2024-03-01T16:18:18.017-0500] {processor.py:157} INFO - Started process (PID=63661) to work on /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/first_dag.py
+[2024-03-01T16:18:18.024-0500] {processor.py:829} INFO - Processing file /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/first_dag.py for tasks to queue
+[2024-03-01T16:18:18.025-0500] {logging_mixin.py:154} INFO - [2024-03-01T16:18:18.025-0500] {dagbag.py:536} INFO - Filling up the DagBag from /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/first_dag.py
+[2024-03-01T16:18:18.055-0500] {processor.py:839} INFO - DAG(s) dict_keys(['FIRST_DAG']) retrieved from /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/first_dag.py
+[2024-03-01T16:18:18.202-0500] {logging_mixin.py:154} INFO - [2024-03-01T16:18:18.202-0500] {dag.py:2941} INFO - Sync 1 DAGs
+[2024-03-01T16:18:18.223-0500] {logging_mixin.py:154} INFO - [2024-03-01T16:18:18.223-0500] {dag.py:3722} INFO - Setting next_dagrun for FIRST_DAG to 2024-02-26T00:00:00+00:00, run_after=2024-02-27T00:00:00+00:00
+[2024-03-01T16:18:18.235-0500] {processor.py:179} INFO - Processing /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/first_dag.py took 0.220 seconds
+[2024-03-01T16:18:49.156-0500] {processor.py:157} INFO - Started process (PID=63778) to work on /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/first_dag.py
+[2024-03-01T16:18:49.159-0500] {processor.py:829} INFO - Processing file /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/first_dag.py for tasks to queue
+[2024-03-01T16:18:49.159-0500] {logging_mixin.py:154} INFO - [2024-03-01T16:18:49.159-0500] {dagbag.py:536} INFO - Filling up the DagBag from /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/first_dag.py
+[2024-03-01T16:18:49.183-0500] {processor.py:839} INFO - DAG(s) dict_keys(['FIRST_DAG']) retrieved from /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/first_dag.py
+[2024-03-01T16:18:49.310-0500] {logging_mixin.py:154} INFO - [2024-03-01T16:18:49.310-0500] {dag.py:2941} INFO - Sync 1 DAGs
+[2024-03-01T16:18:49.324-0500] {logging_mixin.py:154} INFO - [2024-03-01T16:18:49.324-0500] {dag.py:3722} INFO - Setting next_dagrun for FIRST_DAG to 2024-02-26T00:00:00+00:00, run_after=2024-02-27T00:00:00+00:00
+[2024-03-01T16:18:49.336-0500] {processor.py:179} INFO - Processing /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/first_dag.py took 0.182 seconds
+[2024-03-01T16:19:20.387-0500] {processor.py:157} INFO - Started process (PID=63893) to work on /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/first_dag.py
+[2024-03-01T16:19:20.390-0500] {processor.py:829} INFO - Processing file /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/first_dag.py for tasks to queue
+[2024-03-01T16:19:20.390-0500] {logging_mixin.py:154} INFO - [2024-03-01T16:19:20.390-0500] {dagbag.py:536} INFO - Filling up the DagBag from /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/first_dag.py
+[2024-03-01T16:19:20.414-0500] {processor.py:839} INFO - DAG(s) dict_keys(['FIRST_DAG']) retrieved from /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/first_dag.py
+[2024-03-01T16:19:20.545-0500] {logging_mixin.py:154} INFO - [2024-03-01T16:19:20.545-0500] {dag.py:2941} INFO - Sync 1 DAGs
+[2024-03-01T16:19:20.561-0500] {logging_mixin.py:154} INFO - [2024-03-01T16:19:20.561-0500] {dag.py:3722} INFO - Setting next_dagrun for FIRST_DAG to 2024-02-26T00:00:00+00:00, run_after=2024-02-27T00:00:00+00:00
+[2024-03-01T16:19:20.571-0500] {processor.py:179} INFO - Processing /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/first_dag.py took 0.186 seconds
+[2024-03-01T16:19:52.163-0500] {processor.py:157} INFO - Started process (PID=64013) to work on /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/first_dag.py
+[2024-03-01T16:19:52.168-0500] {processor.py:829} INFO - Processing file /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/first_dag.py for tasks to queue
+[2024-03-01T16:19:52.168-0500] {logging_mixin.py:154} INFO - [2024-03-01T16:19:52.168-0500] {dagbag.py:536} INFO - Filling up the DagBag from /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/first_dag.py
+[2024-03-01T16:19:52.200-0500] {processor.py:839} INFO - DAG(s) dict_keys(['FIRST_DAG']) retrieved from /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/first_dag.py
+[2024-03-01T16:19:52.355-0500] {logging_mixin.py:154} INFO - [2024-03-01T16:19:52.355-0500] {dag.py:2941} INFO - Sync 1 DAGs
+[2024-03-01T16:19:52.373-0500] {logging_mixin.py:154} INFO - [2024-03-01T16:19:52.373-0500] {dag.py:3722} INFO - Setting next_dagrun for FIRST_DAG to 2024-02-26T00:00:00+00:00, run_after=2024-02-27T00:00:00+00:00
+[2024-03-01T16:19:52.393-0500] {processor.py:179} INFO - Processing /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/first_dag.py took 0.232 seconds
+[2024-03-01T16:20:25.381-0500] {processor.py:157} INFO - Started process (PID=64137) to work on /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/first_dag.py
+[2024-03-01T16:20:25.384-0500] {processor.py:829} INFO - Processing file /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/first_dag.py for tasks to queue
+[2024-03-01T16:20:25.385-0500] {logging_mixin.py:154} INFO - [2024-03-01T16:20:25.385-0500] {dagbag.py:536} INFO - Filling up the DagBag from /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/first_dag.py
+[2024-03-01T16:20:25.407-0500] {processor.py:839} INFO - DAG(s) dict_keys(['FIRST_DAG']) retrieved from /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/first_dag.py
+[2024-03-01T16:20:25.530-0500] {logging_mixin.py:154} INFO - [2024-03-01T16:20:25.529-0500] {dag.py:2941} INFO - Sync 1 DAGs
+[2024-03-01T16:20:25.543-0500] {logging_mixin.py:154} INFO - [2024-03-01T16:20:25.543-0500] {dag.py:3722} INFO - Setting next_dagrun for FIRST_DAG to 2024-02-26T00:00:00+00:00, run_after=2024-02-27T00:00:00+00:00
+[2024-03-01T16:20:25.555-0500] {processor.py:179} INFO - Processing /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/first_dag.py took 0.175 seconds
+[2024-03-01T16:20:57.977-0500] {processor.py:157} INFO - Started process (PID=64245) to work on /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/first_dag.py
+[2024-03-01T16:20:57.980-0500] {processor.py:829} INFO - Processing file /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/first_dag.py for tasks to queue
+[2024-03-01T16:20:57.980-0500] {logging_mixin.py:154} INFO - [2024-03-01T16:20:57.980-0500] {dagbag.py:536} INFO - Filling up the DagBag from /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/first_dag.py
+[2024-03-01T16:20:58.009-0500] {processor.py:839} INFO - DAG(s) dict_keys(['FIRST_DAG']) retrieved from /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/first_dag.py
+[2024-03-01T16:20:58.155-0500] {logging_mixin.py:154} INFO - [2024-03-01T16:20:58.155-0500] {dag.py:2941} INFO - Sync 1 DAGs
+[2024-03-01T16:20:58.173-0500] {logging_mixin.py:154} INFO - [2024-03-01T16:20:58.173-0500] {dag.py:3722} INFO - Setting next_dagrun for FIRST_DAG to 2024-02-26T00:00:00+00:00, run_after=2024-02-27T00:00:00+00:00
+[2024-03-01T16:20:58.185-0500] {processor.py:179} INFO - Processing /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/first_dag.py took 0.210 seconds
+[2024-03-01T16:21:29.679-0500] {processor.py:157} INFO - Started process (PID=64377) to work on /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/first_dag.py
+[2024-03-01T16:21:29.685-0500] {processor.py:829} INFO - Processing file /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/first_dag.py for tasks to queue
+[2024-03-01T16:21:29.686-0500] {logging_mixin.py:154} INFO - [2024-03-01T16:21:29.685-0500] {dagbag.py:536} INFO - Filling up the DagBag from /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/first_dag.py
+[2024-03-01T16:21:29.718-0500] {processor.py:839} INFO - DAG(s) dict_keys(['FIRST_DAG']) retrieved from /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/first_dag.py
+[2024-03-01T16:21:29.894-0500] {logging_mixin.py:154} INFO - [2024-03-01T16:21:29.894-0500] {dag.py:2941} INFO - Sync 1 DAGs
+[2024-03-01T16:21:29.911-0500] {logging_mixin.py:154} INFO - [2024-03-01T16:21:29.910-0500] {dag.py:3722} INFO - Setting next_dagrun for FIRST_DAG to 2024-02-26T00:00:00+00:00, run_after=2024-02-27T00:00:00+00:00
+[2024-03-01T16:21:29.925-0500] {processor.py:179} INFO - Processing /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/first_dag.py took 0.249 seconds
+[2024-03-01T16:22:02.780-0500] {processor.py:157} INFO - Started process (PID=64496) to work on /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/first_dag.py
+[2024-03-01T16:22:02.787-0500] {processor.py:829} INFO - Processing file /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/first_dag.py for tasks to queue
+[2024-03-01T16:22:02.788-0500] {logging_mixin.py:154} INFO - [2024-03-01T16:22:02.788-0500] {dagbag.py:536} INFO - Filling up the DagBag from /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/first_dag.py
+[2024-03-01T16:22:02.826-0500] {processor.py:839} INFO - DAG(s) dict_keys(['FIRST_DAG']) retrieved from /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/first_dag.py
+[2024-03-01T16:22:02.995-0500] {logging_mixin.py:154} INFO - [2024-03-01T16:22:02.995-0500] {dag.py:2941} INFO - Sync 1 DAGs
+[2024-03-01T16:22:03.017-0500] {logging_mixin.py:154} INFO - [2024-03-01T16:22:03.017-0500] {dag.py:3722} INFO - Setting next_dagrun for FIRST_DAG to 2024-02-26T00:00:00+00:00, run_after=2024-02-27T00:00:00+00:00
+[2024-03-01T16:22:03.031-0500] {processor.py:179} INFO - Processing /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/first_dag.py took 0.254 seconds
+[2024-03-01T16:22:35.086-0500] {processor.py:157} INFO - Started process (PID=64622) to work on /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/first_dag.py
+[2024-03-01T16:22:35.092-0500] {processor.py:829} INFO - Processing file /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/first_dag.py for tasks to queue
+[2024-03-01T16:22:35.092-0500] {logging_mixin.py:154} INFO - [2024-03-01T16:22:35.092-0500] {dagbag.py:536} INFO - Filling up the DagBag from /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/first_dag.py
+[2024-03-01T16:22:35.117-0500] {processor.py:839} INFO - DAG(s) dict_keys(['FIRST_DAG']) retrieved from /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/first_dag.py
+[2024-03-01T16:22:35.248-0500] {logging_mixin.py:154} INFO - [2024-03-01T16:22:35.248-0500] {dag.py:2941} INFO - Sync 1 DAGs
+[2024-03-01T16:22:35.265-0500] {logging_mixin.py:154} INFO - [2024-03-01T16:22:35.265-0500] {dag.py:3722} INFO - Setting next_dagrun for FIRST_DAG to 2024-02-26T00:00:00+00:00, run_after=2024-02-27T00:00:00+00:00
+[2024-03-01T16:22:35.276-0500] {processor.py:179} INFO - Processing /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/first_dag.py took 0.191 seconds
+[2024-03-01T16:23:07.258-0500] {processor.py:157} INFO - Started process (PID=64737) to work on /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/first_dag.py
+[2024-03-01T16:23:07.262-0500] {processor.py:829} INFO - Processing file /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/first_dag.py for tasks to queue
+[2024-03-01T16:23:07.263-0500] {logging_mixin.py:154} INFO - [2024-03-01T16:23:07.263-0500] {dagbag.py:536} INFO - Filling up the DagBag from /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/first_dag.py
+[2024-03-01T16:23:07.288-0500] {processor.py:839} INFO - DAG(s) dict_keys(['FIRST_DAG']) retrieved from /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/first_dag.py
+[2024-03-01T16:23:07.425-0500] {logging_mixin.py:154} INFO - [2024-03-01T16:23:07.425-0500] {dag.py:2941} INFO - Sync 1 DAGs
+[2024-03-01T16:23:07.441-0500] {logging_mixin.py:154} INFO - [2024-03-01T16:23:07.441-0500] {dag.py:3722} INFO - Setting next_dagrun for FIRST_DAG to 2024-02-26T00:00:00+00:00, run_after=2024-02-27T00:00:00+00:00
+[2024-03-01T16:23:07.452-0500] {processor.py:179} INFO - Processing /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/first_dag.py took 0.197 seconds
+[2024-03-01T16:23:40.389-0500] {processor.py:157} INFO - Started process (PID=64854) to work on /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/first_dag.py
+[2024-03-01T16:23:40.393-0500] {processor.py:829} INFO - Processing file /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/first_dag.py for tasks to queue
+[2024-03-01T16:23:40.394-0500] {logging_mixin.py:154} INFO - [2024-03-01T16:23:40.393-0500] {dagbag.py:536} INFO - Filling up the DagBag from /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/first_dag.py
+[2024-03-01T16:23:40.426-0500] {processor.py:839} INFO - DAG(s) dict_keys(['FIRST_DAG']) retrieved from /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/first_dag.py
+[2024-03-01T16:23:40.591-0500] {logging_mixin.py:154} INFO - [2024-03-01T16:23:40.590-0500] {dag.py:2941} INFO - Sync 1 DAGs
+[2024-03-01T16:23:40.611-0500] {logging_mixin.py:154} INFO - [2024-03-01T16:23:40.611-0500] {dag.py:3722} INFO - Setting next_dagrun for FIRST_DAG to 2024-02-26T00:00:00+00:00, run_after=2024-02-27T00:00:00+00:00
+[2024-03-01T16:23:40.628-0500] {processor.py:179} INFO - Processing /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/first_dag.py took 0.242 seconds
+[2024-03-01T16:24:12.690-0500] {processor.py:157} INFO - Started process (PID=64967) to work on /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/first_dag.py
+[2024-03-01T16:24:12.694-0500] {processor.py:829} INFO - Processing file /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/first_dag.py for tasks to queue
+[2024-03-01T16:24:12.694-0500] {logging_mixin.py:154} INFO - [2024-03-01T16:24:12.694-0500] {dagbag.py:536} INFO - Filling up the DagBag from /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/first_dag.py
+[2024-03-01T16:24:12.718-0500] {processor.py:839} INFO - DAG(s) dict_keys(['FIRST_DAG']) retrieved from /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/first_dag.py
+[2024-03-01T16:24:12.846-0500] {logging_mixin.py:154} INFO - [2024-03-01T16:24:12.845-0500] {dag.py:2941} INFO - Sync 1 DAGs
+[2024-03-01T16:24:12.859-0500] {logging_mixin.py:154} INFO - [2024-03-01T16:24:12.859-0500] {dag.py:3722} INFO - Setting next_dagrun for FIRST_DAG to 2024-02-26T00:00:00+00:00, run_after=2024-02-27T00:00:00+00:00
+[2024-03-01T16:24:12.869-0500] {processor.py:179} INFO - Processing /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/first_dag.py took 0.181 seconds
+[2024-03-01T16:24:46.014-0500] {processor.py:157} INFO - Started process (PID=65076) to work on /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/first_dag.py
+[2024-03-01T16:24:46.020-0500] {processor.py:829} INFO - Processing file /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/first_dag.py for tasks to queue
+[2024-03-01T16:24:46.020-0500] {logging_mixin.py:154} INFO - [2024-03-01T16:24:46.020-0500] {dagbag.py:536} INFO - Filling up the DagBag from /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/first_dag.py
+[2024-03-01T16:24:46.066-0500] {processor.py:839} INFO - DAG(s) dict_keys(['FIRST_DAG']) retrieved from /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/first_dag.py
+[2024-03-01T16:24:46.243-0500] {logging_mixin.py:154} INFO - [2024-03-01T16:24:46.242-0500] {dag.py:2941} INFO - Sync 1 DAGs
+[2024-03-01T16:24:46.261-0500] {logging_mixin.py:154} INFO - [2024-03-01T16:24:46.261-0500] {dag.py:3722} INFO - Setting next_dagrun for FIRST_DAG to 2024-02-26T00:00:00+00:00, run_after=2024-02-27T00:00:00+00:00
+[2024-03-01T16:24:46.272-0500] {processor.py:179} INFO - Processing /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/first_dag.py took 0.262 seconds
+[2024-03-01T16:25:18.345-0500] {processor.py:157} INFO - Started process (PID=65194) to work on /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/first_dag.py
+[2024-03-01T16:25:18.349-0500] {processor.py:829} INFO - Processing file /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/first_dag.py for tasks to queue
+[2024-03-01T16:25:18.350-0500] {logging_mixin.py:154} INFO - [2024-03-01T16:25:18.350-0500] {dagbag.py:536} INFO - Filling up the DagBag from /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/first_dag.py
+[2024-03-01T16:25:18.384-0500] {processor.py:839} INFO - DAG(s) dict_keys(['FIRST_DAG']) retrieved from /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/first_dag.py
+[2024-03-01T16:25:18.526-0500] {logging_mixin.py:154} INFO - [2024-03-01T16:25:18.525-0500] {dag.py:2941} INFO - Sync 1 DAGs
+[2024-03-01T16:25:18.541-0500] {logging_mixin.py:154} INFO - [2024-03-01T16:25:18.541-0500] {dag.py:3722} INFO - Setting next_dagrun for FIRST_DAG to 2024-02-26T00:00:00+00:00, run_after=2024-02-27T00:00:00+00:00
+[2024-03-01T16:25:18.553-0500] {processor.py:179} INFO - Processing /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/first_dag.py took 0.210 seconds
+[2024-03-01T16:25:50.862-0500] {processor.py:157} INFO - Started process (PID=65308) to work on /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/first_dag.py
+[2024-03-01T16:25:50.865-0500] {processor.py:829} INFO - Processing file /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/first_dag.py for tasks to queue
+[2024-03-01T16:25:50.865-0500] {logging_mixin.py:154} INFO - [2024-03-01T16:25:50.865-0500] {dagbag.py:536} INFO - Filling up the DagBag from /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/first_dag.py
+[2024-03-01T16:25:50.892-0500] {processor.py:839} INFO - DAG(s) dict_keys(['FIRST_DAG']) retrieved from /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/first_dag.py
+[2024-03-01T16:25:51.034-0500] {logging_mixin.py:154} INFO - [2024-03-01T16:25:51.034-0500] {dag.py:2941} INFO - Sync 1 DAGs
+[2024-03-01T16:25:51.049-0500] {logging_mixin.py:154} INFO - [2024-03-01T16:25:51.049-0500] {dag.py:3722} INFO - Setting next_dagrun for FIRST_DAG to 2024-02-26T00:00:00+00:00, run_after=2024-02-27T00:00:00+00:00
+[2024-03-01T16:25:51.060-0500] {processor.py:179} INFO - Processing /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/first_dag.py took 0.201 seconds
+[2024-03-01T16:26:22.869-0500] {processor.py:157} INFO - Started process (PID=65415) to work on /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/first_dag.py
+[2024-03-01T16:26:22.873-0500] {processor.py:829} INFO - Processing file /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/first_dag.py for tasks to queue
+[2024-03-01T16:26:22.873-0500] {logging_mixin.py:154} INFO - [2024-03-01T16:26:22.873-0500] {dagbag.py:536} INFO - Filling up the DagBag from /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/first_dag.py
+[2024-03-01T16:26:22.908-0500] {processor.py:839} INFO - DAG(s) dict_keys(['FIRST_DAG']) retrieved from /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/first_dag.py
+[2024-03-01T16:26:23.062-0500] {logging_mixin.py:154} INFO - [2024-03-01T16:26:23.062-0500] {dag.py:2941} INFO - Sync 1 DAGs
+[2024-03-01T16:26:23.078-0500] {logging_mixin.py:154} INFO - [2024-03-01T16:26:23.077-0500] {dag.py:3722} INFO - Setting next_dagrun for FIRST_DAG to 2024-02-26T00:00:00+00:00, run_after=2024-02-27T00:00:00+00:00
+[2024-03-01T16:26:23.090-0500] {processor.py:179} INFO - Processing /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/first_dag.py took 0.223 seconds
+[2024-03-01T16:26:55.784-0500] {processor.py:157} INFO - Started process (PID=65525) to work on /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/first_dag.py
+[2024-03-01T16:26:55.790-0500] {processor.py:829} INFO - Processing file /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/first_dag.py for tasks to queue
+[2024-03-01T16:26:55.791-0500] {logging_mixin.py:154} INFO - [2024-03-01T16:26:55.790-0500] {dagbag.py:536} INFO - Filling up the DagBag from /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/first_dag.py
+[2024-03-01T16:26:55.822-0500] {processor.py:839} INFO - DAG(s) dict_keys(['FIRST_DAG']) retrieved from /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/first_dag.py
+[2024-03-01T16:26:55.987-0500] {logging_mixin.py:154} INFO - [2024-03-01T16:26:55.987-0500] {dag.py:2941} INFO - Sync 1 DAGs
+[2024-03-01T16:26:56.005-0500] {logging_mixin.py:154} INFO - [2024-03-01T16:26:56.005-0500] {dag.py:3722} INFO - Setting next_dagrun for FIRST_DAG to 2024-02-26T00:00:00+00:00, run_after=2024-02-27T00:00:00+00:00
+[2024-03-01T16:26:56.018-0500] {processor.py:179} INFO - Processing /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/first_dag.py took 0.236 seconds
+[2024-03-01T16:27:28.993-0500] {processor.py:157} INFO - Started process (PID=65646) to work on /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/first_dag.py
+[2024-03-01T16:27:29.000-0500] {processor.py:829} INFO - Processing file /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/first_dag.py for tasks to queue
+[2024-03-01T16:27:29.000-0500] {logging_mixin.py:154} INFO - [2024-03-01T16:27:29.000-0500] {dagbag.py:536} INFO - Filling up the DagBag from /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/first_dag.py
+[2024-03-01T16:27:29.023-0500] {processor.py:839} INFO - DAG(s) dict_keys(['FIRST_DAG']) retrieved from /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/first_dag.py
+[2024-03-01T16:27:29.149-0500] {logging_mixin.py:154} INFO - [2024-03-01T16:27:29.149-0500] {dag.py:2941} INFO - Sync 1 DAGs
+[2024-03-01T16:27:29.165-0500] {logging_mixin.py:154} INFO - [2024-03-01T16:27:29.165-0500] {dag.py:3722} INFO - Setting next_dagrun for FIRST_DAG to 2024-02-26T00:00:00+00:00, run_after=2024-02-27T00:00:00+00:00
+[2024-03-01T16:27:29.177-0500] {processor.py:179} INFO - Processing /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/first_dag.py took 0.185 seconds

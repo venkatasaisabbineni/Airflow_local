@@ -1,0 +1,95 @@
+[2024-02-26T06:04:24.968-0500] {taskinstance.py:1159} INFO - Dependencies all met for dep_context=non-requeueable deps ti=<TaskInstance: postgres_pipeline.insert_customer_purchases manual__2024-02-26T11:04:18.881162+00:00 [queued]>
+[2024-02-26T06:04:24.972-0500] {taskinstance.py:1159} INFO - Dependencies all met for dep_context=requeueable deps ti=<TaskInstance: postgres_pipeline.insert_customer_purchases manual__2024-02-26T11:04:18.881162+00:00 [queued]>
+[2024-02-26T06:04:24.972-0500] {taskinstance.py:1361} INFO - Starting attempt 1 of 1
+[2024-02-26T06:04:24.977-0500] {taskinstance.py:1382} INFO - Executing <Task(PostgresOperator): insert_customer_purchases> on 2024-02-26 11:04:18.881162+00:00
+[2024-02-26T06:04:24.980-0500] {standard_task_runner.py:57} INFO - Started process 78175 to run task
+[2024-02-26T06:04:24.983-0500] {standard_task_runner.py:84} INFO - Running: ['airflow', 'tasks', 'run', 'postgres_pipeline', 'insert_customer_purchases', 'manual__2024-02-26T11:04:18.881162+00:00', '--job-id', '19', '--raw', '--subdir', 'DAGS_FOLDER/postgres_pipeline.py', '--cfg-path', '/var/folders/0j/ct19m_4d33qfzqs3tkf7s7rm0000gq/T/tmptwpc_fjl']
+[2024-02-26T06:04:24.985-0500] {standard_task_runner.py:85} INFO - Job 19: Subtask insert_customer_purchases
+[2024-02-26T06:04:25.002-0500] {task_command.py:416} INFO - Running <TaskInstance: postgres_pipeline.insert_customer_purchases manual__2024-02-26T11:04:18.881162+00:00 [running]> on host venkatasaismbp.mynetworksettings.com
+[2024-02-26T06:04:25.029-0500] {taskinstance.py:1662} INFO - Exporting env vars: AIRFLOW_CTX_DAG_OWNER='Venkata' AIRFLOW_CTX_DAG_ID='postgres_pipeline' AIRFLOW_CTX_TASK_ID='insert_customer_purchases' AIRFLOW_CTX_EXECUTION_DATE='2024-02-26T11:04:18.881162+00:00' AIRFLOW_CTX_TRY_NUMBER='1' AIRFLOW_CTX_DAG_RUN_ID='manual__2024-02-26T11:04:18.881162+00:00'
+[2024-02-26T06:04:25.030-0500] {sql.py:274} INFO - Executing: INSERT INTO customer_purchases (id, product, price, customer_id) 
+VALUES (1, 'Bread - Hamburger Buns', 6.14, 1);
+INSERT INTO customer_purchases (id, product, price, customer_id) 
+VALUES (2, 'Muffin Batt - Ban Dream Zero', 5.95, 2);
+INSERT INTO customer_purchases (id, product, price, customer_id) 
+VALUES (3, 'Pastry - Choclate Baked', 2.2, 1);
+INSERT INTO customer_purchases (id, product, price, customer_id) 
+VALUES (4, 'Placemat - Scallop, White', 8.07, 6);
+INSERT INTO customer_purchases (id, product, price, customer_id) 
+VALUES (5, 'Sauerkraut', 7.34, 3);
+INSERT INTO customer_purchases (id, product, price, customer_id) 
+VALUES (6, 'Wine - Mondavi Coastal Private', 2.69, 2);
+INSERT INTO customer_purchases (id, product, price, customer_id) 
+VALUES (7, 'Pepper - Chilli Seeds Mild', 4.44, 1);
+INSERT INTO customer_purchases (id, product, price, customer_id) 
+VALUES (8, 'Straw - Regular', 2.69, 3);
+INSERT INTO customer_purchases (id, product, price, customer_id) 
+VALUES (9, 'Cheese - Colby', 6.12, 4);
+INSERT INTO customer_purchases (id, product, price, customer_id) 
+VALUES (10, 'Croissant, Raw - Mini', 7.98, 2);
+INSERT INTO customer_purchases (id, product, price, customer_id) 
+VALUES (11, 'Wine - Chardonnay South', 3.47, 5);
+INSERT INTO customer_purchases (id, product, price, customer_id) 
+VALUES (12, 'Bar Nature Valley', 6.11, 6);
+INSERT INTO customer_purchases (id, product, price, customer_id) 
+VALUES (13, 'Clementine', 1.78, 4);
+INSERT INTO customer_purchases (id, product, price, customer_id) 
+VALUES (14, 'Sole - Fillet', 2.18, 2);
+INSERT INTO customer_purchases (id, product, price, customer_id) 
+VALUES (15, 'Lemon Tarts', 3.97, 1);
+INSERT INTO customer_purchases (id, product, price, customer_id) 
+VALUES (16, 'Creamers - 10%', 3.14, 1);
+INSERT INTO customer_purchases (id, product, price, customer_id) 
+VALUES (17, 'Mushroom - Trumpet, Dry', 5.17, 3);
+INSERT INTO customer_purchases (id, product, price, customer_id) 
+VALUES (18, 'Duck - Breast', 9.66, 5);
+INSERT INTO customer_purchases (id, product, price, customer_id) 
+VALUES (19, 'Thyme - Fresh', 4.14, 1);
+INSERT INTO customer_purchases (id, product, price, customer_id) 
+VALUES (20, 'Nescafe - Frothy French Vanilla', 7.87, 2);
+[2024-02-26T06:04:25.033-0500] {base.py:73} INFO - Using connection ID 'postgres_connection' for task execution.
+[2024-02-26T06:04:25.115-0500] {base.py:73} INFO - Using connection ID 'postgres_connection' for task execution.
+[2024-02-26T06:04:25.151-0500] {sql.py:418} INFO - Running statement: INSERT INTO customer_purchases (id, product, price, customer_id) 
+VALUES (1, 'Bread - Hamburger Buns', 6.14, 1);
+INSERT INTO customer_purchases (id, product, price, customer_id) 
+VALUES (2, 'Muffin Batt - Ban Dream Zero', 5.95, 2);
+INSERT INTO customer_purchases (id, product, price, customer_id) 
+VALUES (3, 'Pastry - Choclate Baked', 2.2, 1);
+INSERT INTO customer_purchases (id, product, price, customer_id) 
+VALUES (4, 'Placemat - Scallop, White', 8.07, 6);
+INSERT INTO customer_purchases (id, product, price, customer_id) 
+VALUES (5, 'Sauerkraut', 7.34, 3);
+INSERT INTO customer_purchases (id, product, price, customer_id) 
+VALUES (6, 'Wine - Mondavi Coastal Private', 2.69, 2);
+INSERT INTO customer_purchases (id, product, price, customer_id) 
+VALUES (7, 'Pepper - Chilli Seeds Mild', 4.44, 1);
+INSERT INTO customer_purchases (id, product, price, customer_id) 
+VALUES (8, 'Straw - Regular', 2.69, 3);
+INSERT INTO customer_purchases (id, product, price, customer_id) 
+VALUES (9, 'Cheese - Colby', 6.12, 4);
+INSERT INTO customer_purchases (id, product, price, customer_id) 
+VALUES (10, 'Croissant, Raw - Mini', 7.98, 2);
+INSERT INTO customer_purchases (id, product, price, customer_id) 
+VALUES (11, 'Wine - Chardonnay South', 3.47, 5);
+INSERT INTO customer_purchases (id, product, price, customer_id) 
+VALUES (12, 'Bar Nature Valley', 6.11, 6);
+INSERT INTO customer_purchases (id, product, price, customer_id) 
+VALUES (13, 'Clementine', 1.78, 4);
+INSERT INTO customer_purchases (id, product, price, customer_id) 
+VALUES (14, 'Sole - Fillet', 2.18, 2);
+INSERT INTO customer_purchases (id, product, price, customer_id) 
+VALUES (15, 'Lemon Tarts', 3.97, 1);
+INSERT INTO customer_purchases (id, product, price, customer_id) 
+VALUES (16, 'Creamers - 10%', 3.14, 1);
+INSERT INTO customer_purchases (id, product, price, customer_id) 
+VALUES (17, 'Mushroom - Trumpet, Dry', 5.17, 3);
+INSERT INTO customer_purchases (id, product, price, customer_id) 
+VALUES (18, 'Duck - Breast', 9.66, 5);
+INSERT INTO customer_purchases (id, product, price, customer_id) 
+VALUES (19, 'Thyme - Fresh', 4.14, 1);
+INSERT INTO customer_purchases (id, product, price, customer_id) 
+VALUES (20, 'Nescafe - Frothy French Vanilla', 7.87, 2);, parameters: None
+[2024-02-26T06:04:25.155-0500] {sql.py:427} INFO - Rows affected: 1
+[2024-02-26T06:04:25.159-0500] {taskinstance.py:1400} INFO - Marking task as SUCCESS. dag_id=postgres_pipeline, task_id=insert_customer_purchases, execution_date=20240226T110418, start_date=20240226T110424, end_date=20240226T110425
+[2024-02-26T06:04:25.180-0500] {local_task_job_runner.py:228} INFO - Task exited with return code 0
+[2024-02-26T06:04:25.186-0500] {taskinstance.py:2778} INFO - 0 downstream tasks scheduled from follow-on schedule check

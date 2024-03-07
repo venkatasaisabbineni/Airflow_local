@@ -1,0 +1,728 @@
+[2024-03-01T13:53:22.005-0500] {processor.py:157} INFO - Started process (PID=37019) to work on /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/postgres_pipeline.py
+[2024-03-01T13:53:22.010-0500] {processor.py:829} INFO - Processing file /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/postgres_pipeline.py for tasks to queue
+[2024-03-01T13:53:22.011-0500] {logging_mixin.py:154} INFO - [2024-03-01T13:53:22.010-0500] {dagbag.py:536} INFO - Filling up the DagBag from /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/postgres_pipeline.py
+[2024-03-01T13:53:22.096-0500] {processor.py:839} INFO - DAG(s) dict_keys(['postgres_pipeline']) retrieved from /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/postgres_pipeline.py
+[2024-03-01T13:53:22.221-0500] {logging_mixin.py:154} INFO - [2024-03-01T13:53:22.220-0500] {dag.py:2941} INFO - Sync 1 DAGs
+[2024-03-01T13:53:22.307-0500] {logging_mixin.py:154} INFO - [2024-03-01T13:53:22.307-0500] {dag.py:3722} INFO - Setting next_dagrun for postgres_pipeline to None, run_after=None
+[2024-03-01T13:53:22.322-0500] {processor.py:179} INFO - Processing /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/postgres_pipeline.py took 0.321 seconds
+[2024-03-01T13:53:54.273-0500] {processor.py:157} INFO - Started process (PID=37188) to work on /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/postgres_pipeline.py
+[2024-03-01T13:53:54.276-0500] {processor.py:829} INFO - Processing file /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/postgres_pipeline.py for tasks to queue
+[2024-03-01T13:53:54.276-0500] {logging_mixin.py:154} INFO - [2024-03-01T13:53:54.276-0500] {dagbag.py:536} INFO - Filling up the DagBag from /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/postgres_pipeline.py
+[2024-03-01T13:53:54.308-0500] {processor.py:839} INFO - DAG(s) dict_keys(['postgres_pipeline']) retrieved from /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/postgres_pipeline.py
+[2024-03-01T13:53:54.431-0500] {logging_mixin.py:154} INFO - [2024-03-01T13:53:54.431-0500] {dag.py:2941} INFO - Sync 1 DAGs
+[2024-03-01T13:53:54.445-0500] {logging_mixin.py:154} INFO - [2024-03-01T13:53:54.445-0500] {dag.py:3722} INFO - Setting next_dagrun for postgres_pipeline to None, run_after=None
+[2024-03-01T13:53:54.457-0500] {processor.py:179} INFO - Processing /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/postgres_pipeline.py took 0.186 seconds
+[2024-03-01T15:06:54.923-0500] {processor.py:157} INFO - Started process (PID=52577) to work on /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/postgres_pipeline.py
+[2024-03-01T15:06:54.929-0500] {processor.py:829} INFO - Processing file /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/postgres_pipeline.py for tasks to queue
+[2024-03-01T15:06:54.930-0500] {logging_mixin.py:154} INFO - [2024-03-01T15:06:54.930-0500] {dagbag.py:536} INFO - Filling up the DagBag from /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/postgres_pipeline.py
+[2024-03-01T15:06:55.002-0500] {processor.py:839} INFO - DAG(s) dict_keys(['postgres_pipeline']) retrieved from /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/postgres_pipeline.py
+[2024-03-01T15:06:55.130-0500] {logging_mixin.py:154} INFO - [2024-03-01T15:06:55.129-0500] {dag.py:2941} INFO - Sync 1 DAGs
+[2024-03-01T15:06:55.267-0500] {logging_mixin.py:154} INFO - [2024-03-01T15:06:55.267-0500] {dag.py:3722} INFO - Setting next_dagrun for postgres_pipeline to None, run_after=None
+[2024-03-01T15:06:55.314-0500] {processor.py:179} INFO - Processing /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/postgres_pipeline.py took 0.418 seconds
+[2024-03-01T15:07:27.813-0500] {processor.py:157} INFO - Started process (PID=52773) to work on /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/postgres_pipeline.py
+[2024-03-01T15:07:27.817-0500] {processor.py:829} INFO - Processing file /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/postgres_pipeline.py for tasks to queue
+[2024-03-01T15:07:27.818-0500] {logging_mixin.py:154} INFO - [2024-03-01T15:07:27.818-0500] {dagbag.py:536} INFO - Filling up the DagBag from /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/postgres_pipeline.py
+[2024-03-01T15:07:27.884-0500] {processor.py:839} INFO - DAG(s) dict_keys(['postgres_pipeline']) retrieved from /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/postgres_pipeline.py
+[2024-03-01T15:07:28.124-0500] {logging_mixin.py:154} INFO - [2024-03-01T15:07:28.124-0500] {dag.py:2941} INFO - Sync 1 DAGs
+[2024-03-01T15:07:28.150-0500] {logging_mixin.py:154} INFO - [2024-03-01T15:07:28.150-0500] {dag.py:3722} INFO - Setting next_dagrun for postgres_pipeline to None, run_after=None
+[2024-03-01T15:07:28.171-0500] {processor.py:179} INFO - Processing /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/postgres_pipeline.py took 0.361 seconds
+[2024-03-01T15:08:02.475-0500] {processor.py:157} INFO - Started process (PID=53107) to work on /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/postgres_pipeline.py
+[2024-03-01T15:08:02.481-0500] {processor.py:829} INFO - Processing file /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/postgres_pipeline.py for tasks to queue
+[2024-03-01T15:08:02.483-0500] {logging_mixin.py:154} INFO - [2024-03-01T15:08:02.483-0500] {dagbag.py:536} INFO - Filling up the DagBag from /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/postgres_pipeline.py
+[2024-03-01T15:08:02.662-0500] {processor.py:839} INFO - DAG(s) dict_keys(['postgres_pipeline']) retrieved from /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/postgres_pipeline.py
+[2024-03-01T15:08:02.996-0500] {logging_mixin.py:154} INFO - [2024-03-01T15:08:02.996-0500] {dag.py:2941} INFO - Sync 1 DAGs
+[2024-03-01T15:08:03.025-0500] {logging_mixin.py:154} INFO - [2024-03-01T15:08:03.025-0500] {dag.py:3722} INFO - Setting next_dagrun for postgres_pipeline to None, run_after=None
+[2024-03-01T15:08:03.058-0500] {processor.py:179} INFO - Processing /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/postgres_pipeline.py took 0.588 seconds
+[2024-03-01T15:08:35.934-0500] {processor.py:157} INFO - Started process (PID=53324) to work on /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/postgres_pipeline.py
+[2024-03-01T15:08:35.940-0500] {processor.py:829} INFO - Processing file /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/postgres_pipeline.py for tasks to queue
+[2024-03-01T15:08:35.940-0500] {logging_mixin.py:154} INFO - [2024-03-01T15:08:35.940-0500] {dagbag.py:536} INFO - Filling up the DagBag from /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/postgres_pipeline.py
+[2024-03-01T15:08:36.019-0500] {processor.py:839} INFO - DAG(s) dict_keys(['postgres_pipeline']) retrieved from /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/postgres_pipeline.py
+[2024-03-01T15:08:36.272-0500] {logging_mixin.py:154} INFO - [2024-03-01T15:08:36.272-0500] {dag.py:2941} INFO - Sync 1 DAGs
+[2024-03-01T15:08:36.297-0500] {logging_mixin.py:154} INFO - [2024-03-01T15:08:36.297-0500] {dag.py:3722} INFO - Setting next_dagrun for postgres_pipeline to None, run_after=None
+[2024-03-01T15:08:36.321-0500] {processor.py:179} INFO - Processing /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/postgres_pipeline.py took 0.389 seconds
+[2024-03-01T15:09:10.121-0500] {processor.py:157} INFO - Started process (PID=53570) to work on /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/postgres_pipeline.py
+[2024-03-01T15:09:10.133-0500] {processor.py:829} INFO - Processing file /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/postgres_pipeline.py for tasks to queue
+[2024-03-01T15:09:10.133-0500] {logging_mixin.py:154} INFO - [2024-03-01T15:09:10.133-0500] {dagbag.py:536} INFO - Filling up the DagBag from /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/postgres_pipeline.py
+[2024-03-01T15:09:10.217-0500] {processor.py:839} INFO - DAG(s) dict_keys(['postgres_pipeline']) retrieved from /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/postgres_pipeline.py
+[2024-03-01T15:09:10.491-0500] {logging_mixin.py:154} INFO - [2024-03-01T15:09:10.491-0500] {dag.py:2941} INFO - Sync 1 DAGs
+[2024-03-01T15:09:10.515-0500] {logging_mixin.py:154} INFO - [2024-03-01T15:09:10.515-0500] {dag.py:3722} INFO - Setting next_dagrun for postgres_pipeline to None, run_after=None
+[2024-03-01T15:09:10.537-0500] {processor.py:179} INFO - Processing /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/postgres_pipeline.py took 0.421 seconds
+[2024-03-01T15:09:43.162-0500] {processor.py:157} INFO - Started process (PID=53866) to work on /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/postgres_pipeline.py
+[2024-03-01T15:09:43.167-0500] {processor.py:829} INFO - Processing file /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/postgres_pipeline.py for tasks to queue
+[2024-03-01T15:09:43.168-0500] {logging_mixin.py:154} INFO - [2024-03-01T15:09:43.168-0500] {dagbag.py:536} INFO - Filling up the DagBag from /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/postgres_pipeline.py
+[2024-03-01T15:09:43.237-0500] {processor.py:839} INFO - DAG(s) dict_keys(['postgres_pipeline']) retrieved from /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/postgres_pipeline.py
+[2024-03-01T15:09:43.480-0500] {logging_mixin.py:154} INFO - [2024-03-01T15:09:43.480-0500] {dag.py:2941} INFO - Sync 1 DAGs
+[2024-03-01T15:09:43.504-0500] {logging_mixin.py:154} INFO - [2024-03-01T15:09:43.503-0500] {dag.py:3722} INFO - Setting next_dagrun for postgres_pipeline to None, run_after=None
+[2024-03-01T15:09:43.524-0500] {processor.py:179} INFO - Processing /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/postgres_pipeline.py took 0.366 seconds
+[2024-03-01T15:10:17.311-0500] {processor.py:157} INFO - Started process (PID=54042) to work on /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/postgres_pipeline.py
+[2024-03-01T15:10:17.315-0500] {processor.py:829} INFO - Processing file /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/postgres_pipeline.py for tasks to queue
+[2024-03-01T15:10:17.316-0500] {logging_mixin.py:154} INFO - [2024-03-01T15:10:17.316-0500] {dagbag.py:536} INFO - Filling up the DagBag from /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/postgres_pipeline.py
+[2024-03-01T15:10:17.414-0500] {processor.py:839} INFO - DAG(s) dict_keys(['postgres_pipeline']) retrieved from /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/postgres_pipeline.py
+[2024-03-01T15:10:17.738-0500] {logging_mixin.py:154} INFO - [2024-03-01T15:10:17.738-0500] {dag.py:2941} INFO - Sync 1 DAGs
+[2024-03-01T15:10:17.764-0500] {logging_mixin.py:154} INFO - [2024-03-01T15:10:17.764-0500] {dag.py:3722} INFO - Setting next_dagrun for postgres_pipeline to None, run_after=None
+[2024-03-01T15:10:17.797-0500] {processor.py:179} INFO - Processing /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/postgres_pipeline.py took 0.490 seconds
+[2024-03-01T15:10:51.038-0500] {processor.py:157} INFO - Started process (PID=54223) to work on /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/postgres_pipeline.py
+[2024-03-01T15:10:51.042-0500] {processor.py:829} INFO - Processing file /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/postgres_pipeline.py for tasks to queue
+[2024-03-01T15:10:51.043-0500] {logging_mixin.py:154} INFO - [2024-03-01T15:10:51.042-0500] {dagbag.py:536} INFO - Filling up the DagBag from /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/postgres_pipeline.py
+[2024-03-01T15:10:51.118-0500] {processor.py:839} INFO - DAG(s) dict_keys(['postgres_pipeline']) retrieved from /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/postgres_pipeline.py
+[2024-03-01T15:10:51.372-0500] {logging_mixin.py:154} INFO - [2024-03-01T15:10:51.371-0500] {dag.py:2941} INFO - Sync 1 DAGs
+[2024-03-01T15:10:51.395-0500] {logging_mixin.py:154} INFO - [2024-03-01T15:10:51.394-0500] {dag.py:3722} INFO - Setting next_dagrun for postgres_pipeline to None, run_after=None
+[2024-03-01T15:10:51.415-0500] {processor.py:179} INFO - Processing /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/postgres_pipeline.py took 0.381 seconds
+[2024-03-01T15:11:24.905-0500] {processor.py:157} INFO - Started process (PID=54402) to work on /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/postgres_pipeline.py
+[2024-03-01T15:11:24.913-0500] {processor.py:829} INFO - Processing file /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/postgres_pipeline.py for tasks to queue
+[2024-03-01T15:11:24.914-0500] {logging_mixin.py:154} INFO - [2024-03-01T15:11:24.913-0500] {dagbag.py:536} INFO - Filling up the DagBag from /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/postgres_pipeline.py
+[2024-03-01T15:11:24.985-0500] {processor.py:839} INFO - DAG(s) dict_keys(['postgres_pipeline']) retrieved from /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/postgres_pipeline.py
+[2024-03-01T15:11:25.241-0500] {logging_mixin.py:154} INFO - [2024-03-01T15:11:25.241-0500] {dag.py:2941} INFO - Sync 1 DAGs
+[2024-03-01T15:11:25.261-0500] {logging_mixin.py:154} INFO - [2024-03-01T15:11:25.261-0500] {dag.py:3722} INFO - Setting next_dagrun for postgres_pipeline to None, run_after=None
+[2024-03-01T15:11:25.281-0500] {processor.py:179} INFO - Processing /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/postgres_pipeline.py took 0.379 seconds
+[2024-03-01T15:11:57.821-0500] {processor.py:157} INFO - Started process (PID=54524) to work on /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/postgres_pipeline.py
+[2024-03-01T15:11:57.825-0500] {processor.py:829} INFO - Processing file /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/postgres_pipeline.py for tasks to queue
+[2024-03-01T15:11:57.826-0500] {logging_mixin.py:154} INFO - [2024-03-01T15:11:57.825-0500] {dagbag.py:536} INFO - Filling up the DagBag from /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/postgres_pipeline.py
+[2024-03-01T15:11:57.893-0500] {processor.py:839} INFO - DAG(s) dict_keys(['postgres_pipeline']) retrieved from /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/postgres_pipeline.py
+[2024-03-01T15:11:58.129-0500] {logging_mixin.py:154} INFO - [2024-03-01T15:11:58.129-0500] {dag.py:2941} INFO - Sync 1 DAGs
+[2024-03-01T15:11:58.149-0500] {logging_mixin.py:154} INFO - [2024-03-01T15:11:58.148-0500] {dag.py:3722} INFO - Setting next_dagrun for postgres_pipeline to None, run_after=None
+[2024-03-01T15:11:58.167-0500] {processor.py:179} INFO - Processing /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/postgres_pipeline.py took 0.350 seconds
+[2024-03-01T15:12:29.970-0500] {processor.py:157} INFO - Started process (PID=54639) to work on /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/postgres_pipeline.py
+[2024-03-01T15:12:29.974-0500] {processor.py:829} INFO - Processing file /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/postgres_pipeline.py for tasks to queue
+[2024-03-01T15:12:29.974-0500] {logging_mixin.py:154} INFO - [2024-03-01T15:12:29.974-0500] {dagbag.py:536} INFO - Filling up the DagBag from /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/postgres_pipeline.py
+[2024-03-01T15:12:30.020-0500] {processor.py:839} INFO - DAG(s) dict_keys(['postgres_pipeline']) retrieved from /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/postgres_pipeline.py
+[2024-03-01T15:12:30.185-0500] {logging_mixin.py:154} INFO - [2024-03-01T15:12:30.184-0500] {dag.py:2941} INFO - Sync 1 DAGs
+[2024-03-01T15:12:30.204-0500] {logging_mixin.py:154} INFO - [2024-03-01T15:12:30.203-0500] {dag.py:3722} INFO - Setting next_dagrun for postgres_pipeline to None, run_after=None
+[2024-03-01T15:12:30.218-0500] {processor.py:179} INFO - Processing /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/postgres_pipeline.py took 0.250 seconds
+[2024-03-01T15:13:02.553-0500] {processor.py:157} INFO - Started process (PID=54773) to work on /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/postgres_pipeline.py
+[2024-03-01T15:13:02.556-0500] {processor.py:829} INFO - Processing file /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/postgres_pipeline.py for tasks to queue
+[2024-03-01T15:13:02.556-0500] {logging_mixin.py:154} INFO - [2024-03-01T15:13:02.556-0500] {dagbag.py:536} INFO - Filling up the DagBag from /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/postgres_pipeline.py
+[2024-03-01T15:13:02.606-0500] {processor.py:839} INFO - DAG(s) dict_keys(['postgres_pipeline']) retrieved from /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/postgres_pipeline.py
+[2024-03-01T15:13:02.805-0500] {logging_mixin.py:154} INFO - [2024-03-01T15:13:02.805-0500] {dag.py:2941} INFO - Sync 1 DAGs
+[2024-03-01T15:13:02.821-0500] {logging_mixin.py:154} INFO - [2024-03-01T15:13:02.821-0500] {dag.py:3722} INFO - Setting next_dagrun for postgres_pipeline to None, run_after=None
+[2024-03-01T15:13:02.837-0500] {processor.py:179} INFO - Processing /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/postgres_pipeline.py took 0.286 seconds
+[2024-03-01T15:13:35.833-0500] {processor.py:157} INFO - Started process (PID=54895) to work on /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/postgres_pipeline.py
+[2024-03-01T15:13:35.837-0500] {processor.py:829} INFO - Processing file /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/postgres_pipeline.py for tasks to queue
+[2024-03-01T15:13:35.838-0500] {logging_mixin.py:154} INFO - [2024-03-01T15:13:35.838-0500] {dagbag.py:536} INFO - Filling up the DagBag from /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/postgres_pipeline.py
+[2024-03-01T15:13:35.915-0500] {processor.py:839} INFO - DAG(s) dict_keys(['postgres_pipeline']) retrieved from /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/postgres_pipeline.py
+[2024-03-01T15:13:36.127-0500] {logging_mixin.py:154} INFO - [2024-03-01T15:13:36.127-0500] {dag.py:2941} INFO - Sync 1 DAGs
+[2024-03-01T15:13:36.146-0500] {logging_mixin.py:154} INFO - [2024-03-01T15:13:36.146-0500] {dag.py:3722} INFO - Setting next_dagrun for postgres_pipeline to None, run_after=None
+[2024-03-01T15:13:36.159-0500] {processor.py:179} INFO - Processing /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/postgres_pipeline.py took 0.329 seconds
+[2024-03-01T15:14:07.702-0500] {processor.py:157} INFO - Started process (PID=55017) to work on /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/postgres_pipeline.py
+[2024-03-01T15:14:07.705-0500] {processor.py:829} INFO - Processing file /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/postgres_pipeline.py for tasks to queue
+[2024-03-01T15:14:07.705-0500] {logging_mixin.py:154} INFO - [2024-03-01T15:14:07.705-0500] {dagbag.py:536} INFO - Filling up the DagBag from /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/postgres_pipeline.py
+[2024-03-01T15:14:07.749-0500] {processor.py:839} INFO - DAG(s) dict_keys(['postgres_pipeline']) retrieved from /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/postgres_pipeline.py
+[2024-03-01T15:14:07.884-0500] {logging_mixin.py:154} INFO - [2024-03-01T15:14:07.884-0500] {dag.py:2941} INFO - Sync 1 DAGs
+[2024-03-01T15:14:07.902-0500] {logging_mixin.py:154} INFO - [2024-03-01T15:14:07.901-0500] {dag.py:3722} INFO - Setting next_dagrun for postgres_pipeline to None, run_after=None
+[2024-03-01T15:14:07.915-0500] {processor.py:179} INFO - Processing /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/postgres_pipeline.py took 0.215 seconds
+[2024-03-01T15:14:39.792-0500] {processor.py:157} INFO - Started process (PID=55131) to work on /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/postgres_pipeline.py
+[2024-03-01T15:14:39.795-0500] {processor.py:829} INFO - Processing file /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/postgres_pipeline.py for tasks to queue
+[2024-03-01T15:14:39.795-0500] {logging_mixin.py:154} INFO - [2024-03-01T15:14:39.795-0500] {dagbag.py:536} INFO - Filling up the DagBag from /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/postgres_pipeline.py
+[2024-03-01T15:14:39.830-0500] {processor.py:839} INFO - DAG(s) dict_keys(['postgres_pipeline']) retrieved from /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/postgres_pipeline.py
+[2024-03-01T15:14:39.965-0500] {logging_mixin.py:154} INFO - [2024-03-01T15:14:39.965-0500] {dag.py:2941} INFO - Sync 1 DAGs
+[2024-03-01T15:14:39.979-0500] {logging_mixin.py:154} INFO - [2024-03-01T15:14:39.979-0500] {dag.py:3722} INFO - Setting next_dagrun for postgres_pipeline to None, run_after=None
+[2024-03-01T15:14:39.990-0500] {processor.py:179} INFO - Processing /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/postgres_pipeline.py took 0.200 seconds
+[2024-03-01T15:15:11.955-0500] {processor.py:157} INFO - Started process (PID=55246) to work on /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/postgres_pipeline.py
+[2024-03-01T15:15:11.958-0500] {processor.py:829} INFO - Processing file /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/postgres_pipeline.py for tasks to queue
+[2024-03-01T15:15:11.959-0500] {logging_mixin.py:154} INFO - [2024-03-01T15:15:11.959-0500] {dagbag.py:536} INFO - Filling up the DagBag from /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/postgres_pipeline.py
+[2024-03-01T15:15:11.996-0500] {processor.py:839} INFO - DAG(s) dict_keys(['postgres_pipeline']) retrieved from /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/postgres_pipeline.py
+[2024-03-01T15:15:12.135-0500] {logging_mixin.py:154} INFO - [2024-03-01T15:15:12.135-0500] {dag.py:2941} INFO - Sync 1 DAGs
+[2024-03-01T15:15:12.150-0500] {logging_mixin.py:154} INFO - [2024-03-01T15:15:12.150-0500] {dag.py:3722} INFO - Setting next_dagrun for postgres_pipeline to None, run_after=None
+[2024-03-01T15:15:12.162-0500] {processor.py:179} INFO - Processing /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/postgres_pipeline.py took 0.210 seconds
+[2024-03-01T15:15:44.180-0500] {processor.py:157} INFO - Started process (PID=55357) to work on /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/postgres_pipeline.py
+[2024-03-01T15:15:44.183-0500] {processor.py:829} INFO - Processing file /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/postgres_pipeline.py for tasks to queue
+[2024-03-01T15:15:44.183-0500] {logging_mixin.py:154} INFO - [2024-03-01T15:15:44.183-0500] {dagbag.py:536} INFO - Filling up the DagBag from /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/postgres_pipeline.py
+[2024-03-01T15:15:44.216-0500] {processor.py:839} INFO - DAG(s) dict_keys(['postgres_pipeline']) retrieved from /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/postgres_pipeline.py
+[2024-03-01T15:15:44.338-0500] {logging_mixin.py:154} INFO - [2024-03-01T15:15:44.338-0500] {dag.py:2941} INFO - Sync 1 DAGs
+[2024-03-01T15:15:44.354-0500] {logging_mixin.py:154} INFO - [2024-03-01T15:15:44.354-0500] {dag.py:3722} INFO - Setting next_dagrun for postgres_pipeline to None, run_after=None
+[2024-03-01T15:15:44.366-0500] {processor.py:179} INFO - Processing /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/postgres_pipeline.py took 0.188 seconds
+[2024-03-01T15:16:17.545-0500] {processor.py:157} INFO - Started process (PID=55473) to work on /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/postgres_pipeline.py
+[2024-03-01T15:16:17.548-0500] {processor.py:829} INFO - Processing file /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/postgres_pipeline.py for tasks to queue
+[2024-03-01T15:16:17.549-0500] {logging_mixin.py:154} INFO - [2024-03-01T15:16:17.549-0500] {dagbag.py:536} INFO - Filling up the DagBag from /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/postgres_pipeline.py
+[2024-03-01T15:16:17.591-0500] {processor.py:839} INFO - DAG(s) dict_keys(['postgres_pipeline']) retrieved from /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/postgres_pipeline.py
+[2024-03-01T15:16:17.747-0500] {logging_mixin.py:154} INFO - [2024-03-01T15:16:17.747-0500] {dag.py:2941} INFO - Sync 1 DAGs
+[2024-03-01T15:16:17.765-0500] {logging_mixin.py:154} INFO - [2024-03-01T15:16:17.765-0500] {dag.py:3722} INFO - Setting next_dagrun for postgres_pipeline to None, run_after=None
+[2024-03-01T15:16:17.777-0500] {processor.py:179} INFO - Processing /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/postgres_pipeline.py took 0.234 seconds
+[2024-03-01T15:16:49.819-0500] {processor.py:157} INFO - Started process (PID=55592) to work on /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/postgres_pipeline.py
+[2024-03-01T15:16:49.823-0500] {processor.py:829} INFO - Processing file /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/postgres_pipeline.py for tasks to queue
+[2024-03-01T15:16:49.823-0500] {logging_mixin.py:154} INFO - [2024-03-01T15:16:49.823-0500] {dagbag.py:536} INFO - Filling up the DagBag from /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/postgres_pipeline.py
+[2024-03-01T15:16:49.882-0500] {processor.py:839} INFO - DAG(s) dict_keys(['postgres_pipeline']) retrieved from /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/postgres_pipeline.py
+[2024-03-01T15:16:50.032-0500] {logging_mixin.py:154} INFO - [2024-03-01T15:16:50.032-0500] {dag.py:2941} INFO - Sync 1 DAGs
+[2024-03-01T15:16:50.047-0500] {logging_mixin.py:154} INFO - [2024-03-01T15:16:50.047-0500] {dag.py:3722} INFO - Setting next_dagrun for postgres_pipeline to None, run_after=None
+[2024-03-01T15:16:50.058-0500] {processor.py:179} INFO - Processing /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/postgres_pipeline.py took 0.241 seconds
+[2024-03-01T15:17:21.971-0500] {processor.py:157} INFO - Started process (PID=55705) to work on /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/postgres_pipeline.py
+[2024-03-01T15:17:21.973-0500] {processor.py:829} INFO - Processing file /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/postgres_pipeline.py for tasks to queue
+[2024-03-01T15:17:21.973-0500] {logging_mixin.py:154} INFO - [2024-03-01T15:17:21.973-0500] {dagbag.py:536} INFO - Filling up the DagBag from /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/postgres_pipeline.py
+[2024-03-01T15:17:22.007-0500] {processor.py:839} INFO - DAG(s) dict_keys(['postgres_pipeline']) retrieved from /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/postgres_pipeline.py
+[2024-03-01T15:17:22.127-0500] {logging_mixin.py:154} INFO - [2024-03-01T15:17:22.127-0500] {dag.py:2941} INFO - Sync 1 DAGs
+[2024-03-01T15:17:22.142-0500] {logging_mixin.py:154} INFO - [2024-03-01T15:17:22.141-0500] {dag.py:3722} INFO - Setting next_dagrun for postgres_pipeline to None, run_after=None
+[2024-03-01T15:17:22.152-0500] {processor.py:179} INFO - Processing /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/postgres_pipeline.py took 0.183 seconds
+[2024-03-01T15:17:54.292-0500] {processor.py:157} INFO - Started process (PID=55834) to work on /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/postgres_pipeline.py
+[2024-03-01T15:17:54.296-0500] {processor.py:829} INFO - Processing file /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/postgres_pipeline.py for tasks to queue
+[2024-03-01T15:17:54.296-0500] {logging_mixin.py:154} INFO - [2024-03-01T15:17:54.296-0500] {dagbag.py:536} INFO - Filling up the DagBag from /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/postgres_pipeline.py
+[2024-03-01T15:17:54.329-0500] {processor.py:839} INFO - DAG(s) dict_keys(['postgres_pipeline']) retrieved from /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/postgres_pipeline.py
+[2024-03-01T15:17:54.463-0500] {logging_mixin.py:154} INFO - [2024-03-01T15:17:54.462-0500] {dag.py:2941} INFO - Sync 1 DAGs
+[2024-03-01T15:17:54.480-0500] {logging_mixin.py:154} INFO - [2024-03-01T15:17:54.480-0500] {dag.py:3722} INFO - Setting next_dagrun for postgres_pipeline to None, run_after=None
+[2024-03-01T15:17:54.492-0500] {processor.py:179} INFO - Processing /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/postgres_pipeline.py took 0.202 seconds
+[2024-03-01T15:18:26.429-0500] {processor.py:157} INFO - Started process (PID=55943) to work on /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/postgres_pipeline.py
+[2024-03-01T15:18:26.433-0500] {processor.py:829} INFO - Processing file /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/postgres_pipeline.py for tasks to queue
+[2024-03-01T15:18:26.433-0500] {logging_mixin.py:154} INFO - [2024-03-01T15:18:26.433-0500] {dagbag.py:536} INFO - Filling up the DagBag from /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/postgres_pipeline.py
+[2024-03-01T15:18:26.467-0500] {processor.py:839} INFO - DAG(s) dict_keys(['postgres_pipeline']) retrieved from /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/postgres_pipeline.py
+[2024-03-01T15:18:26.585-0500] {logging_mixin.py:154} INFO - [2024-03-01T15:18:26.585-0500] {dag.py:2941} INFO - Sync 1 DAGs
+[2024-03-01T15:18:26.601-0500] {logging_mixin.py:154} INFO - [2024-03-01T15:18:26.601-0500] {dag.py:3722} INFO - Setting next_dagrun for postgres_pipeline to None, run_after=None
+[2024-03-01T15:18:26.612-0500] {processor.py:179} INFO - Processing /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/postgres_pipeline.py took 0.185 seconds
+[2024-03-01T15:18:58.442-0500] {processor.py:157} INFO - Started process (PID=56056) to work on /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/postgres_pipeline.py
+[2024-03-01T15:18:58.446-0500] {processor.py:829} INFO - Processing file /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/postgres_pipeline.py for tasks to queue
+[2024-03-01T15:18:58.446-0500] {logging_mixin.py:154} INFO - [2024-03-01T15:18:58.446-0500] {dagbag.py:536} INFO - Filling up the DagBag from /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/postgres_pipeline.py
+[2024-03-01T15:18:58.478-0500] {processor.py:839} INFO - DAG(s) dict_keys(['postgres_pipeline']) retrieved from /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/postgres_pipeline.py
+[2024-03-01T15:18:58.601-0500] {logging_mixin.py:154} INFO - [2024-03-01T15:18:58.601-0500] {dag.py:2941} INFO - Sync 1 DAGs
+[2024-03-01T15:18:58.616-0500] {logging_mixin.py:154} INFO - [2024-03-01T15:18:58.615-0500] {dag.py:3722} INFO - Setting next_dagrun for postgres_pipeline to None, run_after=None
+[2024-03-01T15:18:58.628-0500] {processor.py:179} INFO - Processing /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/postgres_pipeline.py took 0.188 seconds
+[2024-03-01T15:19:30.705-0500] {processor.py:157} INFO - Started process (PID=56176) to work on /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/postgres_pipeline.py
+[2024-03-01T15:19:30.708-0500] {processor.py:829} INFO - Processing file /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/postgres_pipeline.py for tasks to queue
+[2024-03-01T15:19:30.708-0500] {logging_mixin.py:154} INFO - [2024-03-01T15:19:30.708-0500] {dagbag.py:536} INFO - Filling up the DagBag from /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/postgres_pipeline.py
+[2024-03-01T15:19:30.743-0500] {processor.py:839} INFO - DAG(s) dict_keys(['postgres_pipeline']) retrieved from /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/postgres_pipeline.py
+[2024-03-01T15:19:30.875-0500] {logging_mixin.py:154} INFO - [2024-03-01T15:19:30.875-0500] {dag.py:2941} INFO - Sync 1 DAGs
+[2024-03-01T15:19:30.891-0500] {logging_mixin.py:154} INFO - [2024-03-01T15:19:30.891-0500] {dag.py:3722} INFO - Setting next_dagrun for postgres_pipeline to None, run_after=None
+[2024-03-01T15:19:30.903-0500] {processor.py:179} INFO - Processing /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/postgres_pipeline.py took 0.200 seconds
+[2024-03-01T15:20:02.782-0500] {processor.py:157} INFO - Started process (PID=56287) to work on /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/postgres_pipeline.py
+[2024-03-01T15:20:02.785-0500] {processor.py:829} INFO - Processing file /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/postgres_pipeline.py for tasks to queue
+[2024-03-01T15:20:02.785-0500] {logging_mixin.py:154} INFO - [2024-03-01T15:20:02.785-0500] {dagbag.py:536} INFO - Filling up the DagBag from /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/postgres_pipeline.py
+[2024-03-01T15:20:02.817-0500] {processor.py:839} INFO - DAG(s) dict_keys(['postgres_pipeline']) retrieved from /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/postgres_pipeline.py
+[2024-03-01T15:20:02.958-0500] {logging_mixin.py:154} INFO - [2024-03-01T15:20:02.958-0500] {dag.py:2941} INFO - Sync 1 DAGs
+[2024-03-01T15:20:02.973-0500] {logging_mixin.py:154} INFO - [2024-03-01T15:20:02.973-0500] {dag.py:3722} INFO - Setting next_dagrun for postgres_pipeline to None, run_after=None
+[2024-03-01T15:20:02.984-0500] {processor.py:179} INFO - Processing /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/postgres_pipeline.py took 0.204 seconds
+[2024-03-01T15:20:34.795-0500] {processor.py:157} INFO - Started process (PID=56398) to work on /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/postgres_pipeline.py
+[2024-03-01T15:20:34.799-0500] {processor.py:829} INFO - Processing file /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/postgres_pipeline.py for tasks to queue
+[2024-03-01T15:20:34.799-0500] {logging_mixin.py:154} INFO - [2024-03-01T15:20:34.799-0500] {dagbag.py:536} INFO - Filling up the DagBag from /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/postgres_pipeline.py
+[2024-03-01T15:20:34.832-0500] {processor.py:839} INFO - DAG(s) dict_keys(['postgres_pipeline']) retrieved from /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/postgres_pipeline.py
+[2024-03-01T15:20:34.965-0500] {logging_mixin.py:154} INFO - [2024-03-01T15:20:34.965-0500] {dag.py:2941} INFO - Sync 1 DAGs
+[2024-03-01T15:20:34.977-0500] {logging_mixin.py:154} INFO - [2024-03-01T15:20:34.977-0500] {dag.py:3722} INFO - Setting next_dagrun for postgres_pipeline to None, run_after=None
+[2024-03-01T15:20:34.988-0500] {processor.py:179} INFO - Processing /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/postgres_pipeline.py took 0.195 seconds
+[2024-03-01T15:21:07.111-0500] {processor.py:157} INFO - Started process (PID=56507) to work on /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/postgres_pipeline.py
+[2024-03-01T15:21:07.114-0500] {processor.py:829} INFO - Processing file /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/postgres_pipeline.py for tasks to queue
+[2024-03-01T15:21:07.114-0500] {logging_mixin.py:154} INFO - [2024-03-01T15:21:07.114-0500] {dagbag.py:536} INFO - Filling up the DagBag from /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/postgres_pipeline.py
+[2024-03-01T15:21:07.149-0500] {processor.py:839} INFO - DAG(s) dict_keys(['postgres_pipeline']) retrieved from /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/postgres_pipeline.py
+[2024-03-01T15:21:07.276-0500] {logging_mixin.py:154} INFO - [2024-03-01T15:21:07.276-0500] {dag.py:2941} INFO - Sync 1 DAGs
+[2024-03-01T15:21:07.293-0500] {logging_mixin.py:154} INFO - [2024-03-01T15:21:07.293-0500] {dag.py:3722} INFO - Setting next_dagrun for postgres_pipeline to None, run_after=None
+[2024-03-01T15:21:07.305-0500] {processor.py:179} INFO - Processing /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/postgres_pipeline.py took 0.196 seconds
+[2024-03-01T15:21:39.181-0500] {processor.py:157} INFO - Started process (PID=56627) to work on /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/postgres_pipeline.py
+[2024-03-01T15:21:39.186-0500] {processor.py:829} INFO - Processing file /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/postgres_pipeline.py for tasks to queue
+[2024-03-01T15:21:39.187-0500] {logging_mixin.py:154} INFO - [2024-03-01T15:21:39.187-0500] {dagbag.py:536} INFO - Filling up the DagBag from /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/postgres_pipeline.py
+[2024-03-01T15:21:39.220-0500] {processor.py:839} INFO - DAG(s) dict_keys(['postgres_pipeline']) retrieved from /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/postgres_pipeline.py
+[2024-03-01T15:21:39.347-0500] {logging_mixin.py:154} INFO - [2024-03-01T15:21:39.347-0500] {dag.py:2941} INFO - Sync 1 DAGs
+[2024-03-01T15:21:39.360-0500] {logging_mixin.py:154} INFO - [2024-03-01T15:21:39.360-0500] {dag.py:3722} INFO - Setting next_dagrun for postgres_pipeline to None, run_after=None
+[2024-03-01T15:21:39.370-0500] {processor.py:179} INFO - Processing /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/postgres_pipeline.py took 0.191 seconds
+[2024-03-01T15:22:11.350-0500] {processor.py:157} INFO - Started process (PID=56747) to work on /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/postgres_pipeline.py
+[2024-03-01T15:22:11.354-0500] {processor.py:829} INFO - Processing file /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/postgres_pipeline.py for tasks to queue
+[2024-03-01T15:22:11.354-0500] {logging_mixin.py:154} INFO - [2024-03-01T15:22:11.354-0500] {dagbag.py:536} INFO - Filling up the DagBag from /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/postgres_pipeline.py
+[2024-03-01T15:22:11.386-0500] {processor.py:839} INFO - DAG(s) dict_keys(['postgres_pipeline']) retrieved from /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/postgres_pipeline.py
+[2024-03-01T15:22:11.510-0500] {logging_mixin.py:154} INFO - [2024-03-01T15:22:11.510-0500] {dag.py:2941} INFO - Sync 1 DAGs
+[2024-03-01T15:22:11.525-0500] {logging_mixin.py:154} INFO - [2024-03-01T15:22:11.525-0500] {dag.py:3722} INFO - Setting next_dagrun for postgres_pipeline to None, run_after=None
+[2024-03-01T15:22:11.537-0500] {processor.py:179} INFO - Processing /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/postgres_pipeline.py took 0.188 seconds
+[2024-03-01T15:22:43.451-0500] {processor.py:157} INFO - Started process (PID=56853) to work on /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/postgres_pipeline.py
+[2024-03-01T15:22:43.454-0500] {processor.py:829} INFO - Processing file /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/postgres_pipeline.py for tasks to queue
+[2024-03-01T15:22:43.454-0500] {logging_mixin.py:154} INFO - [2024-03-01T15:22:43.454-0500] {dagbag.py:536} INFO - Filling up the DagBag from /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/postgres_pipeline.py
+[2024-03-01T15:22:43.487-0500] {processor.py:839} INFO - DAG(s) dict_keys(['postgres_pipeline']) retrieved from /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/postgres_pipeline.py
+[2024-03-01T15:22:43.605-0500] {logging_mixin.py:154} INFO - [2024-03-01T15:22:43.605-0500] {dag.py:2941} INFO - Sync 1 DAGs
+[2024-03-01T15:22:43.620-0500] {logging_mixin.py:154} INFO - [2024-03-01T15:22:43.620-0500] {dag.py:3722} INFO - Setting next_dagrun for postgres_pipeline to None, run_after=None
+[2024-03-01T15:22:43.632-0500] {processor.py:179} INFO - Processing /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/postgres_pipeline.py took 0.182 seconds
+[2024-03-01T15:23:15.851-0500] {processor.py:157} INFO - Started process (PID=56974) to work on /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/postgres_pipeline.py
+[2024-03-01T15:23:15.856-0500] {processor.py:829} INFO - Processing file /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/postgres_pipeline.py for tasks to queue
+[2024-03-01T15:23:15.857-0500] {logging_mixin.py:154} INFO - [2024-03-01T15:23:15.856-0500] {dagbag.py:536} INFO - Filling up the DagBag from /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/postgres_pipeline.py
+[2024-03-01T15:23:15.903-0500] {processor.py:839} INFO - DAG(s) dict_keys(['postgres_pipeline']) retrieved from /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/postgres_pipeline.py
+[2024-03-01T15:23:16.072-0500] {logging_mixin.py:154} INFO - [2024-03-01T15:23:16.072-0500] {dag.py:2941} INFO - Sync 1 DAGs
+[2024-03-01T15:23:16.087-0500] {logging_mixin.py:154} INFO - [2024-03-01T15:23:16.087-0500] {dag.py:3722} INFO - Setting next_dagrun for postgres_pipeline to None, run_after=None
+[2024-03-01T15:23:16.100-0500] {processor.py:179} INFO - Processing /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/postgres_pipeline.py took 0.252 seconds
+[2024-03-01T15:23:48.213-0500] {processor.py:157} INFO - Started process (PID=57106) to work on /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/postgres_pipeline.py
+[2024-03-01T15:23:48.218-0500] {processor.py:829} INFO - Processing file /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/postgres_pipeline.py for tasks to queue
+[2024-03-01T15:23:48.218-0500] {logging_mixin.py:154} INFO - [2024-03-01T15:23:48.218-0500] {dagbag.py:536} INFO - Filling up the DagBag from /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/postgres_pipeline.py
+[2024-03-01T15:23:48.251-0500] {processor.py:839} INFO - DAG(s) dict_keys(['postgres_pipeline']) retrieved from /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/postgres_pipeline.py
+[2024-03-01T15:23:48.372-0500] {logging_mixin.py:154} INFO - [2024-03-01T15:23:48.372-0500] {dag.py:2941} INFO - Sync 1 DAGs
+[2024-03-01T15:23:48.387-0500] {logging_mixin.py:154} INFO - [2024-03-01T15:23:48.387-0500] {dag.py:3722} INFO - Setting next_dagrun for postgres_pipeline to None, run_after=None
+[2024-03-01T15:23:48.408-0500] {processor.py:179} INFO - Processing /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/postgres_pipeline.py took 0.198 seconds
+[2024-03-01T15:24:20.186-0500] {processor.py:157} INFO - Started process (PID=57222) to work on /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/postgres_pipeline.py
+[2024-03-01T15:24:20.189-0500] {processor.py:829} INFO - Processing file /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/postgres_pipeline.py for tasks to queue
+[2024-03-01T15:24:20.189-0500] {logging_mixin.py:154} INFO - [2024-03-01T15:24:20.189-0500] {dagbag.py:536} INFO - Filling up the DagBag from /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/postgres_pipeline.py
+[2024-03-01T15:24:20.227-0500] {processor.py:839} INFO - DAG(s) dict_keys(['postgres_pipeline']) retrieved from /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/postgres_pipeline.py
+[2024-03-01T15:24:20.355-0500] {logging_mixin.py:154} INFO - [2024-03-01T15:24:20.355-0500] {dag.py:2941} INFO - Sync 1 DAGs
+[2024-03-01T15:24:20.371-0500] {logging_mixin.py:154} INFO - [2024-03-01T15:24:20.371-0500] {dag.py:3722} INFO - Setting next_dagrun for postgres_pipeline to None, run_after=None
+[2024-03-01T15:24:20.383-0500] {processor.py:179} INFO - Processing /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/postgres_pipeline.py took 0.198 seconds
+[2024-03-01T15:24:52.199-0500] {processor.py:157} INFO - Started process (PID=57337) to work on /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/postgres_pipeline.py
+[2024-03-01T15:24:52.201-0500] {processor.py:829} INFO - Processing file /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/postgres_pipeline.py for tasks to queue
+[2024-03-01T15:24:52.202-0500] {logging_mixin.py:154} INFO - [2024-03-01T15:24:52.201-0500] {dagbag.py:536} INFO - Filling up the DagBag from /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/postgres_pipeline.py
+[2024-03-01T15:24:52.235-0500] {processor.py:839} INFO - DAG(s) dict_keys(['postgres_pipeline']) retrieved from /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/postgres_pipeline.py
+[2024-03-01T15:24:52.364-0500] {logging_mixin.py:154} INFO - [2024-03-01T15:24:52.364-0500] {dag.py:2941} INFO - Sync 1 DAGs
+[2024-03-01T15:24:52.377-0500] {logging_mixin.py:154} INFO - [2024-03-01T15:24:52.377-0500] {dag.py:3722} INFO - Setting next_dagrun for postgres_pipeline to None, run_after=None
+[2024-03-01T15:24:52.389-0500] {processor.py:179} INFO - Processing /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/postgres_pipeline.py took 0.192 seconds
+[2024-03-01T15:25:24.791-0500] {processor.py:157} INFO - Started process (PID=57447) to work on /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/postgres_pipeline.py
+[2024-03-01T15:25:24.795-0500] {processor.py:829} INFO - Processing file /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/postgres_pipeline.py for tasks to queue
+[2024-03-01T15:25:24.796-0500] {logging_mixin.py:154} INFO - [2024-03-01T15:25:24.796-0500] {dagbag.py:536} INFO - Filling up the DagBag from /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/postgres_pipeline.py
+[2024-03-01T15:25:24.836-0500] {processor.py:839} INFO - DAG(s) dict_keys(['postgres_pipeline']) retrieved from /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/postgres_pipeline.py
+[2024-03-01T15:25:24.983-0500] {logging_mixin.py:154} INFO - [2024-03-01T15:25:24.983-0500] {dag.py:2941} INFO - Sync 1 DAGs
+[2024-03-01T15:25:25.001-0500] {logging_mixin.py:154} INFO - [2024-03-01T15:25:25.000-0500] {dag.py:3722} INFO - Setting next_dagrun for postgres_pipeline to None, run_after=None
+[2024-03-01T15:25:25.014-0500] {processor.py:179} INFO - Processing /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/postgres_pipeline.py took 0.225 seconds
+[2024-03-01T15:25:56.941-0500] {processor.py:157} INFO - Started process (PID=57555) to work on /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/postgres_pipeline.py
+[2024-03-01T15:25:56.945-0500] {processor.py:829} INFO - Processing file /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/postgres_pipeline.py for tasks to queue
+[2024-03-01T15:25:56.945-0500] {logging_mixin.py:154} INFO - [2024-03-01T15:25:56.945-0500] {dagbag.py:536} INFO - Filling up the DagBag from /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/postgres_pipeline.py
+[2024-03-01T15:25:56.978-0500] {processor.py:839} INFO - DAG(s) dict_keys(['postgres_pipeline']) retrieved from /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/postgres_pipeline.py
+[2024-03-01T15:25:57.096-0500] {logging_mixin.py:154} INFO - [2024-03-01T15:25:57.095-0500] {dag.py:2941} INFO - Sync 1 DAGs
+[2024-03-01T15:25:57.109-0500] {logging_mixin.py:154} INFO - [2024-03-01T15:25:57.109-0500] {dag.py:3722} INFO - Setting next_dagrun for postgres_pipeline to None, run_after=None
+[2024-03-01T15:25:57.119-0500] {processor.py:179} INFO - Processing /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/postgres_pipeline.py took 0.180 seconds
+[2024-03-01T15:26:28.905-0500] {processor.py:157} INFO - Started process (PID=57666) to work on /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/postgres_pipeline.py
+[2024-03-01T15:26:28.909-0500] {processor.py:829} INFO - Processing file /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/postgres_pipeline.py for tasks to queue
+[2024-03-01T15:26:28.909-0500] {logging_mixin.py:154} INFO - [2024-03-01T15:26:28.909-0500] {dagbag.py:536} INFO - Filling up the DagBag from /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/postgres_pipeline.py
+[2024-03-01T15:26:28.943-0500] {processor.py:839} INFO - DAG(s) dict_keys(['postgres_pipeline']) retrieved from /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/postgres_pipeline.py
+[2024-03-01T15:26:29.077-0500] {logging_mixin.py:154} INFO - [2024-03-01T15:26:29.077-0500] {dag.py:2941} INFO - Sync 1 DAGs
+[2024-03-01T15:26:29.089-0500] {logging_mixin.py:154} INFO - [2024-03-01T15:26:29.089-0500] {dag.py:3722} INFO - Setting next_dagrun for postgres_pipeline to None, run_after=None
+[2024-03-01T15:26:29.099-0500] {processor.py:179} INFO - Processing /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/postgres_pipeline.py took 0.196 seconds
+[2024-03-01T15:27:01.267-0500] {processor.py:157} INFO - Started process (PID=57783) to work on /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/postgres_pipeline.py
+[2024-03-01T15:27:01.270-0500] {processor.py:829} INFO - Processing file /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/postgres_pipeline.py for tasks to queue
+[2024-03-01T15:27:01.271-0500] {logging_mixin.py:154} INFO - [2024-03-01T15:27:01.271-0500] {dagbag.py:536} INFO - Filling up the DagBag from /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/postgres_pipeline.py
+[2024-03-01T15:27:01.318-0500] {processor.py:839} INFO - DAG(s) dict_keys(['postgres_pipeline']) retrieved from /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/postgres_pipeline.py
+[2024-03-01T15:27:01.465-0500] {logging_mixin.py:154} INFO - [2024-03-01T15:27:01.464-0500] {dag.py:2941} INFO - Sync 1 DAGs
+[2024-03-01T15:27:01.482-0500] {logging_mixin.py:154} INFO - [2024-03-01T15:27:01.481-0500] {dag.py:3722} INFO - Setting next_dagrun for postgres_pipeline to None, run_after=None
+[2024-03-01T15:27:01.496-0500] {processor.py:179} INFO - Processing /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/postgres_pipeline.py took 0.232 seconds
+[2024-03-01T15:27:33.206-0500] {processor.py:157} INFO - Started process (PID=57889) to work on /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/postgres_pipeline.py
+[2024-03-01T15:27:33.209-0500] {processor.py:829} INFO - Processing file /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/postgres_pipeline.py for tasks to queue
+[2024-03-01T15:27:33.209-0500] {logging_mixin.py:154} INFO - [2024-03-01T15:27:33.209-0500] {dagbag.py:536} INFO - Filling up the DagBag from /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/postgres_pipeline.py
+[2024-03-01T15:27:33.245-0500] {processor.py:839} INFO - DAG(s) dict_keys(['postgres_pipeline']) retrieved from /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/postgres_pipeline.py
+[2024-03-01T15:27:33.382-0500] {logging_mixin.py:154} INFO - [2024-03-01T15:27:33.382-0500] {dag.py:2941} INFO - Sync 1 DAGs
+[2024-03-01T15:27:33.398-0500] {logging_mixin.py:154} INFO - [2024-03-01T15:27:33.398-0500] {dag.py:3722} INFO - Setting next_dagrun for postgres_pipeline to None, run_after=None
+[2024-03-01T15:27:33.409-0500] {processor.py:179} INFO - Processing /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/postgres_pipeline.py took 0.205 seconds
+[2024-03-01T15:28:05.176-0500] {processor.py:157} INFO - Started process (PID=58004) to work on /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/postgres_pipeline.py
+[2024-03-01T15:28:05.179-0500] {processor.py:829} INFO - Processing file /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/postgres_pipeline.py for tasks to queue
+[2024-03-01T15:28:05.179-0500] {logging_mixin.py:154} INFO - [2024-03-01T15:28:05.179-0500] {dagbag.py:536} INFO - Filling up the DagBag from /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/postgres_pipeline.py
+[2024-03-01T15:28:05.215-0500] {processor.py:839} INFO - DAG(s) dict_keys(['postgres_pipeline']) retrieved from /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/postgres_pipeline.py
+[2024-03-01T15:28:05.345-0500] {logging_mixin.py:154} INFO - [2024-03-01T15:28:05.345-0500] {dag.py:2941} INFO - Sync 1 DAGs
+[2024-03-01T15:28:05.361-0500] {logging_mixin.py:154} INFO - [2024-03-01T15:28:05.361-0500] {dag.py:3722} INFO - Setting next_dagrun for postgres_pipeline to None, run_after=None
+[2024-03-01T15:28:05.373-0500] {processor.py:179} INFO - Processing /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/postgres_pipeline.py took 0.199 seconds
+[2024-03-01T15:28:39.679-0500] {processor.py:157} INFO - Started process (PID=58144) to work on /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/postgres_pipeline.py
+[2024-03-01T15:28:39.682-0500] {processor.py:829} INFO - Processing file /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/postgres_pipeline.py for tasks to queue
+[2024-03-01T15:28:39.683-0500] {logging_mixin.py:154} INFO - [2024-03-01T15:28:39.683-0500] {dagbag.py:536} INFO - Filling up the DagBag from /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/postgres_pipeline.py
+[2024-03-01T15:28:39.731-0500] {processor.py:839} INFO - DAG(s) dict_keys(['postgres_pipeline']) retrieved from /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/postgres_pipeline.py
+[2024-03-01T15:28:39.937-0500] {logging_mixin.py:154} INFO - [2024-03-01T15:28:39.937-0500] {dag.py:2941} INFO - Sync 1 DAGs
+[2024-03-01T15:28:39.956-0500] {logging_mixin.py:154} INFO - [2024-03-01T15:28:39.956-0500] {dag.py:3722} INFO - Setting next_dagrun for postgres_pipeline to None, run_after=None
+[2024-03-01T15:28:39.971-0500] {processor.py:179} INFO - Processing /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/postgres_pipeline.py took 0.296 seconds
+[2024-03-01T15:29:13.014-0500] {processor.py:157} INFO - Started process (PID=58265) to work on /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/postgres_pipeline.py
+[2024-03-01T15:29:13.017-0500] {processor.py:829} INFO - Processing file /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/postgres_pipeline.py for tasks to queue
+[2024-03-01T15:29:13.017-0500] {logging_mixin.py:154} INFO - [2024-03-01T15:29:13.017-0500] {dagbag.py:536} INFO - Filling up the DagBag from /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/postgres_pipeline.py
+[2024-03-01T15:29:13.062-0500] {processor.py:839} INFO - DAG(s) dict_keys(['postgres_pipeline']) retrieved from /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/postgres_pipeline.py
+[2024-03-01T15:29:13.215-0500] {logging_mixin.py:154} INFO - [2024-03-01T15:29:13.215-0500] {dag.py:2941} INFO - Sync 1 DAGs
+[2024-03-01T15:29:13.235-0500] {logging_mixin.py:154} INFO - [2024-03-01T15:29:13.235-0500] {dag.py:3722} INFO - Setting next_dagrun for postgres_pipeline to None, run_after=None
+[2024-03-01T15:29:13.249-0500] {processor.py:179} INFO - Processing /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/postgres_pipeline.py took 0.238 seconds
+[2024-03-01T15:29:45.972-0500] {processor.py:157} INFO - Started process (PID=58383) to work on /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/postgres_pipeline.py
+[2024-03-01T15:29:45.977-0500] {processor.py:829} INFO - Processing file /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/postgres_pipeline.py for tasks to queue
+[2024-03-01T15:29:45.977-0500] {logging_mixin.py:154} INFO - [2024-03-01T15:29:45.977-0500] {dagbag.py:536} INFO - Filling up the DagBag from /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/postgres_pipeline.py
+[2024-03-01T15:29:46.040-0500] {processor.py:839} INFO - DAG(s) dict_keys(['postgres_pipeline']) retrieved from /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/postgres_pipeline.py
+[2024-03-01T15:29:46.210-0500] {logging_mixin.py:154} INFO - [2024-03-01T15:29:46.210-0500] {dag.py:2941} INFO - Sync 1 DAGs
+[2024-03-01T15:29:46.228-0500] {logging_mixin.py:154} INFO - [2024-03-01T15:29:46.228-0500] {dag.py:3722} INFO - Setting next_dagrun for postgres_pipeline to None, run_after=None
+[2024-03-01T15:29:46.243-0500] {processor.py:179} INFO - Processing /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/postgres_pipeline.py took 0.273 seconds
+[2024-03-01T15:30:18.946-0500] {processor.py:157} INFO - Started process (PID=58511) to work on /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/postgres_pipeline.py
+[2024-03-01T15:30:18.950-0500] {processor.py:829} INFO - Processing file /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/postgres_pipeline.py for tasks to queue
+[2024-03-01T15:30:18.950-0500] {logging_mixin.py:154} INFO - [2024-03-01T15:30:18.950-0500] {dagbag.py:536} INFO - Filling up the DagBag from /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/postgres_pipeline.py
+[2024-03-01T15:30:19.007-0500] {processor.py:839} INFO - DAG(s) dict_keys(['postgres_pipeline']) retrieved from /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/postgres_pipeline.py
+[2024-03-01T15:30:19.171-0500] {logging_mixin.py:154} INFO - [2024-03-01T15:30:19.171-0500] {dag.py:2941} INFO - Sync 1 DAGs
+[2024-03-01T15:30:19.188-0500] {logging_mixin.py:154} INFO - [2024-03-01T15:30:19.188-0500] {dag.py:3722} INFO - Setting next_dagrun for postgres_pipeline to None, run_after=None
+[2024-03-01T15:30:19.200-0500] {processor.py:179} INFO - Processing /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/postgres_pipeline.py took 0.258 seconds
+[2024-03-01T15:30:51.180-0500] {processor.py:157} INFO - Started process (PID=58648) to work on /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/postgres_pipeline.py
+[2024-03-01T15:30:51.184-0500] {processor.py:829} INFO - Processing file /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/postgres_pipeline.py for tasks to queue
+[2024-03-01T15:30:51.185-0500] {logging_mixin.py:154} INFO - [2024-03-01T15:30:51.185-0500] {dagbag.py:536} INFO - Filling up the DagBag from /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/postgres_pipeline.py
+[2024-03-01T15:30:51.217-0500] {processor.py:839} INFO - DAG(s) dict_keys(['postgres_pipeline']) retrieved from /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/postgres_pipeline.py
+[2024-03-01T15:30:51.343-0500] {logging_mixin.py:154} INFO - [2024-03-01T15:30:51.343-0500] {dag.py:2941} INFO - Sync 1 DAGs
+[2024-03-01T15:30:51.359-0500] {logging_mixin.py:154} INFO - [2024-03-01T15:30:51.359-0500] {dag.py:3722} INFO - Setting next_dagrun for postgres_pipeline to None, run_after=None
+[2024-03-01T15:30:51.372-0500] {processor.py:179} INFO - Processing /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/postgres_pipeline.py took 0.194 seconds
+[2024-03-01T15:31:23.300-0500] {processor.py:157} INFO - Started process (PID=58760) to work on /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/postgres_pipeline.py
+[2024-03-01T15:31:23.302-0500] {processor.py:829} INFO - Processing file /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/postgres_pipeline.py for tasks to queue
+[2024-03-01T15:31:23.303-0500] {logging_mixin.py:154} INFO - [2024-03-01T15:31:23.303-0500] {dagbag.py:536} INFO - Filling up the DagBag from /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/postgres_pipeline.py
+[2024-03-01T15:31:23.346-0500] {processor.py:839} INFO - DAG(s) dict_keys(['postgres_pipeline']) retrieved from /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/postgres_pipeline.py
+[2024-03-01T15:31:23.489-0500] {logging_mixin.py:154} INFO - [2024-03-01T15:31:23.489-0500] {dag.py:2941} INFO - Sync 1 DAGs
+[2024-03-01T15:31:23.503-0500] {logging_mixin.py:154} INFO - [2024-03-01T15:31:23.503-0500] {dag.py:3722} INFO - Setting next_dagrun for postgres_pipeline to None, run_after=None
+[2024-03-01T15:31:23.515-0500] {processor.py:179} INFO - Processing /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/postgres_pipeline.py took 0.219 seconds
+[2024-03-01T15:31:55.880-0500] {processor.py:157} INFO - Started process (PID=58886) to work on /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/postgres_pipeline.py
+[2024-03-01T15:31:55.883-0500] {processor.py:829} INFO - Processing file /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/postgres_pipeline.py for tasks to queue
+[2024-03-01T15:31:55.884-0500] {logging_mixin.py:154} INFO - [2024-03-01T15:31:55.883-0500] {dagbag.py:536} INFO - Filling up the DagBag from /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/postgres_pipeline.py
+[2024-03-01T15:31:55.921-0500] {processor.py:839} INFO - DAG(s) dict_keys(['postgres_pipeline']) retrieved from /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/postgres_pipeline.py
+[2024-03-01T15:31:56.058-0500] {logging_mixin.py:154} INFO - [2024-03-01T15:31:56.058-0500] {dag.py:2941} INFO - Sync 1 DAGs
+[2024-03-01T15:31:56.074-0500] {logging_mixin.py:154} INFO - [2024-03-01T15:31:56.074-0500] {dag.py:3722} INFO - Setting next_dagrun for postgres_pipeline to None, run_after=None
+[2024-03-01T15:31:56.087-0500] {processor.py:179} INFO - Processing /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/postgres_pipeline.py took 0.209 seconds
+[2024-03-01T15:32:28.172-0500] {processor.py:157} INFO - Started process (PID=59001) to work on /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/postgres_pipeline.py
+[2024-03-01T15:32:28.177-0500] {processor.py:829} INFO - Processing file /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/postgres_pipeline.py for tasks to queue
+[2024-03-01T15:32:28.178-0500] {logging_mixin.py:154} INFO - [2024-03-01T15:32:28.178-0500] {dagbag.py:536} INFO - Filling up the DagBag from /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/postgres_pipeline.py
+[2024-03-01T15:32:28.269-0500] {processor.py:839} INFO - DAG(s) dict_keys(['postgres_pipeline']) retrieved from /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/postgres_pipeline.py
+[2024-03-01T15:32:28.641-0500] {logging_mixin.py:154} INFO - [2024-03-01T15:32:28.641-0500] {dag.py:2941} INFO - Sync 1 DAGs
+[2024-03-01T15:32:28.678-0500] {logging_mixin.py:154} INFO - [2024-03-01T15:32:28.677-0500] {dag.py:3722} INFO - Setting next_dagrun for postgres_pipeline to None, run_after=None
+[2024-03-01T15:32:28.695-0500] {processor.py:179} INFO - Processing /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/postgres_pipeline.py took 0.526 seconds
+[2024-03-01T15:33:01.001-0500] {processor.py:157} INFO - Started process (PID=59137) to work on /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/postgres_pipeline.py
+[2024-03-01T15:33:01.005-0500] {processor.py:829} INFO - Processing file /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/postgres_pipeline.py for tasks to queue
+[2024-03-01T15:33:01.005-0500] {logging_mixin.py:154} INFO - [2024-03-01T15:33:01.005-0500] {dagbag.py:536} INFO - Filling up the DagBag from /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/postgres_pipeline.py
+[2024-03-01T15:33:01.040-0500] {processor.py:839} INFO - DAG(s) dict_keys(['postgres_pipeline']) retrieved from /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/postgres_pipeline.py
+[2024-03-01T15:33:01.163-0500] {logging_mixin.py:154} INFO - [2024-03-01T15:33:01.162-0500] {dag.py:2941} INFO - Sync 1 DAGs
+[2024-03-01T15:33:01.177-0500] {logging_mixin.py:154} INFO - [2024-03-01T15:33:01.177-0500] {dag.py:3722} INFO - Setting next_dagrun for postgres_pipeline to None, run_after=None
+[2024-03-01T15:33:01.187-0500] {processor.py:179} INFO - Processing /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/postgres_pipeline.py took 0.189 seconds
+[2024-03-01T15:33:34.501-0500] {processor.py:157} INFO - Started process (PID=59253) to work on /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/postgres_pipeline.py
+[2024-03-01T15:33:34.506-0500] {processor.py:829} INFO - Processing file /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/postgres_pipeline.py for tasks to queue
+[2024-03-01T15:33:34.506-0500] {logging_mixin.py:154} INFO - [2024-03-01T15:33:34.506-0500] {dagbag.py:536} INFO - Filling up the DagBag from /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/postgres_pipeline.py
+[2024-03-01T15:33:34.549-0500] {processor.py:839} INFO - DAG(s) dict_keys(['postgres_pipeline']) retrieved from /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/postgres_pipeline.py
+[2024-03-01T15:33:34.717-0500] {logging_mixin.py:154} INFO - [2024-03-01T15:33:34.717-0500] {dag.py:2941} INFO - Sync 1 DAGs
+[2024-03-01T15:33:34.736-0500] {logging_mixin.py:154} INFO - [2024-03-01T15:33:34.736-0500] {dag.py:3722} INFO - Setting next_dagrun for postgres_pipeline to None, run_after=None
+[2024-03-01T15:33:34.753-0500] {processor.py:179} INFO - Processing /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/postgres_pipeline.py took 0.255 seconds
+[2024-03-01T15:34:06.822-0500] {processor.py:157} INFO - Started process (PID=59375) to work on /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/postgres_pipeline.py
+[2024-03-01T15:34:06.827-0500] {processor.py:829} INFO - Processing file /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/postgres_pipeline.py for tasks to queue
+[2024-03-01T15:34:06.827-0500] {logging_mixin.py:154} INFO - [2024-03-01T15:34:06.827-0500] {dagbag.py:536} INFO - Filling up the DagBag from /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/postgres_pipeline.py
+[2024-03-01T15:34:06.871-0500] {processor.py:839} INFO - DAG(s) dict_keys(['postgres_pipeline']) retrieved from /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/postgres_pipeline.py
+[2024-03-01T15:34:07.037-0500] {logging_mixin.py:154} INFO - [2024-03-01T15:34:07.037-0500] {dag.py:2941} INFO - Sync 1 DAGs
+[2024-03-01T15:34:07.054-0500] {logging_mixin.py:154} INFO - [2024-03-01T15:34:07.054-0500] {dag.py:3722} INFO - Setting next_dagrun for postgres_pipeline to None, run_after=None
+[2024-03-01T15:34:07.068-0500] {processor.py:179} INFO - Processing /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/postgres_pipeline.py took 0.248 seconds
+[2024-03-01T15:34:39.106-0500] {processor.py:157} INFO - Started process (PID=59491) to work on /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/postgres_pipeline.py
+[2024-03-01T15:34:39.109-0500] {processor.py:829} INFO - Processing file /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/postgres_pipeline.py for tasks to queue
+[2024-03-01T15:34:39.109-0500] {logging_mixin.py:154} INFO - [2024-03-01T15:34:39.109-0500] {dagbag.py:536} INFO - Filling up the DagBag from /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/postgres_pipeline.py
+[2024-03-01T15:34:39.141-0500] {processor.py:839} INFO - DAG(s) dict_keys(['postgres_pipeline']) retrieved from /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/postgres_pipeline.py
+[2024-03-01T15:34:39.260-0500] {logging_mixin.py:154} INFO - [2024-03-01T15:34:39.260-0500] {dag.py:2941} INFO - Sync 1 DAGs
+[2024-03-01T15:34:39.275-0500] {logging_mixin.py:154} INFO - [2024-03-01T15:34:39.275-0500] {dag.py:3722} INFO - Setting next_dagrun for postgres_pipeline to None, run_after=None
+[2024-03-01T15:34:39.287-0500] {processor.py:179} INFO - Processing /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/postgres_pipeline.py took 0.183 seconds
+[2024-03-01T15:35:11.203-0500] {processor.py:157} INFO - Started process (PID=59607) to work on /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/postgres_pipeline.py
+[2024-03-01T15:35:11.208-0500] {processor.py:829} INFO - Processing file /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/postgres_pipeline.py for tasks to queue
+[2024-03-01T15:35:11.208-0500] {logging_mixin.py:154} INFO - [2024-03-01T15:35:11.208-0500] {dagbag.py:536} INFO - Filling up the DagBag from /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/postgres_pipeline.py
+[2024-03-01T15:35:11.243-0500] {processor.py:839} INFO - DAG(s) dict_keys(['postgres_pipeline']) retrieved from /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/postgres_pipeline.py
+[2024-03-01T15:35:11.361-0500] {logging_mixin.py:154} INFO - [2024-03-01T15:35:11.361-0500] {dag.py:2941} INFO - Sync 1 DAGs
+[2024-03-01T15:35:11.375-0500] {logging_mixin.py:154} INFO - [2024-03-01T15:35:11.375-0500] {dag.py:3722} INFO - Setting next_dagrun for postgres_pipeline to None, run_after=None
+[2024-03-01T15:35:11.387-0500] {processor.py:179} INFO - Processing /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/postgres_pipeline.py took 0.185 seconds
+[2024-03-01T15:35:43.255-0500] {processor.py:157} INFO - Started process (PID=59724) to work on /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/postgres_pipeline.py
+[2024-03-01T15:35:43.258-0500] {processor.py:829} INFO - Processing file /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/postgres_pipeline.py for tasks to queue
+[2024-03-01T15:35:43.258-0500] {logging_mixin.py:154} INFO - [2024-03-01T15:35:43.258-0500] {dagbag.py:536} INFO - Filling up the DagBag from /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/postgres_pipeline.py
+[2024-03-01T15:35:43.291-0500] {processor.py:839} INFO - DAG(s) dict_keys(['postgres_pipeline']) retrieved from /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/postgres_pipeline.py
+[2024-03-01T15:35:43.420-0500] {logging_mixin.py:154} INFO - [2024-03-01T15:35:43.420-0500] {dag.py:2941} INFO - Sync 1 DAGs
+[2024-03-01T15:35:43.432-0500] {logging_mixin.py:154} INFO - [2024-03-01T15:35:43.432-0500] {dag.py:3722} INFO - Setting next_dagrun for postgres_pipeline to None, run_after=None
+[2024-03-01T15:35:43.443-0500] {processor.py:179} INFO - Processing /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/postgres_pipeline.py took 0.189 seconds
+[2024-03-01T15:36:15.439-0500] {processor.py:157} INFO - Started process (PID=59844) to work on /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/postgres_pipeline.py
+[2024-03-01T15:36:15.442-0500] {processor.py:829} INFO - Processing file /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/postgres_pipeline.py for tasks to queue
+[2024-03-01T15:36:15.442-0500] {logging_mixin.py:154} INFO - [2024-03-01T15:36:15.442-0500] {dagbag.py:536} INFO - Filling up the DagBag from /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/postgres_pipeline.py
+[2024-03-01T15:36:15.475-0500] {processor.py:839} INFO - DAG(s) dict_keys(['postgres_pipeline']) retrieved from /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/postgres_pipeline.py
+[2024-03-01T15:36:15.593-0500] {logging_mixin.py:154} INFO - [2024-03-01T15:36:15.592-0500] {dag.py:2941} INFO - Sync 1 DAGs
+[2024-03-01T15:36:15.607-0500] {logging_mixin.py:154} INFO - [2024-03-01T15:36:15.607-0500] {dag.py:3722} INFO - Setting next_dagrun for postgres_pipeline to None, run_after=None
+[2024-03-01T15:36:15.622-0500] {processor.py:179} INFO - Processing /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/postgres_pipeline.py took 0.186 seconds
+[2024-03-01T15:36:47.606-0500] {processor.py:157} INFO - Started process (PID=59972) to work on /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/postgres_pipeline.py
+[2024-03-01T15:36:47.609-0500] {processor.py:829} INFO - Processing file /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/postgres_pipeline.py for tasks to queue
+[2024-03-01T15:36:47.610-0500] {logging_mixin.py:154} INFO - [2024-03-01T15:36:47.610-0500] {dagbag.py:536} INFO - Filling up the DagBag from /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/postgres_pipeline.py
+[2024-03-01T15:36:47.643-0500] {processor.py:839} INFO - DAG(s) dict_keys(['postgres_pipeline']) retrieved from /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/postgres_pipeline.py
+[2024-03-01T15:36:47.773-0500] {logging_mixin.py:154} INFO - [2024-03-01T15:36:47.773-0500] {dag.py:2941} INFO - Sync 1 DAGs
+[2024-03-01T15:36:47.787-0500] {logging_mixin.py:154} INFO - [2024-03-01T15:36:47.787-0500] {dag.py:3722} INFO - Setting next_dagrun for postgres_pipeline to None, run_after=None
+[2024-03-01T15:36:47.799-0500] {processor.py:179} INFO - Processing /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/postgres_pipeline.py took 0.195 seconds
+[2024-03-01T15:37:19.714-0500] {processor.py:157} INFO - Started process (PID=60085) to work on /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/postgres_pipeline.py
+[2024-03-01T15:37:19.717-0500] {processor.py:829} INFO - Processing file /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/postgres_pipeline.py for tasks to queue
+[2024-03-01T15:37:19.717-0500] {logging_mixin.py:154} INFO - [2024-03-01T15:37:19.717-0500] {dagbag.py:536} INFO - Filling up the DagBag from /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/postgres_pipeline.py
+[2024-03-01T15:37:19.750-0500] {processor.py:839} INFO - DAG(s) dict_keys(['postgres_pipeline']) retrieved from /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/postgres_pipeline.py
+[2024-03-01T15:37:19.874-0500] {logging_mixin.py:154} INFO - [2024-03-01T15:37:19.874-0500] {dag.py:2941} INFO - Sync 1 DAGs
+[2024-03-01T15:37:19.890-0500] {logging_mixin.py:154} INFO - [2024-03-01T15:37:19.890-0500] {dag.py:3722} INFO - Setting next_dagrun for postgres_pipeline to None, run_after=None
+[2024-03-01T15:37:19.902-0500] {processor.py:179} INFO - Processing /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/postgres_pipeline.py took 0.190 seconds
+[2024-03-01T15:37:52.140-0500] {processor.py:157} INFO - Started process (PID=60214) to work on /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/postgres_pipeline.py
+[2024-03-01T15:37:52.143-0500] {processor.py:829} INFO - Processing file /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/postgres_pipeline.py for tasks to queue
+[2024-03-01T15:37:52.144-0500] {logging_mixin.py:154} INFO - [2024-03-01T15:37:52.144-0500] {dagbag.py:536} INFO - Filling up the DagBag from /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/postgres_pipeline.py
+[2024-03-01T15:37:52.188-0500] {processor.py:839} INFO - DAG(s) dict_keys(['postgres_pipeline']) retrieved from /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/postgres_pipeline.py
+[2024-03-01T15:37:52.309-0500] {logging_mixin.py:154} INFO - [2024-03-01T15:37:52.309-0500] {dag.py:2941} INFO - Sync 1 DAGs
+[2024-03-01T15:37:52.325-0500] {logging_mixin.py:154} INFO - [2024-03-01T15:37:52.325-0500] {dag.py:3722} INFO - Setting next_dagrun for postgres_pipeline to None, run_after=None
+[2024-03-01T15:37:52.338-0500] {processor.py:179} INFO - Processing /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/postgres_pipeline.py took 0.200 seconds
+[2024-03-01T15:38:24.279-0500] {processor.py:157} INFO - Started process (PID=60326) to work on /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/postgres_pipeline.py
+[2024-03-01T15:38:24.282-0500] {processor.py:829} INFO - Processing file /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/postgres_pipeline.py for tasks to queue
+[2024-03-01T15:38:24.282-0500] {logging_mixin.py:154} INFO - [2024-03-01T15:38:24.282-0500] {dagbag.py:536} INFO - Filling up the DagBag from /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/postgres_pipeline.py
+[2024-03-01T15:38:24.318-0500] {processor.py:839} INFO - DAG(s) dict_keys(['postgres_pipeline']) retrieved from /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/postgres_pipeline.py
+[2024-03-01T15:38:24.446-0500] {logging_mixin.py:154} INFO - [2024-03-01T15:38:24.445-0500] {dag.py:2941} INFO - Sync 1 DAGs
+[2024-03-01T15:38:24.460-0500] {logging_mixin.py:154} INFO - [2024-03-01T15:38:24.459-0500] {dag.py:3722} INFO - Setting next_dagrun for postgres_pipeline to None, run_after=None
+[2024-03-01T15:38:24.471-0500] {processor.py:179} INFO - Processing /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/postgres_pipeline.py took 0.194 seconds
+[2024-03-01T15:38:56.189-0500] {processor.py:157} INFO - Started process (PID=60434) to work on /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/postgres_pipeline.py
+[2024-03-01T15:38:56.192-0500] {processor.py:829} INFO - Processing file /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/postgres_pipeline.py for tasks to queue
+[2024-03-01T15:38:56.192-0500] {logging_mixin.py:154} INFO - [2024-03-01T15:38:56.192-0500] {dagbag.py:536} INFO - Filling up the DagBag from /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/postgres_pipeline.py
+[2024-03-01T15:38:56.227-0500] {processor.py:839} INFO - DAG(s) dict_keys(['postgres_pipeline']) retrieved from /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/postgres_pipeline.py
+[2024-03-01T15:38:56.345-0500] {logging_mixin.py:154} INFO - [2024-03-01T15:38:56.345-0500] {dag.py:2941} INFO - Sync 1 DAGs
+[2024-03-01T15:38:56.358-0500] {logging_mixin.py:154} INFO - [2024-03-01T15:38:56.358-0500] {dag.py:3722} INFO - Setting next_dagrun for postgres_pipeline to None, run_after=None
+[2024-03-01T15:38:56.370-0500] {processor.py:179} INFO - Processing /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/postgres_pipeline.py took 0.183 seconds
+[2024-03-01T15:39:28.168-0500] {processor.py:157} INFO - Started process (PID=60549) to work on /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/postgres_pipeline.py
+[2024-03-01T15:39:28.171-0500] {processor.py:829} INFO - Processing file /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/postgres_pipeline.py for tasks to queue
+[2024-03-01T15:39:28.171-0500] {logging_mixin.py:154} INFO - [2024-03-01T15:39:28.171-0500] {dagbag.py:536} INFO - Filling up the DagBag from /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/postgres_pipeline.py
+[2024-03-01T15:39:28.204-0500] {processor.py:839} INFO - DAG(s) dict_keys(['postgres_pipeline']) retrieved from /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/postgres_pipeline.py
+[2024-03-01T15:39:28.326-0500] {logging_mixin.py:154} INFO - [2024-03-01T15:39:28.326-0500] {dag.py:2941} INFO - Sync 1 DAGs
+[2024-03-01T15:39:28.339-0500] {logging_mixin.py:154} INFO - [2024-03-01T15:39:28.339-0500] {dag.py:3722} INFO - Setting next_dagrun for postgres_pipeline to None, run_after=None
+[2024-03-01T15:39:28.351-0500] {processor.py:179} INFO - Processing /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/postgres_pipeline.py took 0.185 seconds
+[2024-03-01T15:40:00.124-0500] {processor.py:157} INFO - Started process (PID=60657) to work on /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/postgres_pipeline.py
+[2024-03-01T15:40:00.127-0500] {processor.py:829} INFO - Processing file /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/postgres_pipeline.py for tasks to queue
+[2024-03-01T15:40:00.128-0500] {logging_mixin.py:154} INFO - [2024-03-01T15:40:00.128-0500] {dagbag.py:536} INFO - Filling up the DagBag from /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/postgres_pipeline.py
+[2024-03-01T15:40:00.173-0500] {processor.py:839} INFO - DAG(s) dict_keys(['postgres_pipeline']) retrieved from /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/postgres_pipeline.py
+[2024-03-01T15:40:00.298-0500] {logging_mixin.py:154} INFO - [2024-03-01T15:40:00.297-0500] {dag.py:2941} INFO - Sync 1 DAGs
+[2024-03-01T15:40:00.314-0500] {logging_mixin.py:154} INFO - [2024-03-01T15:40:00.314-0500] {dag.py:3722} INFO - Setting next_dagrun for postgres_pipeline to None, run_after=None
+[2024-03-01T15:40:00.326-0500] {processor.py:179} INFO - Processing /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/postgres_pipeline.py took 0.204 seconds
+[2024-03-01T15:40:33.154-0500] {processor.py:157} INFO - Started process (PID=60785) to work on /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/postgres_pipeline.py
+[2024-03-01T15:40:33.161-0500] {processor.py:829} INFO - Processing file /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/postgres_pipeline.py for tasks to queue
+[2024-03-01T15:40:33.162-0500] {logging_mixin.py:154} INFO - [2024-03-01T15:40:33.161-0500] {dagbag.py:536} INFO - Filling up the DagBag from /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/postgres_pipeline.py
+[2024-03-01T15:40:33.235-0500] {processor.py:839} INFO - DAG(s) dict_keys(['postgres_pipeline']) retrieved from /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/postgres_pipeline.py
+[2024-03-01T15:40:33.502-0500] {logging_mixin.py:154} INFO - [2024-03-01T15:40:33.502-0500] {dag.py:2941} INFO - Sync 1 DAGs
+[2024-03-01T15:40:33.533-0500] {logging_mixin.py:154} INFO - [2024-03-01T15:40:33.532-0500] {dag.py:3722} INFO - Setting next_dagrun for postgres_pipeline to None, run_after=None
+[2024-03-01T15:40:33.566-0500] {processor.py:179} INFO - Processing /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/postgres_pipeline.py took 0.414 seconds
+[2024-03-01T15:41:05.506-0500] {processor.py:157} INFO - Started process (PID=60900) to work on /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/postgres_pipeline.py
+[2024-03-01T15:41:05.510-0500] {processor.py:829} INFO - Processing file /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/postgres_pipeline.py for tasks to queue
+[2024-03-01T15:41:05.511-0500] {logging_mixin.py:154} INFO - [2024-03-01T15:41:05.511-0500] {dagbag.py:536} INFO - Filling up the DagBag from /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/postgres_pipeline.py
+[2024-03-01T15:41:05.546-0500] {processor.py:839} INFO - DAG(s) dict_keys(['postgres_pipeline']) retrieved from /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/postgres_pipeline.py
+[2024-03-01T15:41:05.704-0500] {logging_mixin.py:154} INFO - [2024-03-01T15:41:05.704-0500] {dag.py:2941} INFO - Sync 1 DAGs
+[2024-03-01T15:41:05.719-0500] {logging_mixin.py:154} INFO - [2024-03-01T15:41:05.719-0500] {dag.py:3722} INFO - Setting next_dagrun for postgres_pipeline to None, run_after=None
+[2024-03-01T15:41:05.732-0500] {processor.py:179} INFO - Processing /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/postgres_pipeline.py took 0.227 seconds
+[2024-03-01T15:41:37.469-0500] {processor.py:157} INFO - Started process (PID=61006) to work on /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/postgres_pipeline.py
+[2024-03-01T15:41:37.473-0500] {processor.py:829} INFO - Processing file /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/postgres_pipeline.py for tasks to queue
+[2024-03-01T15:41:37.473-0500] {logging_mixin.py:154} INFO - [2024-03-01T15:41:37.473-0500] {dagbag.py:536} INFO - Filling up the DagBag from /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/postgres_pipeline.py
+[2024-03-01T15:41:37.507-0500] {processor.py:839} INFO - DAG(s) dict_keys(['postgres_pipeline']) retrieved from /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/postgres_pipeline.py
+[2024-03-01T15:41:37.634-0500] {logging_mixin.py:154} INFO - [2024-03-01T15:41:37.634-0500] {dag.py:2941} INFO - Sync 1 DAGs
+[2024-03-01T15:41:37.650-0500] {logging_mixin.py:154} INFO - [2024-03-01T15:41:37.650-0500] {dag.py:3722} INFO - Setting next_dagrun for postgres_pipeline to None, run_after=None
+[2024-03-01T15:41:37.662-0500] {processor.py:179} INFO - Processing /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/postgres_pipeline.py took 0.195 seconds
+[2024-03-01T15:42:09.423-0500] {processor.py:157} INFO - Started process (PID=61122) to work on /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/postgres_pipeline.py
+[2024-03-01T15:42:09.427-0500] {processor.py:829} INFO - Processing file /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/postgres_pipeline.py for tasks to queue
+[2024-03-01T15:42:09.427-0500] {logging_mixin.py:154} INFO - [2024-03-01T15:42:09.427-0500] {dagbag.py:536} INFO - Filling up the DagBag from /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/postgres_pipeline.py
+[2024-03-01T15:42:09.462-0500] {processor.py:839} INFO - DAG(s) dict_keys(['postgres_pipeline']) retrieved from /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/postgres_pipeline.py
+[2024-03-01T15:42:09.581-0500] {logging_mixin.py:154} INFO - [2024-03-01T15:42:09.581-0500] {dag.py:2941} INFO - Sync 1 DAGs
+[2024-03-01T15:42:09.596-0500] {logging_mixin.py:154} INFO - [2024-03-01T15:42:09.596-0500] {dag.py:3722} INFO - Setting next_dagrun for postgres_pipeline to None, run_after=None
+[2024-03-01T15:42:09.607-0500] {processor.py:179} INFO - Processing /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/postgres_pipeline.py took 0.186 seconds
+[2024-03-01T15:42:41.391-0500] {processor.py:157} INFO - Started process (PID=61227) to work on /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/postgres_pipeline.py
+[2024-03-01T15:42:41.394-0500] {processor.py:829} INFO - Processing file /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/postgres_pipeline.py for tasks to queue
+[2024-03-01T15:42:41.395-0500] {logging_mixin.py:154} INFO - [2024-03-01T15:42:41.394-0500] {dagbag.py:536} INFO - Filling up the DagBag from /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/postgres_pipeline.py
+[2024-03-01T15:42:41.430-0500] {processor.py:839} INFO - DAG(s) dict_keys(['postgres_pipeline']) retrieved from /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/postgres_pipeline.py
+[2024-03-01T15:42:41.556-0500] {logging_mixin.py:154} INFO - [2024-03-01T15:42:41.555-0500] {dag.py:2941} INFO - Sync 1 DAGs
+[2024-03-01T15:42:41.571-0500] {logging_mixin.py:154} INFO - [2024-03-01T15:42:41.571-0500] {dag.py:3722} INFO - Setting next_dagrun for postgres_pipeline to None, run_after=None
+[2024-03-01T15:42:41.582-0500] {processor.py:179} INFO - Processing /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/postgres_pipeline.py took 0.193 seconds
+[2024-03-01T15:43:14.779-0500] {processor.py:157} INFO - Started process (PID=61354) to work on /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/postgres_pipeline.py
+[2024-03-01T15:43:14.783-0500] {processor.py:829} INFO - Processing file /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/postgres_pipeline.py for tasks to queue
+[2024-03-01T15:43:14.783-0500] {logging_mixin.py:154} INFO - [2024-03-01T15:43:14.783-0500] {dagbag.py:536} INFO - Filling up the DagBag from /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/postgres_pipeline.py
+[2024-03-01T15:43:14.822-0500] {processor.py:839} INFO - DAG(s) dict_keys(['postgres_pipeline']) retrieved from /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/postgres_pipeline.py
+[2024-03-01T15:43:14.963-0500] {logging_mixin.py:154} INFO - [2024-03-01T15:43:14.963-0500] {dag.py:2941} INFO - Sync 1 DAGs
+[2024-03-01T15:43:14.980-0500] {logging_mixin.py:154} INFO - [2024-03-01T15:43:14.979-0500] {dag.py:3722} INFO - Setting next_dagrun for postgres_pipeline to None, run_after=None
+[2024-03-01T15:43:14.993-0500] {processor.py:179} INFO - Processing /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/postgres_pipeline.py took 0.216 seconds
+[2024-03-01T15:43:47.268-0500] {processor.py:157} INFO - Started process (PID=61468) to work on /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/postgres_pipeline.py
+[2024-03-01T15:43:47.273-0500] {processor.py:829} INFO - Processing file /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/postgres_pipeline.py for tasks to queue
+[2024-03-01T15:43:47.273-0500] {logging_mixin.py:154} INFO - [2024-03-01T15:43:47.273-0500] {dagbag.py:536} INFO - Filling up the DagBag from /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/postgres_pipeline.py
+[2024-03-01T15:43:47.336-0500] {processor.py:839} INFO - DAG(s) dict_keys(['postgres_pipeline']) retrieved from /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/postgres_pipeline.py
+[2024-03-01T15:43:47.504-0500] {logging_mixin.py:154} INFO - [2024-03-01T15:43:47.504-0500] {dag.py:2941} INFO - Sync 1 DAGs
+[2024-03-01T15:43:47.522-0500] {logging_mixin.py:154} INFO - [2024-03-01T15:43:47.522-0500] {dag.py:3722} INFO - Setting next_dagrun for postgres_pipeline to None, run_after=None
+[2024-03-01T15:43:47.537-0500] {processor.py:179} INFO - Processing /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/postgres_pipeline.py took 0.272 seconds
+[2024-03-01T15:44:21.775-0500] {processor.py:157} INFO - Started process (PID=61602) to work on /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/postgres_pipeline.py
+[2024-03-01T15:44:21.779-0500] {processor.py:829} INFO - Processing file /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/postgres_pipeline.py for tasks to queue
+[2024-03-01T15:44:21.779-0500] {logging_mixin.py:154} INFO - [2024-03-01T15:44:21.779-0500] {dagbag.py:536} INFO - Filling up the DagBag from /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/postgres_pipeline.py
+[2024-03-01T15:44:21.824-0500] {processor.py:839} INFO - DAG(s) dict_keys(['postgres_pipeline']) retrieved from /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/postgres_pipeline.py
+[2024-03-01T15:44:21.978-0500] {logging_mixin.py:154} INFO - [2024-03-01T15:44:21.978-0500] {dag.py:2941} INFO - Sync 1 DAGs
+[2024-03-01T15:44:21.995-0500] {logging_mixin.py:154} INFO - [2024-03-01T15:44:21.994-0500] {dag.py:3722} INFO - Setting next_dagrun for postgres_pipeline to None, run_after=None
+[2024-03-01T15:44:22.008-0500] {processor.py:179} INFO - Processing /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/postgres_pipeline.py took 0.236 seconds
+[2024-03-01T16:10:48.457-0500] {processor.py:157} INFO - Started process (PID=61861) to work on /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/postgres_pipeline.py
+[2024-03-01T16:10:48.461-0500] {processor.py:829} INFO - Processing file /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/postgres_pipeline.py for tasks to queue
+[2024-03-01T16:10:48.462-0500] {logging_mixin.py:154} INFO - [2024-03-01T16:10:48.462-0500] {dagbag.py:536} INFO - Filling up the DagBag from /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/postgres_pipeline.py
+[2024-03-01T16:10:48.509-0500] {processor.py:839} INFO - DAG(s) dict_keys(['postgres_pipeline']) retrieved from /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/postgres_pipeline.py
+[2024-03-01T16:10:48.667-0500] {logging_mixin.py:154} INFO - [2024-03-01T16:10:48.667-0500] {dag.py:2941} INFO - Sync 1 DAGs
+[2024-03-01T16:10:48.685-0500] {logging_mixin.py:154} INFO - [2024-03-01T16:10:48.685-0500] {dag.py:3722} INFO - Setting next_dagrun for postgres_pipeline to None, run_after=None
+[2024-03-01T16:10:48.697-0500] {processor.py:179} INFO - Processing /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/postgres_pipeline.py took 0.243 seconds
+[2024-03-01T16:11:20.067-0500] {processor.py:157} INFO - Started process (PID=61986) to work on /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/postgres_pipeline.py
+[2024-03-01T16:11:20.071-0500] {processor.py:829} INFO - Processing file /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/postgres_pipeline.py for tasks to queue
+[2024-03-01T16:11:20.071-0500] {logging_mixin.py:154} INFO - [2024-03-01T16:11:20.071-0500] {dagbag.py:536} INFO - Filling up the DagBag from /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/postgres_pipeline.py
+[2024-03-01T16:11:20.117-0500] {processor.py:839} INFO - DAG(s) dict_keys(['postgres_pipeline']) retrieved from /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/postgres_pipeline.py
+[2024-03-01T16:11:20.261-0500] {logging_mixin.py:154} INFO - [2024-03-01T16:11:20.261-0500] {dag.py:2941} INFO - Sync 1 DAGs
+[2024-03-01T16:11:20.279-0500] {logging_mixin.py:154} INFO - [2024-03-01T16:11:20.279-0500] {dag.py:3722} INFO - Setting next_dagrun for postgres_pipeline to None, run_after=None
+[2024-03-01T16:11:20.291-0500] {processor.py:179} INFO - Processing /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/postgres_pipeline.py took 0.226 seconds
+[2024-03-01T16:11:52.282-0500] {processor.py:157} INFO - Started process (PID=62101) to work on /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/postgres_pipeline.py
+[2024-03-01T16:11:52.285-0500] {processor.py:829} INFO - Processing file /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/postgres_pipeline.py for tasks to queue
+[2024-03-01T16:11:52.285-0500] {logging_mixin.py:154} INFO - [2024-03-01T16:11:52.285-0500] {dagbag.py:536} INFO - Filling up the DagBag from /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/postgres_pipeline.py
+[2024-03-01T16:11:52.331-0500] {processor.py:839} INFO - DAG(s) dict_keys(['postgres_pipeline']) retrieved from /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/postgres_pipeline.py
+[2024-03-01T16:11:52.478-0500] {logging_mixin.py:154} INFO - [2024-03-01T16:11:52.478-0500] {dag.py:2941} INFO - Sync 1 DAGs
+[2024-03-01T16:11:52.496-0500] {logging_mixin.py:154} INFO - [2024-03-01T16:11:52.496-0500] {dag.py:3722} INFO - Setting next_dagrun for postgres_pipeline to None, run_after=None
+[2024-03-01T16:11:52.509-0500] {processor.py:179} INFO - Processing /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/postgres_pipeline.py took 0.230 seconds
+[2024-03-01T16:12:24.548-0500] {processor.py:157} INFO - Started process (PID=62209) to work on /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/postgres_pipeline.py
+[2024-03-01T16:12:24.552-0500] {processor.py:829} INFO - Processing file /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/postgres_pipeline.py for tasks to queue
+[2024-03-01T16:12:24.552-0500] {logging_mixin.py:154} INFO - [2024-03-01T16:12:24.552-0500] {dagbag.py:536} INFO - Filling up the DagBag from /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/postgres_pipeline.py
+[2024-03-01T16:12:24.597-0500] {processor.py:839} INFO - DAG(s) dict_keys(['postgres_pipeline']) retrieved from /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/postgres_pipeline.py
+[2024-03-01T16:12:24.744-0500] {logging_mixin.py:154} INFO - [2024-03-01T16:12:24.744-0500] {dag.py:2941} INFO - Sync 1 DAGs
+[2024-03-01T16:12:24.761-0500] {logging_mixin.py:154} INFO - [2024-03-01T16:12:24.761-0500] {dag.py:3722} INFO - Setting next_dagrun for postgres_pipeline to None, run_after=None
+[2024-03-01T16:12:24.773-0500] {processor.py:179} INFO - Processing /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/postgres_pipeline.py took 0.228 seconds
+[2024-03-01T16:12:55.897-0500] {processor.py:157} INFO - Started process (PID=62330) to work on /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/postgres_pipeline.py
+[2024-03-01T16:12:55.900-0500] {processor.py:829} INFO - Processing file /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/postgres_pipeline.py for tasks to queue
+[2024-03-01T16:12:55.900-0500] {logging_mixin.py:154} INFO - [2024-03-01T16:12:55.900-0500] {dagbag.py:536} INFO - Filling up the DagBag from /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/postgres_pipeline.py
+[2024-03-01T16:12:55.941-0500] {processor.py:839} INFO - DAG(s) dict_keys(['postgres_pipeline']) retrieved from /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/postgres_pipeline.py
+[2024-03-01T16:12:56.078-0500] {logging_mixin.py:154} INFO - [2024-03-01T16:12:56.077-0500] {dag.py:2941} INFO - Sync 1 DAGs
+[2024-03-01T16:12:56.093-0500] {logging_mixin.py:154} INFO - [2024-03-01T16:12:56.093-0500] {dag.py:3722} INFO - Setting next_dagrun for postgres_pipeline to None, run_after=None
+[2024-03-01T16:12:56.104-0500] {processor.py:179} INFO - Processing /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/postgres_pipeline.py took 0.209 seconds
+[2024-03-01T16:13:29.724-0500] {processor.py:157} INFO - Started process (PID=62448) to work on /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/postgres_pipeline.py
+[2024-03-01T16:13:29.735-0500] {processor.py:829} INFO - Processing file /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/postgres_pipeline.py for tasks to queue
+[2024-03-01T16:13:29.736-0500] {logging_mixin.py:154} INFO - [2024-03-01T16:13:29.735-0500] {dagbag.py:536} INFO - Filling up the DagBag from /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/postgres_pipeline.py
+[2024-03-01T16:13:29.857-0500] {processor.py:839} INFO - DAG(s) dict_keys(['postgres_pipeline']) retrieved from /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/postgres_pipeline.py
+[2024-03-01T16:13:30.235-0500] {logging_mixin.py:154} INFO - [2024-03-01T16:13:30.235-0500] {dag.py:2941} INFO - Sync 1 DAGs
+[2024-03-01T16:13:30.261-0500] {logging_mixin.py:154} INFO - [2024-03-01T16:13:30.261-0500] {dag.py:3722} INFO - Setting next_dagrun for postgres_pipeline to None, run_after=None
+[2024-03-01T16:13:30.287-0500] {processor.py:179} INFO - Processing /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/postgres_pipeline.py took 0.566 seconds
+[2024-03-01T16:14:02.610-0500] {processor.py:157} INFO - Started process (PID=62578) to work on /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/postgres_pipeline.py
+[2024-03-01T16:14:02.616-0500] {processor.py:829} INFO - Processing file /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/postgres_pipeline.py for tasks to queue
+[2024-03-01T16:14:02.616-0500] {logging_mixin.py:154} INFO - [2024-03-01T16:14:02.616-0500] {dagbag.py:536} INFO - Filling up the DagBag from /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/postgres_pipeline.py
+[2024-03-01T16:14:02.659-0500] {processor.py:839} INFO - DAG(s) dict_keys(['postgres_pipeline']) retrieved from /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/postgres_pipeline.py
+[2024-03-01T16:14:02.798-0500] {logging_mixin.py:154} INFO - [2024-03-01T16:14:02.798-0500] {dag.py:2941} INFO - Sync 1 DAGs
+[2024-03-01T16:14:02.814-0500] {logging_mixin.py:154} INFO - [2024-03-01T16:14:02.814-0500] {dag.py:3722} INFO - Setting next_dagrun for postgres_pipeline to None, run_after=None
+[2024-03-01T16:14:02.826-0500] {processor.py:179} INFO - Processing /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/postgres_pipeline.py took 0.219 seconds
+[2024-03-01T16:14:34.135-0500] {processor.py:157} INFO - Started process (PID=62692) to work on /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/postgres_pipeline.py
+[2024-03-01T16:14:34.139-0500] {processor.py:829} INFO - Processing file /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/postgres_pipeline.py for tasks to queue
+[2024-03-01T16:14:34.139-0500] {logging_mixin.py:154} INFO - [2024-03-01T16:14:34.139-0500] {dagbag.py:536} INFO - Filling up the DagBag from /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/postgres_pipeline.py
+[2024-03-01T16:14:34.172-0500] {processor.py:839} INFO - DAG(s) dict_keys(['postgres_pipeline']) retrieved from /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/postgres_pipeline.py
+[2024-03-01T16:14:34.296-0500] {logging_mixin.py:154} INFO - [2024-03-01T16:14:34.296-0500] {dag.py:2941} INFO - Sync 1 DAGs
+[2024-03-01T16:14:34.310-0500] {logging_mixin.py:154} INFO - [2024-03-01T16:14:34.310-0500] {dag.py:3722} INFO - Setting next_dagrun for postgres_pipeline to None, run_after=None
+[2024-03-01T16:14:34.320-0500] {processor.py:179} INFO - Processing /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/postgres_pipeline.py took 0.188 seconds
+[2024-03-01T16:15:05.811-0500] {processor.py:157} INFO - Started process (PID=62826) to work on /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/postgres_pipeline.py
+[2024-03-01T16:15:05.816-0500] {processor.py:829} INFO - Processing file /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/postgres_pipeline.py for tasks to queue
+[2024-03-01T16:15:05.816-0500] {logging_mixin.py:154} INFO - [2024-03-01T16:15:05.816-0500] {dagbag.py:536} INFO - Filling up the DagBag from /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/postgres_pipeline.py
+[2024-03-01T16:15:05.867-0500] {processor.py:839} INFO - DAG(s) dict_keys(['postgres_pipeline']) retrieved from /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/postgres_pipeline.py
+[2024-03-01T16:15:06.021-0500] {logging_mixin.py:154} INFO - [2024-03-01T16:15:06.021-0500] {dag.py:2941} INFO - Sync 1 DAGs
+[2024-03-01T16:15:06.037-0500] {logging_mixin.py:154} INFO - [2024-03-01T16:15:06.037-0500] {dag.py:3722} INFO - Setting next_dagrun for postgres_pipeline to None, run_after=None
+[2024-03-01T16:15:06.048-0500] {processor.py:179} INFO - Processing /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/postgres_pipeline.py took 0.240 seconds
+[2024-03-01T16:15:37.767-0500] {processor.py:157} INFO - Started process (PID=62982) to work on /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/postgres_pipeline.py
+[2024-03-01T16:15:37.779-0500] {processor.py:829} INFO - Processing file /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/postgres_pipeline.py for tasks to queue
+[2024-03-01T16:15:37.779-0500] {logging_mixin.py:154} INFO - [2024-03-01T16:15:37.779-0500] {dagbag.py:536} INFO - Filling up the DagBag from /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/postgres_pipeline.py
+[2024-03-01T16:15:37.831-0500] {processor.py:839} INFO - DAG(s) dict_keys(['postgres_pipeline']) retrieved from /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/postgres_pipeline.py
+[2024-03-01T16:15:37.985-0500] {logging_mixin.py:154} INFO - [2024-03-01T16:15:37.985-0500] {dag.py:2941} INFO - Sync 1 DAGs
+[2024-03-01T16:15:38.006-0500] {logging_mixin.py:154} INFO - [2024-03-01T16:15:38.006-0500] {dag.py:3722} INFO - Setting next_dagrun for postgres_pipeline to None, run_after=None
+[2024-03-01T16:15:38.023-0500] {processor.py:179} INFO - Processing /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/postgres_pipeline.py took 0.260 seconds
+[2024-03-01T16:16:09.193-0500] {processor.py:157} INFO - Started process (PID=63108) to work on /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/postgres_pipeline.py
+[2024-03-01T16:16:09.196-0500] {processor.py:829} INFO - Processing file /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/postgres_pipeline.py for tasks to queue
+[2024-03-01T16:16:09.196-0500] {logging_mixin.py:154} INFO - [2024-03-01T16:16:09.196-0500] {dagbag.py:536} INFO - Filling up the DagBag from /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/postgres_pipeline.py
+[2024-03-01T16:16:09.231-0500] {processor.py:839} INFO - DAG(s) dict_keys(['postgres_pipeline']) retrieved from /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/postgres_pipeline.py
+[2024-03-01T16:16:09.353-0500] {logging_mixin.py:154} INFO - [2024-03-01T16:16:09.353-0500] {dag.py:2941} INFO - Sync 1 DAGs
+[2024-03-01T16:16:09.366-0500] {logging_mixin.py:154} INFO - [2024-03-01T16:16:09.366-0500] {dag.py:3722} INFO - Setting next_dagrun for postgres_pipeline to None, run_after=None
+[2024-03-01T16:16:09.378-0500] {processor.py:179} INFO - Processing /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/postgres_pipeline.py took 0.187 seconds
+[2024-03-01T16:16:41.761-0500] {processor.py:157} INFO - Started process (PID=63301) to work on /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/postgres_pipeline.py
+[2024-03-01T16:16:41.771-0500] {processor.py:829} INFO - Processing file /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/postgres_pipeline.py for tasks to queue
+[2024-03-01T16:16:41.772-0500] {logging_mixin.py:154} INFO - [2024-03-01T16:16:41.772-0500] {dagbag.py:536} INFO - Filling up the DagBag from /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/postgres_pipeline.py
+[2024-03-01T16:16:42.444-0500] {processor.py:839} INFO - DAG(s) dict_keys(['postgres_pipeline']) retrieved from /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/postgres_pipeline.py
+[2024-03-01T16:16:43.062-0500] {logging_mixin.py:154} INFO - [2024-03-01T16:16:43.061-0500] {dag.py:2941} INFO - Sync 1 DAGs
+[2024-03-01T16:16:43.090-0500] {logging_mixin.py:154} INFO - [2024-03-01T16:16:43.090-0500] {dag.py:3722} INFO - Setting next_dagrun for postgres_pipeline to None, run_after=None
+[2024-03-01T16:16:43.113-0500] {processor.py:179} INFO - Processing /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/postgres_pipeline.py took 1.362 seconds
+[2024-03-01T16:17:14.762-0500] {processor.py:157} INFO - Started process (PID=63430) to work on /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/postgres_pipeline.py
+[2024-03-01T16:17:14.765-0500] {processor.py:829} INFO - Processing file /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/postgres_pipeline.py for tasks to queue
+[2024-03-01T16:17:14.765-0500] {logging_mixin.py:154} INFO - [2024-03-01T16:17:14.765-0500] {dagbag.py:536} INFO - Filling up the DagBag from /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/postgres_pipeline.py
+[2024-03-01T16:17:14.812-0500] {processor.py:839} INFO - DAG(s) dict_keys(['postgres_pipeline']) retrieved from /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/postgres_pipeline.py
+[2024-03-01T16:17:14.983-0500] {logging_mixin.py:154} INFO - [2024-03-01T16:17:14.983-0500] {dag.py:2941} INFO - Sync 1 DAGs
+[2024-03-01T16:17:14.998-0500] {logging_mixin.py:154} INFO - [2024-03-01T16:17:14.998-0500] {dag.py:3722} INFO - Setting next_dagrun for postgres_pipeline to None, run_after=None
+[2024-03-01T16:17:15.011-0500] {processor.py:179} INFO - Processing /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/postgres_pipeline.py took 0.252 seconds
+[2024-03-01T16:17:46.159-0500] {processor.py:157} INFO - Started process (PID=63547) to work on /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/postgres_pipeline.py
+[2024-03-01T16:17:46.162-0500] {processor.py:829} INFO - Processing file /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/postgres_pipeline.py for tasks to queue
+[2024-03-01T16:17:46.163-0500] {logging_mixin.py:154} INFO - [2024-03-01T16:17:46.163-0500] {dagbag.py:536} INFO - Filling up the DagBag from /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/postgres_pipeline.py
+[2024-03-01T16:17:46.212-0500] {processor.py:839} INFO - DAG(s) dict_keys(['postgres_pipeline']) retrieved from /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/postgres_pipeline.py
+[2024-03-01T16:17:46.375-0500] {logging_mixin.py:154} INFO - [2024-03-01T16:17:46.374-0500] {dag.py:2941} INFO - Sync 1 DAGs
+[2024-03-01T16:17:46.391-0500] {logging_mixin.py:154} INFO - [2024-03-01T16:17:46.391-0500] {dag.py:3722} INFO - Setting next_dagrun for postgres_pipeline to None, run_after=None
+[2024-03-01T16:17:46.404-0500] {processor.py:179} INFO - Processing /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/postgres_pipeline.py took 0.248 seconds
+[2024-03-01T16:18:18.018-0500] {processor.py:157} INFO - Started process (PID=63660) to work on /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/postgres_pipeline.py
+[2024-03-01T16:18:18.024-0500] {processor.py:829} INFO - Processing file /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/postgres_pipeline.py for tasks to queue
+[2024-03-01T16:18:18.025-0500] {logging_mixin.py:154} INFO - [2024-03-01T16:18:18.024-0500] {dagbag.py:536} INFO - Filling up the DagBag from /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/postgres_pipeline.py
+[2024-03-01T16:18:18.067-0500] {processor.py:839} INFO - DAG(s) dict_keys(['postgres_pipeline']) retrieved from /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/postgres_pipeline.py
+[2024-03-01T16:18:18.205-0500] {logging_mixin.py:154} INFO - [2024-03-01T16:18:18.205-0500] {dag.py:2941} INFO - Sync 1 DAGs
+[2024-03-01T16:18:18.223-0500] {logging_mixin.py:154} INFO - [2024-03-01T16:18:18.223-0500] {dag.py:3722} INFO - Setting next_dagrun for postgres_pipeline to None, run_after=None
+[2024-03-01T16:18:18.235-0500] {processor.py:179} INFO - Processing /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/postgres_pipeline.py took 0.220 seconds
+[2024-03-01T16:18:49.157-0500] {processor.py:157} INFO - Started process (PID=63777) to work on /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/postgres_pipeline.py
+[2024-03-01T16:18:49.160-0500] {processor.py:829} INFO - Processing file /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/postgres_pipeline.py for tasks to queue
+[2024-03-01T16:18:49.160-0500] {logging_mixin.py:154} INFO - [2024-03-01T16:18:49.160-0500] {dagbag.py:536} INFO - Filling up the DagBag from /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/postgres_pipeline.py
+[2024-03-01T16:18:49.193-0500] {processor.py:839} INFO - DAG(s) dict_keys(['postgres_pipeline']) retrieved from /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/postgres_pipeline.py
+[2024-03-01T16:18:49.318-0500] {logging_mixin.py:154} INFO - [2024-03-01T16:18:49.318-0500] {dag.py:2941} INFO - Sync 1 DAGs
+[2024-03-01T16:18:49.333-0500] {logging_mixin.py:154} INFO - [2024-03-01T16:18:49.332-0500] {dag.py:3722} INFO - Setting next_dagrun for postgres_pipeline to None, run_after=None
+[2024-03-01T16:18:49.343-0500] {processor.py:179} INFO - Processing /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/postgres_pipeline.py took 0.189 seconds
+[2024-03-01T16:19:20.386-0500] {processor.py:157} INFO - Started process (PID=63892) to work on /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/postgres_pipeline.py
+[2024-03-01T16:19:20.389-0500] {processor.py:829} INFO - Processing file /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/postgres_pipeline.py for tasks to queue
+[2024-03-01T16:19:20.389-0500] {logging_mixin.py:154} INFO - [2024-03-01T16:19:20.389-0500] {dagbag.py:536} INFO - Filling up the DagBag from /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/postgres_pipeline.py
+[2024-03-01T16:19:20.425-0500] {processor.py:839} INFO - DAG(s) dict_keys(['postgres_pipeline']) retrieved from /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/postgres_pipeline.py
+[2024-03-01T16:19:20.548-0500] {logging_mixin.py:154} INFO - [2024-03-01T16:19:20.548-0500] {dag.py:2941} INFO - Sync 1 DAGs
+[2024-03-01T16:19:20.562-0500] {logging_mixin.py:154} INFO - [2024-03-01T16:19:20.562-0500] {dag.py:3722} INFO - Setting next_dagrun for postgres_pipeline to None, run_after=None
+[2024-03-01T16:19:20.573-0500] {processor.py:179} INFO - Processing /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/postgres_pipeline.py took 0.190 seconds
+[2024-03-01T16:19:52.167-0500] {processor.py:157} INFO - Started process (PID=64012) to work on /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/postgres_pipeline.py
+[2024-03-01T16:19:52.170-0500] {processor.py:829} INFO - Processing file /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/postgres_pipeline.py for tasks to queue
+[2024-03-01T16:19:52.171-0500] {logging_mixin.py:154} INFO - [2024-03-01T16:19:52.171-0500] {dagbag.py:536} INFO - Filling up the DagBag from /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/postgres_pipeline.py
+[2024-03-01T16:19:52.214-0500] {processor.py:839} INFO - DAG(s) dict_keys(['postgres_pipeline']) retrieved from /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/postgres_pipeline.py
+[2024-03-01T16:19:52.360-0500] {logging_mixin.py:154} INFO - [2024-03-01T16:19:52.360-0500] {dag.py:2941} INFO - Sync 1 DAGs
+[2024-03-01T16:19:52.386-0500] {logging_mixin.py:154} INFO - [2024-03-01T16:19:52.385-0500] {dag.py:3722} INFO - Setting next_dagrun for postgres_pipeline to None, run_after=None
+[2024-03-01T16:19:52.400-0500] {processor.py:179} INFO - Processing /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/postgres_pipeline.py took 0.235 seconds
+[2024-03-01T16:20:24.439-0500] {processor.py:157} INFO - Started process (PID=64128) to work on /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/postgres_pipeline.py
+[2024-03-01T16:20:24.443-0500] {processor.py:829} INFO - Processing file /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/postgres_pipeline.py for tasks to queue
+[2024-03-01T16:20:24.443-0500] {logging_mixin.py:154} INFO - [2024-03-01T16:20:24.443-0500] {dagbag.py:536} INFO - Filling up the DagBag from /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/postgres_pipeline.py
+[2024-03-01T16:20:24.479-0500] {processor.py:839} INFO - DAG(s) dict_keys(['postgres_pipeline']) retrieved from /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/postgres_pipeline.py
+[2024-03-01T16:20:24.606-0500] {logging_mixin.py:154} INFO - [2024-03-01T16:20:24.606-0500] {dag.py:2941} INFO - Sync 1 DAGs
+[2024-03-01T16:20:24.621-0500] {logging_mixin.py:154} INFO - [2024-03-01T16:20:24.621-0500] {dag.py:3722} INFO - Setting next_dagrun for postgres_pipeline to None, run_after=None
+[2024-03-01T16:20:24.633-0500] {processor.py:179} INFO - Processing /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/postgres_pipeline.py took 0.196 seconds
+[2024-03-01T16:20:57.093-0500] {processor.py:157} INFO - Started process (PID=64244) to work on /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/postgres_pipeline.py
+[2024-03-01T16:20:57.097-0500] {processor.py:829} INFO - Processing file /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/postgres_pipeline.py for tasks to queue
+[2024-03-01T16:20:57.097-0500] {logging_mixin.py:154} INFO - [2024-03-01T16:20:57.097-0500] {dagbag.py:536} INFO - Filling up the DagBag from /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/postgres_pipeline.py
+[2024-03-01T16:20:57.137-0500] {processor.py:839} INFO - DAG(s) dict_keys(['postgres_pipeline']) retrieved from /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/postgres_pipeline.py
+[2024-03-01T16:20:57.311-0500] {logging_mixin.py:154} INFO - [2024-03-01T16:20:57.310-0500] {dag.py:2941} INFO - Sync 1 DAGs
+[2024-03-01T16:20:57.332-0500] {logging_mixin.py:154} INFO - [2024-03-01T16:20:57.332-0500] {dag.py:3722} INFO - Setting next_dagrun for postgres_pipeline to None, run_after=None
+[2024-03-01T16:20:57.350-0500] {processor.py:179} INFO - Processing /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/postgres_pipeline.py took 0.260 seconds
+[2024-03-01T16:21:29.679-0500] {processor.py:157} INFO - Started process (PID=64375) to work on /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/postgres_pipeline.py
+[2024-03-01T16:21:29.685-0500] {processor.py:829} INFO - Processing file /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/postgres_pipeline.py for tasks to queue
+[2024-03-01T16:21:29.686-0500] {logging_mixin.py:154} INFO - [2024-03-01T16:21:29.685-0500] {dagbag.py:536} INFO - Filling up the DagBag from /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/postgres_pipeline.py
+[2024-03-01T16:21:29.728-0500] {processor.py:839} INFO - DAG(s) dict_keys(['postgres_pipeline']) retrieved from /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/postgres_pipeline.py
+[2024-03-01T16:21:29.894-0500] {logging_mixin.py:154} INFO - [2024-03-01T16:21:29.894-0500] {dag.py:2941} INFO - Sync 1 DAGs
+[2024-03-01T16:21:29.910-0500] {logging_mixin.py:154} INFO - [2024-03-01T16:21:29.909-0500] {dag.py:3722} INFO - Setting next_dagrun for postgres_pipeline to None, run_after=None
+[2024-03-01T16:21:29.925-0500] {processor.py:179} INFO - Processing /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/postgres_pipeline.py took 0.248 seconds
+[2024-03-01T16:22:02.780-0500] {processor.py:157} INFO - Started process (PID=64495) to work on /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/postgres_pipeline.py
+[2024-03-01T16:22:02.786-0500] {processor.py:829} INFO - Processing file /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/postgres_pipeline.py for tasks to queue
+[2024-03-01T16:22:02.787-0500] {logging_mixin.py:154} INFO - [2024-03-01T16:22:02.787-0500] {dagbag.py:536} INFO - Filling up the DagBag from /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/postgres_pipeline.py
+[2024-03-01T16:22:02.839-0500] {processor.py:839} INFO - DAG(s) dict_keys(['postgres_pipeline']) retrieved from /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/postgres_pipeline.py
+[2024-03-01T16:22:02.995-0500] {logging_mixin.py:154} INFO - [2024-03-01T16:22:02.995-0500] {dag.py:2941} INFO - Sync 1 DAGs
+[2024-03-01T16:22:03.016-0500] {logging_mixin.py:154} INFO - [2024-03-01T16:22:03.016-0500] {dag.py:3722} INFO - Setting next_dagrun for postgres_pipeline to None, run_after=None
+[2024-03-01T16:22:03.031-0500] {processor.py:179} INFO - Processing /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/postgres_pipeline.py took 0.254 seconds
+[2024-03-01T16:22:35.086-0500] {processor.py:157} INFO - Started process (PID=64621) to work on /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/postgres_pipeline.py
+[2024-03-01T16:22:35.091-0500] {processor.py:829} INFO - Processing file /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/postgres_pipeline.py for tasks to queue
+[2024-03-01T16:22:35.091-0500] {logging_mixin.py:154} INFO - [2024-03-01T16:22:35.091-0500] {dagbag.py:536} INFO - Filling up the DagBag from /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/postgres_pipeline.py
+[2024-03-01T16:22:35.125-0500] {processor.py:839} INFO - DAG(s) dict_keys(['postgres_pipeline']) retrieved from /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/postgres_pipeline.py
+[2024-03-01T16:22:35.248-0500] {logging_mixin.py:154} INFO - [2024-03-01T16:22:35.248-0500] {dag.py:2941} INFO - Sync 1 DAGs
+[2024-03-01T16:22:35.264-0500] {logging_mixin.py:154} INFO - [2024-03-01T16:22:35.264-0500] {dag.py:3722} INFO - Setting next_dagrun for postgres_pipeline to None, run_after=None
+[2024-03-01T16:22:35.276-0500] {processor.py:179} INFO - Processing /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/postgres_pipeline.py took 0.192 seconds
+[2024-03-01T16:23:07.258-0500] {processor.py:157} INFO - Started process (PID=64736) to work on /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/postgres_pipeline.py
+[2024-03-01T16:23:07.262-0500] {processor.py:829} INFO - Processing file /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/postgres_pipeline.py for tasks to queue
+[2024-03-01T16:23:07.263-0500] {logging_mixin.py:154} INFO - [2024-03-01T16:23:07.263-0500] {dagbag.py:536} INFO - Filling up the DagBag from /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/postgres_pipeline.py
+[2024-03-01T16:23:07.298-0500] {processor.py:839} INFO - DAG(s) dict_keys(['postgres_pipeline']) retrieved from /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/postgres_pipeline.py
+[2024-03-01T16:23:07.426-0500] {logging_mixin.py:154} INFO - [2024-03-01T16:23:07.426-0500] {dag.py:2941} INFO - Sync 1 DAGs
+[2024-03-01T16:23:07.440-0500] {logging_mixin.py:154} INFO - [2024-03-01T16:23:07.440-0500] {dag.py:3722} INFO - Setting next_dagrun for postgres_pipeline to None, run_after=None
+[2024-03-01T16:23:07.452-0500] {processor.py:179} INFO - Processing /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/postgres_pipeline.py took 0.196 seconds
+[2024-03-01T16:23:40.390-0500] {processor.py:157} INFO - Started process (PID=64853) to work on /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/postgres_pipeline.py
+[2024-03-01T16:23:40.393-0500] {processor.py:829} INFO - Processing file /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/postgres_pipeline.py for tasks to queue
+[2024-03-01T16:23:40.394-0500] {logging_mixin.py:154} INFO - [2024-03-01T16:23:40.394-0500] {dagbag.py:536} INFO - Filling up the DagBag from /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/postgres_pipeline.py
+[2024-03-01T16:23:40.438-0500] {processor.py:839} INFO - DAG(s) dict_keys(['postgres_pipeline']) retrieved from /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/postgres_pipeline.py
+[2024-03-01T16:23:40.596-0500] {logging_mixin.py:154} INFO - [2024-03-01T16:23:40.595-0500] {dag.py:2941} INFO - Sync 1 DAGs
+[2024-03-01T16:23:40.615-0500] {logging_mixin.py:154} INFO - [2024-03-01T16:23:40.614-0500] {dag.py:3722} INFO - Setting next_dagrun for postgres_pipeline to None, run_after=None
+[2024-03-01T16:23:40.632-0500] {processor.py:179} INFO - Processing /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/postgres_pipeline.py took 0.245 seconds
+[2024-03-01T16:24:12.690-0500] {processor.py:157} INFO - Started process (PID=64966) to work on /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/postgres_pipeline.py
+[2024-03-01T16:24:12.693-0500] {processor.py:829} INFO - Processing file /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/postgres_pipeline.py for tasks to queue
+[2024-03-01T16:24:12.694-0500] {logging_mixin.py:154} INFO - [2024-03-01T16:24:12.694-0500] {dagbag.py:536} INFO - Filling up the DagBag from /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/postgres_pipeline.py
+[2024-03-01T16:24:12.728-0500] {processor.py:839} INFO - DAG(s) dict_keys(['postgres_pipeline']) retrieved from /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/postgres_pipeline.py
+[2024-03-01T16:24:12.847-0500] {logging_mixin.py:154} INFO - [2024-03-01T16:24:12.847-0500] {dag.py:2941} INFO - Sync 1 DAGs
+[2024-03-01T16:24:12.859-0500] {logging_mixin.py:154} INFO - [2024-03-01T16:24:12.859-0500] {dag.py:3722} INFO - Setting next_dagrun for postgres_pipeline to None, run_after=None
+[2024-03-01T16:24:12.870-0500] {processor.py:179} INFO - Processing /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/postgres_pipeline.py took 0.182 seconds
+[2024-03-01T16:24:46.016-0500] {processor.py:157} INFO - Started process (PID=65075) to work on /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/postgres_pipeline.py
+[2024-03-01T16:24:46.021-0500] {processor.py:829} INFO - Processing file /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/postgres_pipeline.py for tasks to queue
+[2024-03-01T16:24:46.022-0500] {logging_mixin.py:154} INFO - [2024-03-01T16:24:46.022-0500] {dagbag.py:536} INFO - Filling up the DagBag from /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/postgres_pipeline.py
+[2024-03-01T16:24:46.082-0500] {processor.py:839} INFO - DAG(s) dict_keys(['postgres_pipeline']) retrieved from /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/postgres_pipeline.py
+[2024-03-01T16:24:46.243-0500] {logging_mixin.py:154} INFO - [2024-03-01T16:24:46.243-0500] {dag.py:2941} INFO - Sync 1 DAGs
+[2024-03-01T16:24:46.261-0500] {logging_mixin.py:154} INFO - [2024-03-01T16:24:46.261-0500] {dag.py:3722} INFO - Setting next_dagrun for postgres_pipeline to None, run_after=None
+[2024-03-01T16:24:46.273-0500] {processor.py:179} INFO - Processing /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/postgres_pipeline.py took 0.261 seconds
+[2024-03-01T16:25:17.613-0500] {processor.py:157} INFO - Started process (PID=65193) to work on /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/postgres_pipeline.py
+[2024-03-01T16:25:17.616-0500] {processor.py:829} INFO - Processing file /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/postgres_pipeline.py for tasks to queue
+[2024-03-01T16:25:17.617-0500] {logging_mixin.py:154} INFO - [2024-03-01T16:25:17.616-0500] {dagbag.py:536} INFO - Filling up the DagBag from /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/postgres_pipeline.py
+[2024-03-01T16:25:17.652-0500] {processor.py:839} INFO - DAG(s) dict_keys(['postgres_pipeline']) retrieved from /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/postgres_pipeline.py
+[2024-03-01T16:25:17.793-0500] {logging_mixin.py:154} INFO - [2024-03-01T16:25:17.793-0500] {dag.py:2941} INFO - Sync 1 DAGs
+[2024-03-01T16:25:17.808-0500] {logging_mixin.py:154} INFO - [2024-03-01T16:25:17.808-0500] {dag.py:3722} INFO - Setting next_dagrun for postgres_pipeline to None, run_after=None
+[2024-03-01T16:25:17.821-0500] {processor.py:179} INFO - Processing /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/postgres_pipeline.py took 0.210 seconds
+[2024-03-01T16:25:50.158-0500] {processor.py:157} INFO - Started process (PID=65307) to work on /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/postgres_pipeline.py
+[2024-03-01T16:25:50.162-0500] {processor.py:829} INFO - Processing file /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/postgres_pipeline.py for tasks to queue
+[2024-03-01T16:25:50.162-0500] {logging_mixin.py:154} INFO - [2024-03-01T16:25:50.162-0500] {dagbag.py:536} INFO - Filling up the DagBag from /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/postgres_pipeline.py
+[2024-03-01T16:25:50.200-0500] {processor.py:839} INFO - DAG(s) dict_keys(['postgres_pipeline']) retrieved from /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/postgres_pipeline.py
+[2024-03-01T16:25:50.349-0500] {logging_mixin.py:154} INFO - [2024-03-01T16:25:50.348-0500] {dag.py:2941} INFO - Sync 1 DAGs
+[2024-03-01T16:25:50.366-0500] {logging_mixin.py:154} INFO - [2024-03-01T16:25:50.366-0500] {dag.py:3722} INFO - Setting next_dagrun for postgres_pipeline to None, run_after=None
+[2024-03-01T16:25:50.379-0500] {processor.py:179} INFO - Processing /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/postgres_pipeline.py took 0.223 seconds
+[2024-03-01T16:26:22.828-0500] {processor.py:157} INFO - Started process (PID=65414) to work on /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/postgres_pipeline.py
+[2024-03-01T16:26:22.833-0500] {processor.py:829} INFO - Processing file /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/postgres_pipeline.py for tasks to queue
+[2024-03-01T16:26:22.833-0500] {logging_mixin.py:154} INFO - [2024-03-01T16:26:22.833-0500] {dagbag.py:536} INFO - Filling up the DagBag from /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/postgres_pipeline.py
+[2024-03-01T16:26:22.875-0500] {processor.py:839} INFO - DAG(s) dict_keys(['postgres_pipeline']) retrieved from /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/postgres_pipeline.py
+[2024-03-01T16:26:23.049-0500] {logging_mixin.py:154} INFO - [2024-03-01T16:26:23.049-0500] {dag.py:2941} INFO - Sync 1 DAGs
+[2024-03-01T16:26:23.069-0500] {logging_mixin.py:154} INFO - [2024-03-01T16:26:23.069-0500] {dag.py:3722} INFO - Setting next_dagrun for postgres_pipeline to None, run_after=None
+[2024-03-01T16:26:23.083-0500] {processor.py:179} INFO - Processing /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/postgres_pipeline.py took 0.257 seconds
+[2024-03-01T16:26:55.785-0500] {processor.py:157} INFO - Started process (PID=65524) to work on /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/postgres_pipeline.py
+[2024-03-01T16:26:55.790-0500] {processor.py:829} INFO - Processing file /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/postgres_pipeline.py for tasks to queue
+[2024-03-01T16:26:55.791-0500] {logging_mixin.py:154} INFO - [2024-03-01T16:26:55.790-0500] {dagbag.py:536} INFO - Filling up the DagBag from /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/postgres_pipeline.py
+[2024-03-01T16:26:55.834-0500] {processor.py:839} INFO - DAG(s) dict_keys(['postgres_pipeline']) retrieved from /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/postgres_pipeline.py
+[2024-03-01T16:26:55.991-0500] {logging_mixin.py:154} INFO - [2024-03-01T16:26:55.991-0500] {dag.py:2941} INFO - Sync 1 DAGs
+[2024-03-01T16:26:56.007-0500] {logging_mixin.py:154} INFO - [2024-03-01T16:26:56.007-0500] {dag.py:3722} INFO - Setting next_dagrun for postgres_pipeline to None, run_after=None
+[2024-03-01T16:26:56.022-0500] {processor.py:179} INFO - Processing /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/postgres_pipeline.py took 0.240 seconds
+[2024-03-01T16:27:28.313-0500] {processor.py:157} INFO - Started process (PID=65639) to work on /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/postgres_pipeline.py
+[2024-03-01T16:27:28.319-0500] {processor.py:829} INFO - Processing file /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/postgres_pipeline.py for tasks to queue
+[2024-03-01T16:27:28.319-0500] {logging_mixin.py:154} INFO - [2024-03-01T16:27:28.319-0500] {dagbag.py:536} INFO - Filling up the DagBag from /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/postgres_pipeline.py
+[2024-03-01T16:27:28.353-0500] {processor.py:839} INFO - DAG(s) dict_keys(['postgres_pipeline']) retrieved from /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/postgres_pipeline.py
+[2024-03-01T16:27:28.483-0500] {logging_mixin.py:154} INFO - [2024-03-01T16:27:28.483-0500] {dag.py:2941} INFO - Sync 1 DAGs
+[2024-03-01T16:27:28.499-0500] {logging_mixin.py:154} INFO - [2024-03-01T16:27:28.499-0500] {dag.py:3722} INFO - Setting next_dagrun for postgres_pipeline to None, run_after=None
+[2024-03-01T16:27:28.511-0500] {processor.py:179} INFO - Processing /Users/venkatasaisabbineni/Desktop/Airflow_local/dags/postgres_pipeline.py took 0.199 seconds

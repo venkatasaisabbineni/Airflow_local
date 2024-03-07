@@ -1,0 +1,25 @@
+[2024-02-26T06:12:29.123-0500] {taskinstance.py:1159} INFO - Dependencies all met for dep_context=non-requeueable deps ti=<TaskInstance: postgres_pipeline.filtering_customers manual__2024-02-26T11:12:20.813540+00:00 [queued]>
+[2024-02-26T06:12:29.128-0500] {taskinstance.py:1159} INFO - Dependencies all met for dep_context=requeueable deps ti=<TaskInstance: postgres_pipeline.filtering_customers manual__2024-02-26T11:12:20.813540+00:00 [queued]>
+[2024-02-26T06:12:29.128-0500] {taskinstance.py:1361} INFO - Starting attempt 1 of 1
+[2024-02-26T06:12:29.133-0500] {taskinstance.py:1382} INFO - Executing <Task(PostgresOperator): filtering_customers> on 2024-02-26 11:12:20.813540+00:00
+[2024-02-26T06:12:29.136-0500] {standard_task_runner.py:57} INFO - Started process 79420 to run task
+[2024-02-26T06:12:29.139-0500] {standard_task_runner.py:84} INFO - Running: ['airflow', 'tasks', 'run', 'postgres_pipeline', 'filtering_customers', 'manual__2024-02-26T11:12:20.813540+00:00', '--job-id', '25', '--raw', '--subdir', 'DAGS_FOLDER/postgres_pipeline.py', '--cfg-path', '/var/folders/0j/ct19m_4d33qfzqs3tkf7s7rm0000gq/T/tmp66ncqc13']
+[2024-02-26T06:12:29.140-0500] {standard_task_runner.py:85} INFO - Job 25: Subtask filtering_customers
+[2024-02-26T06:12:29.159-0500] {task_command.py:416} INFO - Running <TaskInstance: postgres_pipeline.filtering_customers manual__2024-02-26T11:12:20.813540+00:00 [running]> on host venkatasaismbp.mynetworksettings.com
+[2024-02-26T06:12:29.186-0500] {taskinstance.py:1662} INFO - Exporting env vars: AIRFLOW_CTX_DAG_OWNER='Venkata' AIRFLOW_CTX_DAG_ID='postgres_pipeline' AIRFLOW_CTX_TASK_ID='filtering_customers' AIRFLOW_CTX_EXECUTION_DATE='2024-02-26T11:12:20.813540+00:00' AIRFLOW_CTX_TRY_NUMBER='1' AIRFLOW_CTX_DAG_RUN_ID='manual__2024-02-26T11:12:20.813540+00:00'
+[2024-02-26T06:12:29.186-0500] {sql.py:274} INFO - Executing: 
+            SELECT name, product, price
+            FROM complete_customer_details
+            WHERE price BETWEEN %(lower_bound)s AND %(upper_bound)s
+        
+[2024-02-26T06:12:29.188-0500] {base.py:73} INFO - Using connection ID 'postgres_connection' for task execution.
+[2024-02-26T06:12:29.272-0500] {base.py:73} INFO - Using connection ID 'postgres_connection' for task execution.
+[2024-02-26T06:12:29.306-0500] {sql.py:418} INFO - Running statement: 
+            SELECT name, product, price
+            FROM complete_customer_details
+            WHERE price BETWEEN %(lower_bound)s AND %(upper_bound)s
+        , parameters: {'lower_bound': 5, 'upper_bound': 9}
+[2024-02-26T06:12:29.307-0500] {sql.py:427} INFO - Rows affected: 9
+[2024-02-26T06:12:29.314-0500] {taskinstance.py:1400} INFO - Marking task as SUCCESS. dag_id=postgres_pipeline, task_id=filtering_customers, execution_date=20240226T111220, start_date=20240226T111229, end_date=20240226T111229
+[2024-02-26T06:12:29.332-0500] {local_task_job_runner.py:228} INFO - Task exited with return code 0
+[2024-02-26T06:12:29.339-0500] {taskinstance.py:2778} INFO - 0 downstream tasks scheduled from follow-on schedule check
